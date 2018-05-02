@@ -1,5 +1,5 @@
 # This is the README File for the Pan-Canadian Trust Framework
-More information can be found on [GCcollab](https://gccollab.ca)
+
 The Pan-Canadian Trust Framework is how we will formalize the approval and acceptance of a “trusted digital identity.”
 
 ![alt text](./pctf-overview.jpg "Pan-Canadian Trust Framework")
@@ -20,3 +20,5 @@ Today, we are focusing on the most important and most impactful use cases first:
 It is important that we get this right as it will set the stage for how we deliver services to Canadians. With an eye to the future, we are watching the emerging platforms, such as blockchain and digital wallets. The trust framework is focused on the integrity of identity management business processes, but it will also ensure technical interoperability within a larger ecosystem using today’s platforms and platforms of the future.
 
 To conclude, the goal of the trust framework is simple — Canadians should be able to access any service from any level of government through any platform without worrying about their security and privacy.
+
+More information can be found on [GCcollab](https://gccollab.ca)
