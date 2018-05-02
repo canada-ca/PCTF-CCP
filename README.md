@@ -1,4 +1,4 @@
-# This is the README File for the Pan-Canadian Trust Framework
+# README File for the Pan-Canadian Trust Framework
 
 The Pan-Canadian Trust Framework is how we will formalize the approval and acceptance of a “trusted digital identity.”
 
