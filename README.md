@@ -11,4 +11,4 @@ A trusted digital identity will be formally accepted using the [Digital Identity
 More information on the Pan-Canadian Trust Framework can be found at the following sites:
 
 * [DIACC](https://diacc.ca)
-* [GCcollab](https://gccollab.ca) - (registration is required for this site)
+* [GCcollab](https://gccollab.ca) Registration is required for this site.
