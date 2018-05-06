@@ -6,7 +6,8 @@ An assessment document is being developed on [Google Docs](https://docs.google.c
 
 For the Pan-Canadian Trust Framework, a digital identity acceptance statement will be based on the assessment of trusted processes using the trust objectives defined below. These trust objectives will have an associated set of conformance criteria that define the necessary stringency for acceptance.
 
-## Verified-Person:
+## Verified-Person
+
   * Person is uniquely distinguished within a population
   * Person is a real person.
   * Personal information is correct according to authority
@@ -14,25 +15,31 @@ For the Pan-Canadian Trust Framework, a digital identity acceptance statement wi
   * Personal information is up to date.
 
 ## Verified-Login
+
   * Returning user is same as initial user
   * Returning user has exclusive control (token, key, secret, etc.)
   * Returning user is living person.
 
 ## Identity-Registration
+
 ### Confirmation
+
     * Presenting person is same as verified person
     * Presenting person is same as returning user
     * Presenting person is living person
     * Personal information is consistent with authoritative information
 
 ### Notice-Consent
+
     * Presenting person has been given notice
     * Presenting person has provided consent
 
 ### Binding
+
    * Established link between presenting person, returning user and, issued digital identity
 
 ## Trusted-Infrastructure
+
  * Privacy and Security
  * Digital Service Delivery
  * Federation and Interoperabilty
