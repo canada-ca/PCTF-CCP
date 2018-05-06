@@ -2,9 +2,9 @@
 
 The goal of this project is to develop a formalized assessment, approval and accceptance process for a “trusted digital identity.” for use by public sector program and services. As this process evolves, digital identies from other frameworks will be accepted, including the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
 
-![alt text](./pctf-overview.jpg "Pan-Canadian Trust Framework")
+![alt text](./overview/pctf-overview.jpg "Pan-Canadian Trust Framework")
 
-* An overview of the [Pan-Canadian Trust Framework](./pctf-overview.md)
+* An overview of the [Pan-Canadian Trust Framework](./overview/pctf-overview.md)
 
 A trusted digital identity will be formally accepted using the [Digital Identity Acceptance Statement](./assessment/digital-identity-acceptance-statement.md). Follow the link for a working draft.
 
