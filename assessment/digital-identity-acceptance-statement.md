@@ -19,18 +19,18 @@ For the Pan-Canadian Trust Framework, a digital identity acceptance statement wi
   * Returning user is living person.
 
 ## Identity-Registration
- ### Confirmation
+### Confirmation
     * Presenting person is same as verified person
     * Presenting person is same as returning user
     * Presenting person is living person
     * Personal information is consistent with authoritative information
 
- ### Notice-Consent
+### Notice-Consent
     * Presenting person has been given notice
     * Presenting person has provided consent
 
- ### Binding
-   * Establishedlink between presenting person and returning user
+### Binding
+   * Established link between presenting person, returning user and, issued digital identity
 
 ## Trusted-Infrastructure
  * Privacy and Security
