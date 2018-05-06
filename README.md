@@ -6,6 +6,8 @@ The goal of this project is to develop a formalized assessment, approval and acc
 
 * An overview of the [Pan-Canadian Trust Framework](./pctf-overview.md)
 
+A trusted digital identity will be formally accepted using the Digital Identity Acceptance Statement. A working draft is found [here](./assessment/digital-idenity-acceptance-statement.md)
+
 More information on the Pan-Canadian Trust Framework can be found at the following sites:
 
 * [DIACC](https://diacc.ca)
