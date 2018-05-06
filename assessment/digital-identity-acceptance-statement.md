@@ -19,7 +19,7 @@ Below, is a draft outline of the digital identity acceptance statement.
 ## Verified-Login
 
   * Returning user is same as initial user.
-  * Returning user has exclusive control (token, key, secret, etc.)
+  * Returning user has exclusive control of token, key, secret, etc.
   * Returning user is living person.
 
 ## Identity-Registration
