@@ -1,9 +1,10 @@
 # Digital Identity Acceptance Statement
 
-Digital Identity Acceptance statment is based on the concept introduced in [NIST Digital Identity Section 5.5](https://pages.nist.gov/800-63-3/sp800-63-3.html#daps)
+A Digital Identity Acceptance statement is based on the concept introduced in [NIST Digital Identity Section 5.5](https://pages.nist.gov/800-63-3/sp800-63-3.html#daps)
 
 An assessment document is being developed on [Google Docs](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing)
 
+For the Pan-Canadian Trust Framework, a digital identity acceptance statement will be based on the assessment of trusted processes using the trust objectives defined below. These trust objectives will have an associated set of conformance criteria that define the necessary stringency for acceptance. 
 
 ## Verified-Person:
   * Person is uniquely distinguished within a population
