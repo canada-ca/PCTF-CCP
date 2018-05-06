@@ -12,4 +12,4 @@ More information on the Pan-Canadian Trust Framework can be found at the followi
 
 * [DIACC](https://diacc.ca)
 * [GCcollab](https://gccollab.ca) Registration is required for this site.
-* [Trust Services and eID] (https://ec.europa.eu/digital-single-market/en/trust-services-and-eid)
+* [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid)
