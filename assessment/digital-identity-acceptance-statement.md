@@ -21,6 +21,8 @@ NOTE: The following is a **draft outline** of the digital identity acceptance st
   * Returning user is same as initial user.
   * Returning user has exclusive control of token, key, secret, etc.
   * Returning user is living person.
+  * Activity monitoring
+  * Fraud Detection
 
 ## Identity-Registration
 Identity Registration is a composite component of three sub-components: Confirmation, Notice-Consent, and Binding.
