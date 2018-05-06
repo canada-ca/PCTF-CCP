@@ -1,13 +1,12 @@
 # PAN-CANADIAN TRUST FRAMEWORK ALPHA TESTING AND ASSESSMENT
 
-This project alpha tests the Pan-Canadian Trust Framework and develops the formalized assessment and approval process for the acceptance of a “trusted digital identity.”
+The goal of this project is to develop a formalized assessment, approval and accceptance process for a “trusted digital identity.” for use by public sector program and services.
 
-* An overview of the Pan-Canadian Trust Framework is found in the project [pctf-overview.md](./pctf-overview.md)
+![alt text](./pctf-overview.jpg "Pan-Canadian Trust Framework")
+
+* An overview of the [Pan-Canadian Trust Framework](./pctf-overview.md)
 
 More information on the Pan-Canadian Trust Framework can be found at the following sites:
 
 * [DIACC](https://diacc.ca)
-* [GCcollab](https://gccollab.ca)
-
-
-![alt text](./pctf-overview.jpg "Pan-Canadian Trust Framework")
+* [GCcollab](https://gccollab.ca) - (registration is required for this site)
