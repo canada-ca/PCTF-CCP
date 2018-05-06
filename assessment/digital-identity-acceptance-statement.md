@@ -5,19 +5,19 @@ Digital Identity Acceptance statment is based on the concept introduced in [NIST
 An assessment document is being developed on [Google Docs](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing)
 
 
-##Verified Person:
+##Verified-Person:
   * Person is uniquely distinguished within a population
   * Person is a real person.
   * Personal information is correct according to authority
   * Personal information is attributed to the right person.
   * Personal information is up to date.
 
-##Verified Login
+##Verified-Login
   * Returning user is same as initial user
   * Returning user has exclusive control (token, key, secret, etc.)
   * Returning user is living person.
 
-##Identity Registration
+##Identity-Registration
  ### Confirmation
     * Presenting person is same as verified person
     * Presenting person is same as returning user
@@ -31,7 +31,7 @@ An assessment document is being developed on [Google Docs](https://docs.google.c
  ### Binding
    * Establishedlink between presenting person and returning user
 
-## Trusted Infrasturce
+## Trusted-Infrastructure
  * Privacy and Security
  * Digital Service Delivery
  * Federation and Interoperabilty
