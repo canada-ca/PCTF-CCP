@@ -6,7 +6,7 @@ A Digital Identity Acceptance statement is based on the concept introduced in [N
 
 An assessment document is being developed on [Google Docs](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing)
 
-Below, is a draft outline of the digital identity acceptance statement.
+NOTE: The following is a **draft outline** of the digital identity acceptance statement. It reflects current thinking and it is evolving as more work is performed.
 
 ## Verified-Person
 
