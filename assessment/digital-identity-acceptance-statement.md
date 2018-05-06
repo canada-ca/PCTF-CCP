@@ -10,38 +10,38 @@ NOTE: The following is a **draft outline** of the digital identity acceptance st
 
 ## Verified-Person
 
-  * Person is uniquely distinguished within a population
-  * Person is a real person.
-  * Personal information is correct according to authority.
-  * Personal information is attributed to the right person.
-  * Personal information is up to date.
+* Person is uniquely distinguished within a population
+* Person is a real person.
+* Personal information is correct according to authority.
+* Personal information is attributed to the right person.
+* Personal information is up to date.
 
 ## Verified-Login
 
-  * Returning user is same as initial user.
-  * Returning user has exclusive control of token, key, secret, etc.
-  * Returning user is living person.
-  * Activity monitoring.
-  * Fraud Detection.
+* Returning user is same as initial user.
+* Returning user has exclusive control of token, key, secret, etc.
+* Returning user is living person. 
+* Activity monitoring.
+* Fraud Detection.
 
 ## Identity-Registration
 Identity Registration is a composite component of three sub-components: Confirmation, Notice-Consent, and Binding.
 
 ### Confirmation
 
-  * Presenting person is same as Verified-Person.
-  * Presenting person is same as Verfied-Login.
-  * Presenting person is living person.
-  * Personal information is consistent with authoritative information.
+* Presenting person is same as Verified-Person.
+* Presenting person is same as Verfied-Login.
+* Presenting person is living person.
+* Personal information is consistent with authoritative information.
 
 ### Notice-Consent
 
-  * Presenting person has been given notice.
-  * Presenting person has provided consent.
+* Presenting person has been given notice.
+* Presenting person has provided consent.
 
 ### Binding
 
-   * Established link between presenting person, returning user and, issued digital identity.
+* Established link between presenting person, returning user and, issued digital identity.
 
 ## Trusted-Infrastructure
 to be completed
