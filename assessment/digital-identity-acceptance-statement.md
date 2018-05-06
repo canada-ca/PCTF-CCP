@@ -23,24 +23,24 @@ For the Pan-Canadian Trust Framework, a digital identity acceptance statement wi
 ## Identity-Registration
 Identity Registration is a composite component of three sub-components: Confirmation, Notice-Consent, and Binding.
 
-## Confirmation
+### Confirmation
 
-    * Presenting person is same as verified person
-    * Presenting person is same as returning user
-    * Presenting person is living person
-    * Personal information is consistent with authoritative information
+  * Presenting person is same as verified person
+  * Presenting person is same as returning user
+  * Presenting person is living person
+  * Personal information is consistent with authoritative information
 
-## Notice-Consent
+### Notice-Consent
 
-    * Presenting person has been given notice
-    * Presenting person has provided consent
+  * Presenting person has been given notice
+  * Presenting person has provided consent
 
-## Binding
+### Binding
 
    * Established link between presenting person, returning user and, issued digital identity
 
 ## Trusted-Infrastructure
 
- * Privacy and Security
- * Digital Service Delivery
- * Federation and Interoperabilty
+  * Privacy and Security
+  * Digital Service Delivery
+  * Federation and Interoperabilty
