@@ -2,7 +2,7 @@
 
 For the Pan-Canadian Trust Framework, a digital identity acceptance statement will be based on the assessment of trusted processes using the trust objectives defined below. These trust objectives will have an associated set of conformance criteria that define the necessary stringency for acceptance.
 
-A Digital Identity Acceptance Statement is based on the concept introduced in [NIST Digital Identity Guidelines Section 5.5](https://pages.nist.gov/800-63-3/sp800-63-3.html#daps) and adapted for the purposes of the Pan-Canadian Trust Framework.
+A **Digital Identity Acceptance Statement** is based on the concept introduced in [NIST Digital Identity Guidelines Section 5.5](https://pages.nist.gov/800-63-3/sp800-63-3.html#daps) and adapted for the purposes of the Pan-Canadian Trust Framework.
 
 For the Government of Canada context, the digtial identity acceptance statement must demonstrate compliance with the following requirements:
 
