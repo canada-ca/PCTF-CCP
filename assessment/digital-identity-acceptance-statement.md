@@ -2,7 +2,20 @@
 
 For the Pan-Canadian Trust Framework, a digital identity acceptance statement will be based on the assessment of trusted processes using the trust objectives defined below. These trust objectives will have an associated set of conformance criteria that define the necessary stringency for acceptance.
 
-A Digital Identity Acceptance statement is based on the concept introduced in [NIST Digital Identity Guidelines Section 5.5](https://pages.nist.gov/800-63-3/sp800-63-3.html#daps) and adapted for the purposes of the Pan-Canadian Trust Framework.
+A Digital Identity Acceptance Statement is based on the concept introduced in [NIST Digital Identity Guidelines Section 5.5](https://pages.nist.gov/800-63-3/sp800-63-3.html#daps) and adapted for the purposes of the Pan-Canadian Trust Framework.
+
+For the Government of Canada context, the digtial identity acceptance statement must demonstrate compliance with the following requirements:
+
+''''
+4.1.7	Accepting trusted digital identities provided through an approved trust framework as an equivalent alternative to in-person interactions through an assessment of the following processes:
+4.1.7.1.	Identity and program-specific information – definition of the set of attributes that is sufficient to distinguish unique and particular individuals and additional personal information required for the purposes of program administration or service delivery.
+4.1.7.2.	Identity assurance, Credential assurance as outlined in the Standard on Identity and Credential Assurance. 
+4.1.7.3.	Identity registration – association of identity and personal information with a credential issued to an individual.
+4.1.7.4.	Notice and consent – provision of notice or obtaining the individual's consent to lawfully collect, use and disclose identity information and related program-specific information, as this information relates to the individual’s use of the credentials that have been entrusted to them. 
+4.1.8	Consulting the Chief Information Officer for the Government of Canada when establishing federating identity agreements or adopting trust frameworks; and
+4.1.9	Using mandatory enterprise services for identity management, credential management and cyber authentication. 
+''''
+
 
 An [draft assessment workbook](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing) is being developed on [Google Docs](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing)
 
