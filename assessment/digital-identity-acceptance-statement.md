@@ -58,9 +58,9 @@ to be completed
 ## Federation and Interoperabilty
 to be completed
 
-##Government of Canada Requirements
+# Government of Canada Requirements
 
-For the Government of Canada context, the digtial identity acceptance statement must demonstrate compliance with the following requirements:
+For the Government of Canada context, the digtial identity acceptance statement must demonstrate compliance with the following requirements specified in the Directive on Identity Management:
 
 * 4.1.7	Accepting trusted digital identities provided through an approved trust framework as an equivalent alternative to in-person interactions through an assessment of the following processes:
 
