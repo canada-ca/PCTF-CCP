@@ -4,7 +4,7 @@ For the Pan-Canadian Trust Framework, a digital identity acceptance statement wi
 
 A Digital Identity Acceptance statement is based on the concept introduced in [NIST Digital Identity Guidelines Section 5.5](https://pages.nist.gov/800-63-3/sp800-63-3.html#daps) and adapted for the purposes of the Pan-Canadian Trust Framework.
 
-An draft assessment workbook is being developed on [Google Docs](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing)
+An [draft assessment workbook](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing) is being developed on [Google Docs](https://docs.google.com/document/d/1tYWZN9_Z1TacDSojZSSLt8r6JoWvqw5bKNTR85FhIJA/edit?usp=sharing)
 
 NOTE: The following is a **draft outline** of the digital identity acceptance statement. It reflects current thinking and it is evolving as more work is performed.
 
