@@ -9,6 +9,7 @@ An draft assessment workbook is being developed on [Google Docs](https://docs.go
 NOTE: The following is a **draft outline** of the digital identity acceptance statement. It reflects current thinking and it is evolving as more work is performed.
 
 ## Verified-Person
+Verified Person ensures that a person is real, exists, and is claim their own personal information.
 
 * Person is uniquely distinguished within a population
 * Person is a real person.
@@ -17,6 +18,7 @@ NOTE: The following is a **draft outline** of the digital identity acceptance st
 * Personal information is up to date.
 
 ## Verified-Login
+Verified Login ensures that a user has control over what has been issued to, or registered for use in an authentication, login or sign in process.
 
 * Returning user is same as initial user.
 * Returning user has exclusive control of token, key, secret, etc.
@@ -25,6 +27,7 @@ NOTE: The following is a **draft outline** of the digital identity acceptance st
 * Fraud Detection.
 
 ## Identity-Registration
+Identity Registration ensures that a presenting person is correctly associated with the right Verified Person and Verified Login.
 Identity Registration is a composite component of three sub-components: Confirmation, Notice-Consent, and Binding.
 
 ### Confirmation
