@@ -36,6 +36,7 @@ Identity Registration is a composite component of three sub-components: Confirma
 * Presenting person is same as Verfied-Login.
 * Presenting person is living person.
 * Personal information is consistent with authoritative information.
+* Risk-based decision support
 
 ### Notice-Consent
 
