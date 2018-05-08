@@ -1,11 +1,11 @@
 # DIGITAL IDENTITY ACCEPTANCE
 
-![alt text](./images/this-is-me.png "This is me.")
-
-
 ## GOAL
 
 The goal of this project is to develop a formalized assessment, approval and accceptance process for a “trusted digital identity.” for use by public sector program and services. As this process evolves, digital identies from other frameworks will be accepted, including the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
+
+![alt text](./images/this-is-me.png "This is me.")
+
 
 ## PAN-CANADIAN TRUST FRAMEWORK ALPHA TESTING AND ASSESSMENT
 
