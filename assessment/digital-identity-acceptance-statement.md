@@ -22,7 +22,7 @@ Verified Login ensures that a user has control over what has been issued to, or 
 
 * Returning user is same as initial user.
 * Returning user has exclusive control of token, key, secret, etc.
-* Returning user is living person. 
+* Returning user is living person.
 * Activity monitoring.
 * Fraud Detection.
 
@@ -60,21 +60,18 @@ to be completed
 
 # Government of Canada Requirements
 
-For the Government of Canada context, the digtial identity acceptance statement must demonstrate compliance with the following requirements specified in the Directive on Identity Management:
+For the Government of Canada context, the digital identity acceptance statement must demonstrate compliance with the following requirements specified in the Directive on Identity Management:
 
 * 4.1.7	Accepting trusted digital identities provided through an approved trust framework as an equivalent alternative to in-person interactions through an assessment of the following processes:
 
 * 4.1.7.1.	Identity and program-specific information – definition of the set of attributes that is sufficient to distinguish unique and particular individuals and additional personal information required for the purposes of program administration or service delivery.
 
-* 4.1.7.2.	Identity assurance, Credential assurance as outlined in the Standard on Identity and Credential Assurance. 
+* 4.1.7.2.	Identity assurance, Credential assurance as outlined in the Standard on Identity and Credential Assurance.
 
 * 4.1.7.3.	Identity registration – association of identity and personal information with a credential issued to an individual.
 
-* 4.1.7.4.	Notice and consent – provision of notice or obtaining the individual's consent to lawfully collect, use and disclose identity information and related program-specific information, as this information relates to the individual’s use of the credentials that have been entrusted to them. 
+* 4.1.7.4.	Notice and consent – provision of notice or obtaining the individual's consent to lawfully collect, use and disclose identity information and related program-specific information, as this information relates to the individual’s use of the credentials that have been entrusted to them.
 
 * 4.1.8	Consulting the [Chief Information Officer](https://twitter.com/alexbenay) for the Government of Canada when establishing federating identity agreements or adopting trust frameworks; and
 
-* 4.1.9	Using mandatory enterprise services for identity management, credential management and cyber authentication. 
-
-
-
+* 4.1.9	Using mandatory enterprise services for identity management, credential management and cyber authentication.
