@@ -17,7 +17,7 @@ Verified Person ensures that a person is real, exists, and is claim their own pe
 * Personal information is attributed to the right person.
 * Personal information is up to date.
 
-[Verified Person Accepance Policy](./verified-person-acceptance-policy.md)
+[Verified Person Acceptance Policy](./verified-person-acceptance-policy.md)
 
 
 ## Verified-Login
