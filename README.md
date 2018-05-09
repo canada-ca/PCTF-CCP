@@ -7,12 +7,15 @@ The goal of this project is to develop a formalized assessment, approval and acc
 ![alt text](./images/this-is-me.png "This is me.")
 
 
-## Pan-Canadian Trust Framework Alpha Testing and Assessment
+## Digital Identity Alpha Testing and Acceptance
+
+A trusted digital identity will be formally accepted using the [Digital Identity Acceptance Statement](./assessment/digital-identity-acceptance-statement.md) which is currently in draft.
+
+Acceptance will be based on the **Pan-Canadian Trust Framework**
 
 ![alt text](./overview/pctf-overview.jpg "Pan-Canadian Trust Framework")
 
 * Read the short overview of the [Pan-Canadian Trust Framework](./overview/pctf-overview.md)
 
-A trusted digital identity will be formally accepted using the [Digital Identity Acceptance Statement](./assessment/digital-identity-acceptance-statement.md) which is currently in draft.
 
 To learn more about the Pan-Canadian Trust Framework visit the Digital ID & Authentication Council of Canada [DIACC](https://diacc.ca)and [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid). To join us in collaborating register for [GCcollab](https://gccollab.ca) and join the group [here](https://gccollab.ca/bookmarks/group/6910/all).
