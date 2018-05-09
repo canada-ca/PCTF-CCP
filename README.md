@@ -15,4 +15,4 @@ The goal of this project is to develop a formalized assessment, approval and acc
 
 A trusted digital identity will be formally accepted using the [Digital Identity Acceptance Statement](./assessment/digital-identity-acceptance-statement.md) which is currently in draft.
 
-To learn more about the Pan-Canadian Trust Framework visit the Digital ID & Authentication Council of Canada [DIACC](https://diacc.ca)and [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid). To join us in collaborating register for [GCcollab](https://gccollab.ca) and join the group [here](https://gccollab.ca/bookmarks/group/6910/all)].
+To learn more about the Pan-Canadian Trust Framework visit the Digital ID & Authentication Council of Canada [DIACC](https://diacc.ca)and [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid). To join us in collaborating register for [GCcollab](https://gccollab.ca) and join the group [here](https://gccollab.ca/bookmarks/group/6910/all).
