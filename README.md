@@ -1,22 +1,18 @@
-# TRUST FRAMEWORK DIGITAL IDENTITY ACCEPTANCE
+# Trust Framework Digital Identity Acceptance
 
-## GOAL
+## Goal
 
-The goal of this project is to develop a formalized assessment, approval and accceptance process for a “trusted digital identity.” for use by public sector program and services. As this process evolves, digital identities from other frameworks will be accepted, including the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
+The goal of this project is to develop a formalized assessment, approval and accceptance process for a trusted digital identity for use by public sector programs and services. As this process evolves, digital identities from other frameworks will be accepted, including the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
 
 ![alt text](./images/this-is-me.png "This is me.")
 
 
-## PAN-CANADIAN TRUST FRAMEWORK ALPHA TESTING AND ASSESSMENT
+## Pan-Canadian Trust Framework Alpha Testing and Assessment
 
 ![alt text](./overview/pctf-overview.jpg "Pan-Canadian Trust Framework")
 
-* An overview of the [Pan-Canadian Trust Framework](./overview/pctf-overview.md)
+* Read the short overview of the [Pan-Canadian Trust Framework](./overview/pctf-overview.md)
 
-A trusted digital identity will be formally accepted using the [Digital Identity Acceptance Statement](./assessment/digital-identity-acceptance-statement.md). Follow the link for a working draft.
+A trusted digital identity will be formally accepted using the [Digital Identity Acceptance Statement](./assessment/digital-identity-acceptance-statement.md) which is currently in draft. 
 
-More information on the Pan-Canadian Trust Framework can be found at the following sites:
-
-* [DIACC](https://diacc.ca)
-* [GCcollab](https://gccollab.ca) Registration is required for this site.
-* [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid)
+To learn more about the Pan-Canadian Trust Framework visit the Digital ID & Authentication Council of Canada [DIACC](https://diacc.ca)and [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid). To join us in collaborating register for [GCcollab](https://gccollab.ca) and join the group X.
