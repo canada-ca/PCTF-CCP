@@ -11,11 +11,23 @@ NOTE: The following is a **draft outline** of the digital identity acceptance st
 ## Verified-Person
 Verified Person ensures that a person is real, exists, and is claim their own personal information.
 
+### Control Objectives
+
 * Person is uniquely distinguished within a population
 * Person is a real person.
 * Personal information is correct according to authority.
 * Personal information is attributed to the right person.
 * Personal information is up to date.
+
+### Trusted Processes
+* Identity Resolution
+* Identity Establishment (Foundational)
+* Identity Issuance (Foundational)
+* Identity Establishment (Supporting)
+* Identity Issuance (Supporting)
+* Identity Validation
+* Identity Verification
+* Identity Maintenance
 
 [Verified Person Acceptance Policy](./verified-person-acceptance-policy.md)
 
@@ -23,32 +35,39 @@ Verified Person ensures that a person is real, exists, and is claim their own pe
 ## Verified-Login
 Verified Login ensures that a user has control over what has been issued to, or registered for use in an authentication, login or sign in process.
 
+### Control Objectives
+
 * Returning user is same as initial user.
 * Returning user has exclusive control of token, key, secret, etc.
 * Returning user is living person.
 * Activity monitoring.
 * Fraud Detection.
 
-## Identity-Registration
+### Trusted Processes
+
+
+## Identity Registration
 Identity Registration ensures that a presenting person is correctly associated with the right Verified Person and Verified Login.
 Identity Registration is a composite component of three sub-components: Confirmation, Notice-Consent, and Binding.
 
-### Confirmation
+### Confirmation and Binding
+#### Control Objectives
 
 * Presenting person is same as Verified-Person.
 * Presenting person is same as Verfied-Login.
 * Presenting person is living person.
 * Personal information is consistent with authoritative information.
+* Established link between presenting person, returning user and, issued digital identity.
 * Risk-based decision support
 
 ### Notice-Consent
+#### Control Objectives
 
 * Presenting person has been given notice.
 * Presenting person has provided consent.
 
-### Binding
 
-* Established link between presenting person, returning user and, issued digital identity.
+
 
 ## Trusted-Infrastructure
 to be completed
