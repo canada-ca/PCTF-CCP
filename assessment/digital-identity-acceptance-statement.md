@@ -19,7 +19,7 @@ Verified Person ensures that a person is real, exists, and is claim their own pe
 * Personal information is attributed to the right person.
 * Personal information is up to date.
 
-### Trusted Processes
+### Verfied Person Trusted Processes
 * Identity Resolution
 * Identity Establishment (Foundational)
 * Identity Issuance (Foundational)
@@ -32,7 +32,7 @@ Verified Person ensures that a person is real, exists, and is claim their own pe
 [Verified Person Acceptance Policy](./verified-person-acceptance-policy.md)
 
 
-## Verified-Login
+## Verified Login
 Verified Login ensures that a user has control over what has been issued to, or registered for use in an authentication, login or sign in process.
 
 ### Control Objectives
@@ -43,7 +43,9 @@ Verified Login ensures that a user has control over what has been issued to, or 
 * Activity monitoring.
 * Fraud Detection.
 
-### Trusted Processes
+### Verified Login Trusted Processes
+* To add
+* To add
 
 
 ## Identity Registration
