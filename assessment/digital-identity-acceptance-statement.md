@@ -9,7 +9,7 @@ An [draft assessment workbook](https://docs.google.com/document/d/1tYWZN9_Z1TacD
 NOTE: The following is a **draft outline** of the digital identity acceptance statement. It reflects current thinking and it is evolving as more work is performed.
 
 ## Verified-Person
-Verified Person ensures that a person is real, exists, and is claim their own personal information.
+Verified Person ensures that a person is real, exists, and is claiming their own personal information.
 
 ### Control Objectives
 
