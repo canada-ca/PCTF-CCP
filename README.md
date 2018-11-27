@@ -1,7 +1,6 @@
 # Trust Framework Digital Identity Acceptance
 
-## Goal
-
+## Project Goal
 
 The goal of this project is to develop a formalized assessment, approval and accceptance process for a trusted digital identity accepted through the Pan-Canadian Trust Framework for use by public sector programs and services. As this process evolves, digital identities from other frameworks will be accepted, including the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
 
