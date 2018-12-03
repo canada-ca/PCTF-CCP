@@ -7,11 +7,6 @@ The goal of this project is to develop a formalized assessment, approval and acc
 ![alt text](./images/this-is-me.png "This is me.")
 
 
-## Digital Identity Alpha Testing and Acceptance
-
-A trusted digital identity will be formally accepted using the [Digital Identity Acceptance Statement](./assessment/digital-identity-acceptance-statement.md) which is currently in draft.
-
-Acceptance will be based on the **Pan-Canadian Trust Framework**
 
 ![alt text](./overview/pctf-overview.jpg "Pan-Canadian Trust Framework")
 
