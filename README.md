@@ -1,4 +1,4 @@
-# Trust Framework Digital Identity Acceptance
+# Pan-Canadian Trust Framework | Cadre de Confiance pancanadien
 
 ## Project Goal
 
