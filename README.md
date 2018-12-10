@@ -2,7 +2,7 @@
 
 ## Overview
 
- The Pan-Canadian Trust Framework is designed for use by public and private sector services within the Canadian context. As the framework evolves, digital identities from other countries will be accepted, such as the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
+The Pan-Canadian Trust Framework is designed for use by public and private sector services within the Canadian context. As the framework evolves, digital identities from other countries will be accepted, such as the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
 
 ![alt text](./images/this-is-me.png "This is me.")
 
