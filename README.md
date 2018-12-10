@@ -17,3 +17,6 @@ For a more complete overview of the Pan-Canadian Trust Framework, please visit t
 
 
 To join us in collaborating, please register at [GCcollab](https://gccollab.ca) and join the group [here](https://gccollab.ca/bookmarks/group/6910/all).
+
+The most recent discussion slides can be found on
+[PCTF Beta Version Google Slides](https://docs.google.com/presentation/d/1BI3HuvluE_nd7k3hqeLIX6L7sQFtoGrjO07TFl0iZGo/edit?usp=sharing)
