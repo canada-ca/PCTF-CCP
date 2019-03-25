@@ -2,8 +2,11 @@
 
 ## Overview
 
-The most recent discussion slides can be found here:
-[PCTF Beta Version Google Slides](https://docs.google.com/presentation/d/1BI3HuvluE_nd7k3hqeLIX6L7sQFtoGrjO07TFl0iZGo/edit?usp=sharing)
+The most recent draft document (2019-03-21) can be found here:
+[Pan-Canadian Trust Framework](https://drive.google.com/open?id=1P8kFJZfUV7PX25KEkZKk0XftrqqQp9FI)
+
+The most recent discussion slides (2019-03-19) can be found here:
+[PCTF Beta Version Google Slides](https://drive.google.com/open?id=1TmSYdxiujIN7G8AAW52CsYwf59tMSkWtn7jak-VGHng)
 
 
 See the [Government of Canada Trusted Digital Identity Vision](https://docs.google.com/presentation/d/1Vu1st96Sx7npHv32LXy3HXP3-nVnB2N71amGd7dInxM/edit?usp=sharing)
