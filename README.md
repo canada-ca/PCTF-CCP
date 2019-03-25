@@ -23,7 +23,7 @@ The Pan-Canadian Trust Framework(PCTF) is designed for use by public and private
 
 
 
-![alt text](./overview/pctf-overview.jpg "Pan-Canadian Trust Framework")
+![alt text](./overview/pctf-simple.jpg "Pan-Canadian Trust Framework")
 
 * Read the short overview of the [Pan-Canadian Trust Framework](./overview/pctf-overview.md)
 
