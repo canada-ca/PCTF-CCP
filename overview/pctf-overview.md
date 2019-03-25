@@ -3,7 +3,7 @@
 The Pan-Canadian Trust Framework is how we will formalize the approval and acceptance of a “trusted digital identity.”
 
 
-![alt text](./images/pctf-simple.jpg "Pan-Canadian Trust Framework")
+![alt text](../images/pctf-simple.jpg "Pan-Canadian Trust Framework")
 
 A trusted digital identity is a digital representation of who you are, which you can use to access high-value government services, such as, social benefits, renewing a passport or filing taxes.
 
