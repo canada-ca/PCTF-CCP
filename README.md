@@ -2,14 +2,7 @@
 
 ## Overview
 
-The most recent draft document (2019-03-21) can be found here:
-[Pan-Canadian Trust Framework](https://drive.google.com/open?id=1P8kFJZfUV7PX25KEkZKk0XftrqqQp9FI)
-
-The most recent discussion slides (2019-03-19) can be found here:
-[PCTF Beta Version Google Slides](https://drive.google.com/open?id=1TmSYdxiujIN7G8AAW52CsYwf59tMSkWtn7jak-VGHng)
-
-The worksheet can be found here:
-[PTCF Trusted Processes](https://docs.google.com/spreadsheets/d/1oUkiAbBcZCzyO8q6pvOTM7IQ5sf7l49xt-HpUqYNup8/edit?usp=sharing)
+[IMSC Pan-Canadian Trust Framework Version 1.0 Consultation Draft](https://github.com/canada-ca/PCTF-CCP/blob/master/version1/release-notes.md)
 
 See the [Government of Canada Trusted Digital Identity Vision](https://docs.google.com/presentation/d/1Vu1st96Sx7npHv32LXy3HXP3-nVnB2N71amGd7dInxM/edit?usp=sharing)
 
