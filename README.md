@@ -8,7 +8,6 @@ See the [Government of Canada Trusted Digital Identity Vision](https://docs.goog
 
 Link to the [video](https://youtu.be/0DMu8dLyTdQ)
 
-Discussion deck is [here](https://youtu.be/gIM9PDZS0oY)
 
 The Pan-Canadian Trust Framework(PCTF) is designed for use by public and private sector services within the Canadian context. As the framework evolves, digital identities from other countries will be accepted, such as the [European eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
 
