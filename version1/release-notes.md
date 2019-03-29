@@ -9,7 +9,7 @@ The following documents consist of the Identity Management Sub-Committee Pan-Can
 
 Related Material
 
-* [IMSC Public Policy Paper](https://github.com/canada-ca/PCTF-CCP/blob/master/version1/IMSC%20Public%20Policy%20Paper.pdf]
+* [IMSC Public Policy Paper](https://github.com/canada-ca/PCTF-CCP/blob/master/version1/IMSC%20Public%20Policy%20Paper.pdf)
 
 Feedback document will be available shortly.
 
