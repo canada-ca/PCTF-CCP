@@ -4,7 +4,7 @@
 
 [IMSC Pan-Canadian Trust Framework Version 1.0 Consultation Draft](https://github.com/canada-ca/PCTF-CCP/blob/master/version1/release-notes.md)
 
-[Video overview of the PCTF Document](https://youtu.be/2QzapDplJyA)
+[Video overview of the above document](https://youtu.be/2QzapDplJyA)
 
 See the [Government of Canada Trusted Digital Identity Presentation](https://docs.google.com/presentation/d/1Vu1st96Sx7npHv32LXy3HXP3-nVnB2N71amGd7dInxM/edit?usp=sharing)
 
