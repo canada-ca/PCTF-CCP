@@ -4,7 +4,7 @@
 
 [IMSC Pan-Canadian Trust Framework Version 1.0 Consultation Draft](https://github.com/canada-ca/PCTF-CCP/blob/master/version1/release-notes.md)
 
-If you have commens on the Consultation Draft, you can enter directly in this [spreadsheet](https://drive.google.com/open?id=1WVpeattVLyMZJURK1XcjlAZ8NEavIbPawLpJmm5Leb4), or download and submit directly.
+If you have comments on the Consultation Draft, you can enter directly in this [spreadsheet](https://drive.google.com/open?id=1WVpeattVLyMZJURK1XcjlAZ8NEavIbPawLpJmm5Leb4), or download and submit directly.
 
 [Video overview of the above document](https://youtu.be/2QzapDplJyA)
 
