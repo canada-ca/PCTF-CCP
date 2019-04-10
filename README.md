@@ -6,7 +6,7 @@
 
 If you have comments on the Consultation Draft, you can enter directly in this [COMMENT SPREADSHEET](https://drive.google.com/open?id=1WVpeattVLyMZJURK1XcjlAZ8NEavIbPawLpJmm5Leb4), or download and submit directly.
 
-[Video overview of the above document](https://youtu.be/2QzapDplJyA)
+A quick video overview of the document
 
 [![IMAGE ALT TEXT](./images/pctf-thumbnail.jpg)](https://youtu.be/2QzapDplJyA "PCTF Overview")
 
