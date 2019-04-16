@@ -10,6 +10,11 @@ A quick video overview of the document
 
 [![IMAGE ALT TEXT](./images/pctf-thumbnail.jpg)](https://youtu.be/2QzapDplJyA "PCTF Overview")
 
+## Resources
+Links to resources will be updated as they are developed and become available.
+
+[Digital Identity and PCTF Overview April 2019](https://docs.google.com/presentation/d/13DAy18v5i063rGekaOoG4EioO1b3q3QMOmWJPkkBWxw/edit?usp=sharing)
+
 See the [Government of Canada Trusted Digital Identity Presentation](https://docs.google.com/presentation/d/1Vu1st96Sx7npHv32LXy3HXP3-nVnB2N71amGd7dInxM/edit?usp=sharing)
 
 Link to the one minute [video](https://youtu.be/0DMu8dLyTdQ)
