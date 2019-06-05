@@ -1,4 +1,4 @@
-# IMSC Pan-Canadian Trust Framework Version 1.0 Consultation Draft
+# IMSC Pan-Canadian Trust Framework Version 1.0 Consultation Draft (2019-05-30)
 
 The following documents consist of the Identity Management Sub-Committee Pan-Canadian Trust Framework (IMSC PCTF) Consultation Draft.
 
