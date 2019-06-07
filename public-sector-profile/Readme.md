@@ -1,4 +1,4 @@
-Please find attached the latest IMSC PCTF Version 1.0 Document Version 0.5 dated May 30th, 2019
+# Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Document Version 0.5 dated May 30th, 2019
 
 A quick recap of sequence of events leading up to this document version:
 
