@@ -2,11 +2,10 @@
 
 ## Overview
 
-[IMSC Pan-Canadian Trust Framework Version 1.0 Consultation Draft Document Version (2019-05-30)](https://github.com/canada-ca/PCTF-CCP/blob/master/version1/release-notes.md)
+# [Public Sector Profile of the Pan-Canadian Trust Framework] (https://github.com/canada-ca/PCTF-CCP/tree/master/public-sector-profile)
 
-If you have comments on the Consultation Draft, you can enter directly in this [COMMENT SPREADSHEET](https://drive.google.com/open?id=1WVpeattVLyMZJURK1XcjlAZ8NEavIbPawLpJmm5Leb4), or download and submit directly.
 
-A quick video overview of the document
+A quick video overview of the document (will be updated shortly)
 
 [![IMAGE ALT TEXT](./images/pctf-thumbnail.jpg)](https://youtu.be/2QzapDplJyA "PCTF Overview")
 
