@@ -2,7 +2,7 @@
 
 ## Overview
 
-# [Public Sector Profile of the Pan-Canadian Trust Framework] (https://github.com/canada-ca/PCTF-CCP/tree/master/public-sector-profile)
+[Public Sector Profile of the Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP/tree/master/public-sector-profile)
 
 
 A quick video overview of the document (will be updated shortly)
