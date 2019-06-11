@@ -1,5 +1,7 @@
 # Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Document Version 0.5 dated May 30th, 2019
 
+![alt text](./images/tdi-person.JPG "Public Sector Profile of the Pan-Canadian Trust Framework")
+
 A quick recap of sequence of events leading up to this document version:
 
 * In January 2019, weekly IMSC PCTF working group calls were established.  Work-in-progress material was circulated on a regular basis. 
