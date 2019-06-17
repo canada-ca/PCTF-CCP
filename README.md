@@ -1,4 +1,4 @@
-# Pan-Canadian Trust Framework | Cadre de Confiance pancanadien
+# Public Sector Profile of the Pan-Canadian Trust Framework | Cadre de Confiance pancanadien
 
 ## Overview
 
