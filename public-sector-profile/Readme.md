@@ -2,6 +2,8 @@
 
 ![alt text](./readme-img.PNG "Public Sector Profile of the Pan-Canadian Trust Framework")
 
+The detailed worksheet is hosted on Google Docs and can be found [here](https://docs.google.com/spreadsheets/d/1eukZkgdwXdskUlzaKR-cU3TjacunKY1OAyIRioFUnp8/edit?usp=sharing)
+
 A quick recap of sequence of events leading up to this document version:
 
 * In January 2019, weekly IMSC PCTF working group calls were established.  Work-in-progress material was circulated on a regular basis. 
@@ -57,4 +59,4 @@ The version attached reflects our best efforts to date in developing the public 
 The next immediate steps are to discuss the status of this document version at our next working group call. As editors, we believe that we can circulate one final time (with a two week review period) to catch and correct any errors/inconsistencies or capture any thematic issues that we need to carry forward as work into the future. Once this final review process is complete, we feel that we have a document that can be recommended for endorsement by the IMSC. 
 
 
-The detailed worksheet is hosted on Google Docs and can be found [here](https://docs.google.com/spreadsheets/d/1eukZkgdwXdskUlzaKR-cU3TjacunKY1OAyIRioFUnp8/edit?usp=sharing)
+
