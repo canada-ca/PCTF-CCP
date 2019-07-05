@@ -2,7 +2,7 @@
 
 ![alt text](./readme-img.PNG "Public Sector Profile of the Pan-Canadian Trust Framework")
 
-1.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Draft](./ )
+1.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Draft](./Public%20Sector%20Profile%20of%20the%20PCTF%20Version%201.0%20Recommendation%20Draft%20v0.6%20(2019-07-04).pdf )
 2.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Deck](./ )
 3.	[Comments on the Public Sector Profile Version 1.0 Consultation Draft](./ )
 4.	[PCTF Public Sector Profile Assessment Worksheet Excel Format(./ )
