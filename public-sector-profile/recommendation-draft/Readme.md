@@ -1,4 +1,4 @@
-# Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Document Version 0.5 dated May 30th, 2019
+# Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Recommendation Draft July 4th, 2019
 
 ![alt text](./readme-img.PNG "Public Sector Profile of the Pan-Canadian Trust Framework")
 
@@ -19,41 +19,57 @@ The public sector profile of the PCTF reflects:
 
 3)	Policy Alignment. As you may be aware, Treasury Board of Canada approved the new Directive on Identity Management. This new directive, a major driver for the federal government, has new policy requirements based on the collaborative work the IMSC has done, dating back to what we agreed to as key digital identity concepts in April 2016. We are now executing against these requirements, and have always anticipated that the PCTF would become the key enabler for formalizing our assessment process (which is now the case).
 
-We have disposed the majority of comments, but we have identified six high-level thematic issues that we need to continue to discuss and address as a working group. 
+We encourage you to read through the recommendation draft carefully, as there are many subtle but significant changes. A few high-level comments: 
+
+* This recommendation draft (v0.6) is greatly improved based on the comments we received on the consultation draft (v0.5). In total we received and disposed of 83 comments, which resulted in substantive changes or were noted as work going forward in Appendix D: Thematic Issues. At our next call we will discuss how to address the thematic issues going forward.
+
+*	It is our opinion, that this recommendation draft is of sufficient detail and clarity to conduct the assessment process for accepting trusted digital identities of persons (which is currently underway in several jurisdictions). The attached spreadsheet, is the tool to carry out the assessment process. It should be noted that this tool remains a work-in-progress and changes are being informed by assessment process. Further, this tool is being used to test out the PCTF in the international context, as we have several partners interested in applying what we developed in Canada.
+
+*	During this final iteration we have been diligent in ensuring that in addition to persons, organizations is incorporated comprehensively into the framework. As such, discussions, and definitions have been changed to reflect the broader scope to include organizations and relationships.
+
+Our immediate priorities as a working group are:
+
+1.	To develop a recommendation statement that we, as a working group and through consensus can provide to the IMSC for endorsement. I will be preparing in the coming days and will circulate for review and comment,
+
+2.	To address the thematic issues in Appendix D of the recommendation draft. These issues essentially form the basis of our road map and efforts as a working group going forward.
+
+To conclude,  we have a solid piece of work here, but the effort continues to engage and communicate with our stakeholders. Equally important, is to ensure the validity and applicability of the framework that it meets our needs and by extension, the needs of Canadians
 
 These thematic issues are summarized below:
 
-### Thematic 1: The PCTF as a ‘trust framework’ and ‘trusted processes’
+### Thematic Issue 1: Defining the PCTF
 
-We took to heart the overuse of the word ‘trust’ and we reviewed the document to use the term more sparingly and with more precision. Section 5.3 is the primary manifestation of this scarcity and precision; we now define ‘atomic processes’ and ‘compound processes’ which only become ‘trusted processes’ only after a proper certification process. All said, the PCTF is really a detailed policy framework, that if used for an assessment process, can engender confidence, accountability and ultimately ‘trust’ as an outcome.
+It is becoming clear that the PCTF is a set of agreed-on concepts and criteria as opposed to being some sort of ‘standard’. Instead, it is a framework that helps to situate existing standards (both business and technical) and relevant policy, guidance, and practices. This is certainly the case at the Federal level where the atomic processes and their associated conformance criteria have been mapped to the Federal government’s policy instruments, supporting guidelines, and technical interface standards. We need to ensure that this definition of the PCTF as a detailed policy framework is communicated clearly and consistently within the document.
 
-### Thematic 2: The PCTF as a set of ‘standards’
-It is becoming clearer, that the PCTF is, rather, a set of agreed-on concepts and criteria, instead of a ‘standard’ itself. It is a ‘framework’ (as the name suggests) that helps situate existing standards (both business and technical) and relevant guidance and practices. That is the case at the federal level, where the trusted processes (and by extension, the conformance criteria) have been mapped to our own policy instruments, supporting guidelines, and technical interface standards.
+### Thematic Issue 2: Including Organizations and Digital Relationships
 
-### Thematic 3: The Evolving state of Credentials and Claims.
-In developing the latest version of the PCTF, we have found ourselves in the middle of some very exciting developments around digital credentials and verifiable claims. There is a sea-change going in the industry – rethinking ‘information-sharing’ to ‘presenting digital claims’. There is also some exciting standards work going on at the W3C relating to verifiable credentials and decentralized identifiers.
+We are beginning to incorporate the work that ISED has done on organizations. Although, the current version of the document is still primarily focused on persons, we are ready to fully include the organization entity type into the next version of the PCTF. Additionally, we need to work on expanding our treatment and coverage of digital relationships within the document – currently, that coverage is not much more than a definition and a set of placeholders.  
 
-Due to these new developments, we are now seeing the possibility that the traditional intermediated services (such as centralized/federated login providers) may disappear entirely due to new technological advancements. This may not happen in the near future, but we have adjusted our model to incorporate the broader notions of a ‘verifiable credential’ (more than a login) and to generalize to allow paper/plastic credentials (birth certificates, driver’s licences) to evolve digitally within our model. 
+### Thematic Issue 3: The Evolving State of Credentials and Claims
 
-Of course, we are not sure we have it 100% right, but the interesting thing is -  we have ended up in the middle of these exciting developments and we seem to be moving into the lead as a country in understanding the implications of applying these technologies at ecosystem-scale (public and/or private). As such, we are getting lots of inquiries on how the PCTF might facilitate the migration to digital ecosystems, and to new standards-based digital credentials, open-standards verification systems, and international interoperability. Exciting.
+We now find ourselves in the middle of some very interesting developments in the areas of digital credentials and verifiable claims. There is a sea-change happening in the industry where there is a movement from ‘information-sharing’ to ‘presenting digital claims’. There is also some good standards work going on at the W3C relating to verifiable credentials and decentralized identifiers.
 
-### Thematic 4: Informed Consent
+Due to these new developments, we are now seeing the possibility that the traditional intermediated services (such as centralized/federated login providers) may disappear due to new technological advancements. This may not happen in the near future, but we are currently adjusting the PCTF model to incorporate the broader notion of a ‘verifiable credential’ (more than a login) and are generalizing it to allow physical credentials (e.g., birth certificates, driver’s licences) to evolve digitally within the model. 
+We are not sure that we have the model completely right (yet), but nonetheless Canada seems to be moving into the lead in understanding the implications of applying these technologies at ecosystem-scale (both public and private). As such, we are getting inquiries about how the PCTF might facilitate the migration to digital ecosystems and to new standards-based digital credentials, open-standards verification systems, and international interoperability.
 
-Consent is another evolving area, where we are not sure that we got it 100% right yet. We have incorporated material from DIACC and have adjusted for the public sector considerations. But there is considerable debate in the consent area, especially in what might need to change in legislation. Shortly, discussion papers will be released on how we might update legislation, relating to privacy, consent, and of course, digital identity. We fully expect the notion of consent to evolve, but for the meantime, we feel  that we have enough clarity in the PCTF to proceed with assessments, but ready to make changes if necessary.
+We now find ourselves in the middle of some very interesting developments in the areas of digital credentials and verifiable claims. There is a sea-change happening in the industry where there is a movement from ‘information-sharing’ to ‘presenting digital claims’. There is also some good standards work going on at the W3C relating to verifiable credentials and decentralized identifiers.
+Due to these new developments, we are now seeing the possibility that the traditional intermediated services (such as centralized/federated login providers) may disappear due to new technological advancements. This may not happen in the near future, but we are currently adjusting the PCTF model to incorporate the broader notion of a ‘verifiable credential’ (more than a login) and are generalizing it to allow physical credentials (e.g., birth certificates, driver’s licences) to evolve digitally within the model. 
 
-### Thematic 5: More Detail to Come
+We are not sure that we have the model completely right (yet), but nonetheless Canada seems to be moving into the lead in understanding the implications of applying these technologies at ecosystem-scale (both public and private). As such, we are getting inquiries about how the PCTF might facilitate the migration to digital ecosystems and to new standards-based digital credentials, open-standards verification systems, and international interoperability.
 
-Numerous comments were around the specific application of the PCTF. While we have a pretty good idea, we still don’t have all of the answers. Much of this detail (as we are discovering ) will be shaken out during the actual application of the PCTF (as we have done with Alberta). The PCTF is a framework, and as it is applied, it will likely be supplemented by detailed guidance, separate from the PCTF itself. We don’t know exactly what this will look like until we learn more through its application.
 
-### Thematic 6: Scope of PCTF
-We are beginning to incorporate the work that ISED is leading – Verified Organizations. Although, this version is focused of Persons, we are setting the stage for rapid (and consistent) incorporation of Verified Organization into this version of the PCTF
+### Thematic Issue 4: Stakeholders, Roles, and Actors
 
-Some reviewers have highlighted that the scope of the PCTF can be broadened to include academic qualifications, professional designations, etc. We agree wholeheartedly. We are actually experimenting with pilots in the area with other countries. Keep in mind, that Digital identity is a very specific, but hugely important use case to get right first. We have anticipated ‘extensibility’ through the generalization of the models, and potential addition of more ‘atomic’ and ‘compound’ processes. We are not ready yet to entertain a broadened scope in the PCTF, but soon we will.
+The current version of the PCTF still reflects differences in perspective in regards to who or what are the stakeholders, roles, and actors in the PCTF. This is due to the PCTF model’s anticipated shift towards verifiable claims, verifiable credentials, and decentralized identifiers (see Thematic Issue 3). As we resolve Thematic Issue 3, the definition and delineation of PCTF stakeholders, roles, and actors should become clearer.
 
-# Conclusion and Next Steps
+### Thematic Issue 5: Informed Consent
 
-All above said, please find attached the latest version and the detailed comment disposition document (of the 161 comments disposed).
+Informed consent is an evolving area and we don’t think the PCTF currently captures all the issues and nuances surrounding this topic. We have incorporated material from the DIACC and we have adjusted this material for public sector considerations. But with the recent publication of the Canada Digital Charter there is debate in the consent area, especially in what might need to change in legislation. Shortly, discussion papers will be released on how Canada might update legislation relating to privacy, consent, and digital identity. We fully expect the notion of consent to change, but for the meantime, we feel that we have enough clarity in the PCTF to proceed with assessments – but we are ready to make changes if necessary.
 
-The version attached reflects our best efforts to date in developing the public sector profile of the PCTF. It’s not perfect; it will require more iterations, evolution, and most importantly, stakeholder application and input. This PCTF version, or “public sector profile” has sufficient form and clarity to carry out an assessment process to accept trusted digital identities between jurisdictions. Granted, some of this assessment knowledge remains tacit (i.e., still in our heads, not written down) but that will be documented soon, incorporated into the PCTF or separate guidance.
+### Thematic Issue 6: Scope of PCTF
 
-The next immediate steps are to discuss the status of this document version at our next working group call. As editors, we believe that we can circulate one final time (with a two week review period) to catch and correct any errors/inconsistencies or capture any thematic issues that we need to carry forward as work into the future. Once
+Some have suggested that the scope of the PCTF should be broadened to include academic qualifications, professional designations, etc. We are currently experimenting with pilots in these areas with other countries. We have anticipated extensibility through the generalization of the PCTF model and the potential addition of new atomic and compound processes. Keep in mind however, that digital identity is a very specific but hugely important use case that we need to get right first. We are not yet ready to entertain a broadened scope for the PCTF into other areas, but soon we will.
+
+### Thematic Issue 7: Additional Detail
+
+Many questions have been asked about the current version of this document in regards to the specific application of the PCTF. While we have a good idea, we still don’t have all of the answers. Much of this detail will be derived from the actual application of the PCTF (as was done with Alberta previously). The PCTF is a framework and, as it is applied, it will likely be supplemented by detailed guidance separate from the PCTF itself. We don’t know exactly what this additional material will look like until we learn more through the application of the current PCTF.
