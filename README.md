@@ -5,7 +5,7 @@
 [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Recommendation Draft (July 4th, 2019)](https://github.com/canada-ca/PCTF-CCP/blob/master/public-sector-profile/recommendation-draft/Readme.md)
 
 
-A quick video overview of the document (will be updated shortly)
+A quick video overview of the document (this video is of a previous version will be updated shortly)
 
 [![IMAGE ALT TEXT](./images/pctf-thumbnail.jpg)](https://youtu.be/2QzapDplJyA "PCTF Overview")
 
@@ -31,7 +31,6 @@ The Pan-Canadian Trust Framework(PCTF) is designed for use by public and private
 * Read the short overview of the [Pan-Canadian Trust Framework](./overview/pctf-overview.md)
 
 
-For a more complete overview of the Pan-Canadian Trust Framework, please visit the Digital ID & Authentication Council of Canada [DIACC](https://diacc.ca). For [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
-
+For [Trust Services and eID](https://ec.europa.eu/digital-single-market/en/trust-services-and-eid).
 
 To join us in collaborating, please register at [GCcollab](https://gccollab.ca) and join the group [here](https://gccollab.ca/bookmarks/group/6910/all).
