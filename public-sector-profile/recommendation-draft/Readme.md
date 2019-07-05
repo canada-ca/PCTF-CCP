@@ -2,6 +2,12 @@
 
 ![alt text](./readme-img.PNG "Public Sector Profile of the Pan-Canadian Trust Framework")
 
+1.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Draft](./ )
+2.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Deck](./ )
+3.	[Comments on the Public Sector Profile Version 1.0 Consultation Draft](./ )
+4.	[PCTF Public Sector Profile Assessment Worksheet Excel Format(./ )
+
+
 The detailed worksheet is hosted on Google Docs and can be found [here](https://docs.google.com/spreadsheets/d/1eukZkgdwXdskUlzaKR-cU3TjacunKY1OAyIRioFUnp8/edit?usp=sharing)
 
 A quick recap of sequence of events leading up to this document version:
