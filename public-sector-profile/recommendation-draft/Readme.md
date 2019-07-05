@@ -4,7 +4,7 @@
 
 1.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Draft](./Public%20Sector%20Profile%20of%20the%20PCTF%20Version%201.0%20Recommendation%20Draft%20v0.6%20(2019-07-04).pdf )
 2.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Deck](./Public%20Sector%20Profile%20of%20the%20PCTF%20Version%201.0%20Recommendation%20Deck%20v0.6%20(2019-07-04).pdf )
-3.	[Comments on the Public Sector Profile Version 1.0 Consultation Draft](./ )
+3.	[Comments on the Public Sector Profile Version 1.0 Consultation Draft](./Comments%20on%20the%20Public%20Sector%20Profile%20of%20the%20PCTF%20V1.0%20Consultation%20Draft%20v0.5%20(2019-05-30)%20(Review).pdf )
 4.	[PCTF Public Sector Profile Assessment Worksheet Excel Format(./ )
 
 
