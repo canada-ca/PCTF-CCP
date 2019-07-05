@@ -5,10 +5,9 @@
 1.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Draft](./Public%20Sector%20Profile%20of%20the%20PCTF%20Version%201.0%20Recommendation%20Draft%20v0.6%20(2019-07-04).pdf )
 2.	[Public Sector Profile of the PCTF Version 1.0 Recommendation Deck](./Public%20Sector%20Profile%20of%20the%20PCTF%20Version%201.0%20Recommendation%20Deck%20v0.6%20(2019-07-04).pdf )
 3.	[Comments on the Public Sector Profile Version 1.0 Consultation Draft](./Comments%20on%20the%20Public%20Sector%20Profile%20of%20the%20PCTF%20V1.0%20Consultation%20Draft%20v0.5%20(2019-05-30)%20(Review).pdf )
-4.	[PCTF Public Sector Profile Assessment Worksheet Excel Format(./ )
+4.	[PCTF Public Sector Profile Assessment Worksheet Excel Format](./PCTF%20Public%20Sector%20Profile%20Assessment%20(2019-07-04).xlsx )
 
-
-The detailed worksheet is hosted on Google Docs and can be found [here](https://docs.google.com/spreadsheets/d/1eukZkgdwXdskUlzaKR-cU3TjacunKY1OAyIRioFUnp8/edit?usp=sharing)
+An unofficial version of the worksheet is hosted on [Google Docs](https://docs.google.com/spreadsheets/d/1eukZkgdwXdskUlzaKR-cU3TjacunKY1OAyIRioFUnp8/edit?usp=sharing)
 
 A quick recap of sequence of events leading up to this document version:
 
