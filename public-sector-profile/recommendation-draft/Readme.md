@@ -9,7 +9,7 @@ A quick recap of sequence of events leading up to this document version:
 * In January 2019, weekly IMSC PCTF working group calls were established.  Work-in-progress material was circulated on a regular basis. 
 * On February 26th, 2019, the IMSC met in person to discuss the ongoing work of the PCTF. 
 * On March 28th, 2019, the IMSC PCTF Version 1.0 Document Version 0.4 Consultation Draft was released.
-* During the period (March 28 to present), we received almost 200 comments, which we have reviewed and disposed in the attached version.
+* During the period (March 28 to present), we received almost 300 comments, which we have reviewed and disposed in the recommendation draft.
 
 The public sector profile of the PCTF reflects:
 
