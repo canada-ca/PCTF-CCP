@@ -7,7 +7,7 @@
 3.	[Comments on the Public Sector Profile Version 1.0 Consultation Draft (pdf)](./Comments%20on%20the%20Public%20Sector%20Profile%20of%20the%20PCTF%20V1.0%20Consultation%20Draft%20v0.5%20(2019-05-30)%20(Review).pdf )
 4.	[PCTF Public Sector Profile Assessment Worksheet (xls)](./PCTF%20Public%20Sector%20Profile%20Assessment%20(2019-07-04).xlsx ) An unofficial version of the worksheet is hosted on [Google Docs](https://docs.google.com/spreadsheets/d/1eukZkgdwXdskUlzaKR-cU3TjacunKY1OAyIRioFUnp8/edit?usp=sharing)
 
-A quick recap of sequence of events leading up to this document version:
+A quick recap of sequence of events leading up to this recommendation draft:
 
 * In January 2019, weekly IMSC PCTF working group calls were established.  Work-in-progress material was circulated on a regular basis. 
 * On February 26th, 2019, the IMSC met in person to discuss the ongoing work of the PCTF. 
@@ -20,7 +20,7 @@ The public sector profile of the PCTF reflects:
 
 2)	The Need to Apply the PCTF for Assessments. We have completed a provincial assessment and we are now undertaking another. For assessment purposes, we need to stabilize the PCTF as quickly as possible. We believe this version attached (and the associated worksheet) is sufficient to conduct an rigorous and transparent assessment process. While we recognize that we will continue to learn and adjust the PCTF, what we have now is of sufficient clarity for assessment. For additional rigour, the conformance criteria can now be entered into a requirements management tool, and into a proper change management process. 
 
-3)	Policy Alignment. As you may be aware, Treasury Board of Canada approved the new Directive on Identity Management. This new directive, a major driver for the federal government, has new policy requirements based on the collaborative work the IMSC has done, dating back to what we agreed to as key digital identity concepts in April 2016. We are now executing against these requirements, and have always anticipated that the PCTF would become the key enabler for formalizing our assessment process (which is now the case).
+3)	Policy Alignment. The new Treasury Board [Directive on Identity Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577) is now in force. This new directive, a major driver for the federal government, has new policy requirements based on the collaborative work the IMSC has done, dating back to what was agreed to in April 2016 as key digital identity concepts. The Government of Canada is now executing against these new requirements, anticipating that the PCTF would become the key enabler for formalizing the assessment process for accepting trusted digital identity.
 
 We encourage you to read through the recommendation draft carefully, as there are many subtle but significant changes. A few high-level comments: 
 
@@ -30,15 +30,15 @@ We encourage you to read through the recommendation draft carefully, as there ar
 
 *	During this final iteration we have been diligent in ensuring that in addition to persons, organizations is incorporated comprehensively into the framework. As such, discussions, and definitions have been changed to reflect the broader scope to include organizations and relationships.
 
-Our immediate priorities as a working group are:
+Our immediate priorities as a public sector working group are:
 
-1.	To develop a recommendation statement that we, as a working group and through consensus can provide to the IMSC for endorsement. I will be preparing in the coming days and will circulate for review and comment,
+1.	To develop a recommendation statement that we, as a working group and through consensus can provide to the Identity Manaement Sub-Committee (IMSC) for endorsement. 
 
-2.	To address the thematic issues in Appendix D of the recommendation draft. These issues essentially form the basis of our road map and efforts as a working group going forward.
+2.	To address the thematic issues in Appendix D of the recommendation draft. These issues essentially form the basis of the road map and efforts as a working group going forward.
 
 To conclude,  we have a solid piece of work here, but the effort continues to engage and communicate with our stakeholders. Equally important, is to ensure the validity and applicability of the framework that it meets our needs and by extension, the needs of Canadians
 
-These thematic issues are summarized below:
+The thematic issues in Appendix B are excerpted below:
 
 ### Thematic Issue 1: Defining the PCTF
 
