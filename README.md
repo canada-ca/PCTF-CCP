@@ -5,7 +5,7 @@
 [Version 1.0 July 2019](Version1_0/)
 
 
-Version 1.1 Update Shortly
+Version 1.1 Update shortly...
 
 
 A quick video overview of the document (this video is of a previous version will be updated shortly)
