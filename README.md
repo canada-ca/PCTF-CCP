@@ -2,6 +2,7 @@
 
 ## Overview
 
+Version 1.1 Update
 [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Recommendation Draft (July 4th, 2019)](https://github.com/canada-ca/PCTF-CCP/blob/master/public-sector-profile/recommendation-draft/Readme.md)
 
 
