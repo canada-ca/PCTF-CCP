@@ -10,7 +10,7 @@ You may submit comments directly by email to [Tim Bouma](mailto:tim.bouma@tbs-sc
 Alternatively, you may also raise an [issue](https://github.com/canada-ca/PCTF-CCP/issues) on this GitHub repository.
 
 Also included is the:
-* [Assessment Worksheet (xlsx format)](PCTF%20Assessment%20Worksheet%20Version%201.1.xlsx). This is an MS-Excel version of the assessment worksheet which is being maintained in [Google Sheets](https://docs.google.com/spreadsheets/d/1BjWjq93E4TXrZTZQQWSqGvtnCcpjhyO94UNKt9SME14/edit?usp=sharing)
+* [Assessment Worksheet (xlsx format)](PCTF%20Assessment%20Worksheet%20Version%201.1.xlsx). This is an MS-Excel version of the assessment worksheet, the latest version of which is being maintained in [Google Sheets](https://docs.google.com/spreadsheets/d/1BjWjq93E4TXrZTZQQWSqGvtnCcpjhyO94UNKt9SME14/edit?usp=sharing)
 
 
 The document is also available in MS-Word format with no line numbers
