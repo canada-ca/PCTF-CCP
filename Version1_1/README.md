@@ -5,6 +5,6 @@ The following documents are now available:
 * [Request for Comments worksheet](REQUEST%20FOR%20COMMENTS%20ON%20%20PSP-PCTF%20V1.1.xlsx)
 
 Also included is the:
-* [Assessment Worksheet](worksheet.xls)
+* [Assessment Worksheet](PCTF%20Assessment%20Worksheet%20Version%201.1.xlsx)
 
 
