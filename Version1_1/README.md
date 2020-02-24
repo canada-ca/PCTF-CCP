@@ -5,6 +5,7 @@ The following documents are now available:
 * [Request for Comments worksheet (xlsx format)](REQUEST%20FOR%20COMMENTS%20ON%20%20PSP-PCTF%20V1.1.xlsx)
 
 Please provide any comments using the line-numbered pdf version and the accompanying comments worksheet.
+You may submit comments to [Tim Bouma](mailto:tim.bouma@tbs-sct.gc.ca)
 
 Also included is the:
 * [Assessment Worksheet (xlsx format)](PCTF%20Assessment%20Worksheet%20Version%201.1.xlsx)
