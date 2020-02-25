@@ -7,7 +7,7 @@ Site is published at [https://canada-ca.github.io/PCTF-CCP/](https://canada-ca.g
 Version 1.1 for public comment is now [available](Version1_1/)
 
 
-[!Pan-Canadian Trust Framework](./images/PCTFV1-1c.PNG)
+![Pan-Canadian Trust Framework](./images/PCTFV1-1c.PNG)
 
 
 Version 1.1 of the public sector profile of the Pan-Canadian Trust Framework (PCTF) is structured as follows:
