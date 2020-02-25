@@ -14,10 +14,9 @@ Version 1.1 of the public sector profile of the Pan-Canadian Trust Framework (PC
 
 The document is structured as follows:
 
-
-•	Section 1 describes the purpose, stakeholders, and audience of the document 
-•	Section 2 describes the main elements of the PCTF 
-•	Sections 3 through 8 provide various appendices that cover terms and definitions, discussions on selected topics related to the PCTF, a bibliography, and a list of issues that will be resolved in future versions of the document.
+* <b>Section 1</b> describes the purpose, stakeholders, and audience of the document 
+* <b>Section 2</b> describes the main elements of the PCTF 
+* <b>Sections 3</b> through 8 provide various appendices that cover terms and definitions, discussions on selected topics related to the PCTF, a bibliography, and a list of issues that will be resolved in future versions of the document.
 
 
 The Pan-Canadian Trust Framework will facilitate the transition to a digital ecosystem for citizens and residents of Canada. A Canadian digital ecosystem will increase efficiency and secure interoperability between existing business processes, such as open banking, business licencing, and public sector service delivery. 
