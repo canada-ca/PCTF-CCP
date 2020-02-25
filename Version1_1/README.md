@@ -7,7 +7,7 @@ The following documents are now available:
 
 Please provide any comments using the line-numbered pdf version and the accompanying comments worksheet.
 At this time, the time period for public review has not been set. 
-You may submit comments directly by email to [Tim Bouma](mailto:tim.bouma@tbs-sct.gc.ca).
+You may submit comments directly by [email](mailto:tim.bouma@tbs-sct.gc.ca).
 Alternatively, you may also raise an [issue](https://github.com/canada-ca/PCTF-CCP/issues) on this GitHub repository.
 
 Also included is the:
