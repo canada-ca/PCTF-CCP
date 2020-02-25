@@ -26,7 +26,7 @@ The PCTF is simple and integrative; technology-agnostic; complementary to existi
 The PCTF facilitates a common approach between all levels of government and the private sector thereby serving the needs of the various communities who need to trust digital identities. The PCTF is defined in a way that encourages innovation and the evolution of the digital ecosystem. The PCTF allows for the interoperability of different platforms, services, architectures, and technologies. 
 
 
-The PCTF defines two types of <b>digital representations</b> that are essential for the development of the digital ecosystem:
+The PCTF defines two types of <b>digital representations</b> that are essential for the development of the <b>digital ecosystem</b>:
 
 
 1.	<b>Digital identities</b> of persons and organizations, and
