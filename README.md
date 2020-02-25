@@ -4,7 +4,7 @@ Site is also available at [https://canada-ca.github.io/PCTF-CCP/](https://canada
 ## Overview
 
 
-Version 1.1 Consultation Draft for public comment is now [available](Version1_1/)
+Version 1.1 Consultation Draft for public review is now [available](Version1_1/)
 
 
 ![Pan-Canadian Trust Framework](./images/PCTFV1-1c.PNG)
