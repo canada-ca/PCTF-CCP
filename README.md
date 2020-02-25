@@ -9,7 +9,7 @@ Site is published at [https://canada-ca.github.io/PCTF-CCP/](https://canada-ca.g
 Version 1.1 for public comment is now [available](Version1_1/)
 
 
-![PCTF](./images/PCTFV1-1c.PNG)
+[![PCTF](./images/PCTFV1-1c.PNG)
 
 [![IMAGE ALT TEXT](./images/pctf-thumbnail.jpg)](https://youtu.be/2QzapDplJyA "PCTF Overview")
 
