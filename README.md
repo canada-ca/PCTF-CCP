@@ -27,7 +27,11 @@ The PCTF facilitates a common approach between all levels of government and the 
 
 
 The PCTF defines two types of digital representations that are essential for the development of the digital ecosystem:
-1.	Digital identities of persons and organizations, and
-2.	Digital relationships between persons, between organizations, and between persons and organizations. 
+
+
+1.	<b>Digital identities</b> of persons and organizations, and
+2.	<b>Digital relationships</b> between persons, between organizations, and between persons and organizations. 
+
+
 The PCTF supports the acceptance of digital identities and digital relationships by defining a set of discrete process patterns, known as atomic processes. These atomic processes can be mapped to existing business processes, independently assessed using conformance criteria, and certified to be trusted and interoperable within the digital ecosystem.
 
