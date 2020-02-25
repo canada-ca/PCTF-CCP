@@ -10,9 +10,8 @@ Version 1.1 for public comment is now [available](Version1_1/)
 [![PCTF](./images/PCTFV1-1c.PNG)
 
 
-Version 1.1 of the public sector profile of the Pan-Canadian Trust Framework (PCTF).
+Version 1.1 of the public sector profile of the Pan-Canadian Trust Framework (PCTF) is structured as follows:
 
-The document is structured as follows:
 
 * <b>Section 1</b> describes the purpose, stakeholders, and audience of the document 
 * <b>Section 2</b> describes the main elements of the PCTF 
