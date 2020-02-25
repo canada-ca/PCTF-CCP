@@ -6,7 +6,7 @@ Site is published at [https://canada-ca.github.io/PCTF-CCP/](https://canada-ca.g
 [Version 1.0 July 2019](Version1_0/)
 
 
-Version 1.1 Update shortly...
+Version 1.1 for public comment is now [available](Version1_1/)
 
 
 A quick video overview of the document (this video is of a previous version will be updated shortly)
