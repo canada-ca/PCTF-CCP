@@ -4,7 +4,7 @@ Site is also available at [https://canada-ca.github.io/PCTF-CCP/](https://canada
 ## Overview
 
 
-Version 1.1 Consultation Draft for public review is now [available](Version1_1/)
+**Version 1.1** Consultation Draft for public review is now [available](Version1_1/)
 
 
 ![Pan-Canadian Trust Framework](./images/PCTFV1-1c.PNG)
@@ -13,7 +13,7 @@ Version 1.1 Consultation Draft for public review is now [available](Version1_1/)
 Version 1.1 of the public sector profile of the <b>Pan-Canadian Trust Framework (PCTF)</b> is structured as follows:
 
 
-* <b>Section 1</b> describes the purpose, stakeholders, and audience of the document 
+* <b>Section 1</b> describes the purpose, stakeholders, and audience of the document
 * <b>Section 2</b> describes the main elements of the PCTF 
 * <b>Sections 3 through 8 </b> provide various appendices that cover terms and definitions, discussions on selected topics related to the PCTF, a bibliography, and a list of issues that will be resolved in future versions of the document.
 
