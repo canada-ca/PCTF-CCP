@@ -4,34 +4,26 @@ Site is also available at [https://canada-ca.github.io/PCTF-CCP/](https://canada
 ## Overview
 
 
-**Version 1.1** Consultation Draft for public review is now [available](Version1_1/)
+The latest update **Version 1.1** Consultation Draft (2020-06-02)for public review is now [available](Version1_1/README.md)
 
 
-![Pan-Canadian Trust Framework](./images/PCTFV1-1c.PNG)
+![Pan-Canadian Trust Framework](./images/PCTF-V1_1_FINAL.png)
 
 
-Version 1.1 of the public sector profile of the <b>Pan-Canadian Trust Framework (PCTF)</b> is structured as follows:
+The PCTF is a model that consists of a set of agreed-on concepts, definitions, processes, conformance criteria, and an assessment approach. It is not a “standard” as such, but is, instead, a framework that relates and applies existing standards, policies, guidelines, and practices, and where such standards and policies do not exist, specifies additional criteria. The role of the PCTF is to complement existing standards and policies such as those concerned with security, privacy, and service delivery.
 
+The PCTF facilitates a common approach between the public sector and the private sector. Use of the PCTF ensures alignment, interoperability, and confidence of digital identity solutions that are intended to work across organizational, sectoral, and jurisdictional boundaries. In addition, the PCTF supplements existing legislation, regulations, and policies. 
 
-* <b>Section 1</b> describes the purpose, stakeholders, and audience of the document
-* <b>Section 2</b> describes the main elements of the PCTF 
-* <b>Sections 3 through 8 </b> provide various appendices that cover terms and definitions, discussions on selected topics related to the PCTF, a bibliography, and a list of issues that will be resolved in future versions of the document.
+The PCTF supports the acceptance and mutual recognition of:
+* Digital identities of entities such as persons and organizations; and
+* Digital relationships between entities.
 
+The PCTF defines a set of discrete process patterns (called atomic processes) that can be mapped to business processes. This mapping makes possible a structured assessment and evaluation of a digital identity solution and identifies any dependencies on external organizations and providers.
 
-The <b>Pan-Canadian Trust Framework</b> will facilitate the transition to a digital ecosystem for citizens and residents of Canada. A Canadian digital ecosystem will increase efficiency and secure interoperability between existing business processes, such as open banking, business licencing, and public sector service delivery. 
+The PCTF is technology-agnostic and is defined in a way that encourages innovation and participation in the digital ecosystem. It allows for the interoperability of different platforms, services, architectures, and technologies. Furthermore, the PCTF is designed to take into consideration international digital identity frameworks, such as: 
+* The Electronic Identification, Authentication, and Trust Services (eIDAS); 
+* The Financial Action Task Force (FATF); and 
+* The United Nations Commission on International Trade Law (UNCITRAL).
 
-The PCTF is simple and integrative; technology-agnostic; complementary to existing frameworks; clearly linked to policy, regulation, and legislation; and is designed to apply relevant standards to key processes and capabilities.
-
-
-The PCTF facilitates a common approach between all levels of government and the private sector thereby serving the needs of the various communities who need to trust digital identities. The PCTF is defined in a way that encourages innovation and the evolution of the digital ecosystem. The PCTF allows for the interoperability of different platforms, services, architectures, and technologies. 
-
-
-The PCTF defines two types of <b>digital representations</b> that are essential for the development of the <b>digital ecosystem</b>:
-
-
-1.	<b>Digital identities</b> of persons and organizations, and
-2.	<b>Digital relationships</b> between persons, between organizations, and between persons and organizations. 
-
-
-The PCTF supports the <b>acceptance of digital identities and digital relationships</b> by defining a set of discrete process patterns, known as <b>atomic processe</b>s. These atomic processes can be mapped to existing business processes, independently assessed using conformance criteria, and certified to be trusted and interoperable within the digital ecosystem.
+Finally, it should be noted that the Public Sector Profile of the PCTF, in itself, is not a governance framework. Instead, it is a tool to help assess a digital identity program or service. As such, the PCTF may be applied in many contexts.
 
