@@ -1,4 +1,5 @@
 # Version 1.1 of Public Sector Profile of the Pan-Canadian Trust Framework is now available for public consultation.
+![Pan-Canadian Trust Framework](../images/PCTF-V1_1_FINAL.png)
  
 The following consultation draft documents are now available:
 
