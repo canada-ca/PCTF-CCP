@@ -15,7 +15,7 @@ Alternatively, you may also raise an [issue](https://github.com/canada-ca/PCTF-C
 The PCTF Assessment worksheet is available on Google Docs. Please review the README tak and download your own copy if you plan to use):
 *  [PCTF Assessment Worksheet Google Sheets](https://docs.google.com/spreadsheets/d/1BjWjq93E4TXrZTZQQWSqGvtnCcpjhyO94UNKt9SME14/edit?usp=sharing)
 
-Earlier document versions of PCTF Version 1.1 are availabe [here](./Previous_Doc_Versions/) 
+Earlier document versions of PCTF Version 1.1 are available [here](./Previous_Doc_Versions/) 
 
 PCTF Version 1.0 documents are available [here](../Version1_0/)
 
