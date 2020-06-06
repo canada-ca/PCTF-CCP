@@ -3,7 +3,7 @@
  
 The following consultation draft documents are now available:
 
-* [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF) dated: 2020-06-02 (1.27mb pdf 83 pages)](PSP-PCTF-V1.1-Consultation-Draft.pdf)
+* [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF) dated: 2020-06-02 (1.26mb pdf 83 pages)](PSP-PCTF-V1.1-Consultation-Draft.pdf)
 * [Same as above with LINE NUMBERS](PSP-PCTF-V1.1-Consultation-Draft-LINE-NUMBERS.pdf)
 * [Request for Comments worksheet (xlsx format)](REQUEST%20FOR%20COMMENTS%20ON%20%20PSP-PCTF%20V1.1.xlsx)
 
