@@ -16,6 +16,9 @@ The following consultation draft documents are now available:
 * [Same as above in MS WORD Format](Version1_1/PSP-PCTF-V1.1-Consultation-Draft-MS-WORD.docx)
 * [Request for Comments worksheet (MS EXCEL format)](Version1_1/REQUEST-FOR-COMMENTS-ON-PSP-PCTF-V1.1.xlsx)
 
+The PCTF Assessment worksheet is available on Google Docs. Please review the README tab and download your own copy if you plan to use):
+*  [PCTF Assessment Worksheet Google Sheets Version](https://docs.google.com/spreadsheets/d/1BjWjq93E4TXrZTZQQWSqGvtnCcpjhyO94UNKt9SME14/edit?usp=sharing)
+
 
 The PCTF is a model that consists of a set of agreed-on concepts, definitions, processes, conformance criteria, and an assessment approach. It is not a “standard” as such, but is, instead, a framework that relates and applies existing standards, policies, guidelines, and practices, and where such standards and policies do not exist, specifies additional criteria. The role of the PCTF is to complement existing standards and policies such as those concerned with security, privacy, and service delivery.
 
