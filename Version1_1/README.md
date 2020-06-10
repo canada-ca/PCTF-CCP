@@ -20,4 +20,3 @@ Earlier document versions of PCTF Version 1.1 are available [here](https://githu
 
 PCTF Version 1.0 documents are available [here](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_0)
 
-
