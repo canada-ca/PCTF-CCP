@@ -14,8 +14,8 @@ You may submit comments directly by [email](mailto:tim.bouma@tbs-sct.gc.ca).
 Alternatively, you may also raise an [issue](https://github.com/canada-ca/PCTF-CCP/issues) on this GitHub repository.
 
 The PCTF Assessment worksheet is available on Google Docs. Please review the README tab and download your own copy if you plan to use):
-*  [PCTF Assessment Worksheet Google Sheets Version](https://docs.google.com/spreadsheets/d/1BjWjq93E4TXrZTZQQWSqGvtnCcpjhyO94UNKt9SME14/edit?usp=sharing)
-*  [PCTF Assessment Worksheet Excel Version](Public-Sector-Profile-PCTF-Assessment-Worksheet_V1_1.xlsx)
+*  [PCTF Assessment Worksheet (Online GOOGLE SHEETS format](https://docs.google.com/spreadsheets/d/1BjWjq93E4TXrZTZQQWSqGvtnCcpjhyO94UNKt9SME14/edit?usp=sharing)
+*  [PCTF Assessment Worksheet (MS EXCEL format)](PSP-PCTF-V1.1-Assessment-Worksheet.xlsx)
 
 Earlier document versions of PCTF Version 1.1 are available [here](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_1) 
 
