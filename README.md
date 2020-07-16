@@ -16,6 +16,12 @@ The following consultation draft documents are now available:
 * [Same as above in MS WORD Format](Version1_1/PSP-PCTF-V1.1-Consultation-Draft-MS-WORD.docx)
 * [Request for Comments worksheet (MS EXCEL format)](Version1_1/REQUEST-FOR-COMMENTS-ON-PSP-PCTF-V1.1.xlsx)
 
+The corresponding draft documents are now available in FRENCH:
+
+* [LE PROFIL DU SECTEUR PUBLIC DU CADRE DE CONFIANCE PANCANADIEN (CCP): 2020-06-02 (1.26mb pdf 83 pages)](Version1_1/PSP-PCTF-V1.1-Consultation-Draft-FR.pdf)
+* [LE PROFIL DU SECTEUR PUBLIC DU CADRE DE CONFIANCE PANCANADIEN (CCP) MS-WORD:](Version1_1/PSP-PCTF-V1.1-Consultation-Draft-MS-WORD-FR.docx)
+
+
 The PCTF Assessment worksheet is available on Google Docs. Please review the README tab and download your own copy if you plan to use):
 *  [PCTF Assessment Worksheet Google Sheets Version](https://docs.google.com/spreadsheets/d/1BjWjq93E4TXrZTZQQWSqGvtnCcpjhyO94UNKt9SME14/edit?usp=sharing)
 
