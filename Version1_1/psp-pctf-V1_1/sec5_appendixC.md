@@ -31,7 +31,7 @@ The concept of juridical personality is not absolute. "Piercing the corporate ve
 
 The concept of legal personhood for organizations of people (juridical personhood) is at least as old as Ancient Rome: a variety of collegial institutions enjoyed the benefit under Roman law.
 
-The doctrine of juridical personhood has been attributed to Pope Innocent IV who helped to spread the idea of persona ficta. In canon law, the doctrine of persona ficta allowed monasteries to have a legal existence that was apart from the monks, simplifying the difficulty in balancing the need for such groups to have infrastructure though the monks themselves took vows of personal poverty. Another effect of this was that as a fictional person, a monastery could not be held guilty of delict<sup id="fnr-Delict">[fn-number](#fn-Delict)</sup> due to not having a soul, helping to protect the organization from non-contractual obligations to surrounding communities. This effectively moved such liability to individuals acting within the organization while protecting the structure itself, since individuals were considered to have a soul and therefore capable of being guilty of negligence.
+The doctrine of juridical personhood has been attributed to Pope Innocent IV who helped to spread the idea of persona ficta. In canon law, the doctrine of persona ficta allowed monasteries to have a legal existence that was apart from the monks, simplifying the difficulty in balancing the need for such groups to have infrastructure though the monks themselves took vows of personal poverty. Another effect of this was that as a fictional person, a monastery could not be held guilty of delict<sup id="fnr-Delict"><a href="#fn-Delict" class="fnote"></a></sup> due to not having a soul, helping to protect the organization from non-contractual obligations to surrounding communities. This effectively moved such liability to individuals acting within the organization while protecting the structure itself, since individuals were considered to have a soul and therefore capable of being guilty of negligence.
 
 In the common law tradition, only a natural person could sue or be sued. This was not a problem in the era before the Industrial Revolution, when the typical business venture was either a sole proprietorship or partnership – the owners were simply liable for the debts of the business. A feature of the corporation, however, is that the owners/shareholders enjoyed limited liability – the owners were not liable for the debts of the company. Thus, when a corporation breached a contract or broke a law, there was no remedy, because limited liability protected the owners and the corporation wasn't a legal person subject to the law. There was no accountability for corporate wrongdoing.
 
@@ -61,8 +61,8 @@ In Canada, the treatment and handling of personal information (information about
 <table>
     <tbody>
         <tr>
-            <th rowspan=2>Legislative and Regulatory Provisions</th>
-            <th colspan=2>Scope and Application</th>
+            <th rowspan="2">Legislative and Regulatory Provisions</th>
+            <th colspan="2">Scope and Application</th>
         </tr>
         <tr>
             <td><b>Personal Information</b></td>
@@ -87,5 +87,5 @@ From this table it can be seen that whereas all personal information is subject 
 ---
 **Footnotes**
 
-<a name="fn-Delict">[fn-number](#fnr-Delict)</a>
+<a name="fn-Delict" href="#fnr-Delict" class="fn"></a>
 Delict is a term in civil law jurisdictions for a civil wrong consisting of an intentional or negligent breach of duty of care that inflicts loss or harm and which triggers legal liability for the wrongdoer.

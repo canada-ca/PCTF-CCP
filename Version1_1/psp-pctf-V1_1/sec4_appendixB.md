@@ -13,18 +13,18 @@
 >
 > ...Our identity is bigger than our digital selves. Our identities existed before and continue to exist independent of any digital representation. Digital identities are simply tools which help organizations and individuals manage real-world identity.”
 >
-> – A Primer on Functional Identity by Joe Andrieu<sup id="fnr-JoeAndrieu">[fn-number](#fn-JoeAndrieu)</sup>
+> – A Primer on Functional Identity by Joe Andrieu<sup id="fnr-JoeAndrieu"><a href="#fn-JoeAndrieu" class="fnote"></a></sup>
 
 #### 4.1.2 Identity in Identity Management
 
 Identity in the domain of identity management has a much narrower scope than real- world notions of identity. In identity management, identity is defined as a reference or designation used to uniquely distinguish a particular person, organization, or device.
 
-An identity must be unique<sup id="fnr-uniqueID">[fn-number](#fn-uniqueID)</sup>. This means that each person and organization can be distinguished from all other persons and organizations and that, when required, each person and organization can be uniquely identified. The uniqueness requirement ensures that a program or service can be delivered to a specific person or organization and that a program or service is delivered to the right person or organization.
+An identity must be unique<sup id="fnr-uniqueID"><a href="#fn-uniqueID" class="fnote"></a></sup>. This means that each person and organization can be distinguished from all other persons and organizations and that, when required, each person and organization can be uniquely identified. The uniqueness requirement ensures that a program or service can be delivered to a specific person or organization and that a program or service is delivered to the right person or organization.
 
 
 ### 4.2 Defining the Population
 
-In the Canadian context, the universe of persons is defined as all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada. The universe of organizations is defined as all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada. Those persons or organizations that fall within the mandate of a program or service constitute the population of the program or service<sup id="fnr-populationCharacteristics">[fn-number](#fn-populationCharacteristics)</sup>.
+In the Canadian context, the universe of persons is defined as all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada. The universe of organizations is defined as all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada. Those persons or organizations that fall within the mandate of a program or service constitute the population of the program or service<sup id="fnr-populationCharacteristics"><a href="#fn-populationCharacteristics" class="fnote"></a></sup>.
 
 In the public sector, the following are some examples of program/service populations in Canada:
 * Persons who were born in Alberta
@@ -60,13 +60,13 @@ A property or characteristic associated with an identifiable person or organizat
 
 Identity information is a strict subset of the much broader set of information referred to as either personal information (“information about an identifiable person”) or organizational information (“information about an identifiable organization”). Personal information or organizational information that is collected and used for the specific purpose of administering a program or delivering a service is referred to as *program-specific* personal information or *program-specific* organizational information. Program- specific personal information is usually restricted to the program and constrained by privacy legislation to ensure consistent use for which it was collected (e.g., to determine program eligibility), with a few exceptions.
 
-When determining the identity information requirements for a program or service, program/service providers need to distinguish between identity information andprogram-specific personal information, as these can overlap<sup id="fnr-identityPersonalOverlap">[fn-number](#fn-identityPersonalOverlap)</sup>. For example, *date of birth* can be used to help achieve identity uniqueness (i.e., it is used as identity information) – but *date of birth* can also be used as an age eligibility requirement (i.e., it is used as program-specific personal information). When overlap between identity information and program-specific personal information occurs, it is a good practice to describe both purposes. This ensures that the use of identity information is consistent with the original purpose for which the identity information was obtained and that it can be managed separately or additionally protected by appropriate security and privacy controls. Program/service providers are advised to reduce the overlap between identity information and program-specific personal information as much as possible.
+When determining the identity information requirements for a program or service, program/service providers need to distinguish between identity information andprogram-specific personal information, as these can overlap<sup id="fnr-identityPersonalOverlap"><a href="#fn-identityPersonalOverlap" class="fnote"></a></sup>. For example, *date of birth* can be used to help achieve identity uniqueness (i.e., it is used as identity information) – but *date of birth* can also be used as an age eligibility requirement (i.e., it is used as program-specific personal information). When overlap between identity information and program-specific personal information occurs, it is a good practice to describe both purposes. This ensures that the use of identity information is consistent with the original purpose for which the identity information was obtained and that it can be managed separately or additionally protected by appropriate security and privacy controls. Program/service providers are advised to reduce the overlap between identity information and program-specific personal information as much as possible.
 
 #### 4.4.1 Identifier
 
 The set of identity attributes that is used to uniquely distinguish a particular person or organization within a program/service population is referred to as an *identifier*. This set of identity attributes is usually a subset of the identity information requirements of a program or service.
 
-Different sets of identity attributes may be specified as an identifier depending on program or service requirements and, in some cases, legislation and regulation. For example, one program may specify *name* and *date of birth* as the identifier set of identity attributes. Another program may specify *name*, *date of birth*, and *sex* as the identifier set of identity attributes. Yet another program may use an *assigned identifier*<sup id="fnr-assignedIdentifier">[fn-number](#fn-assignedIdentifier)</sup> (such as a health insurance number or a business number) as the identifier set of identity attributes.
+Different sets of identity attributes may be specified as an identifier depending on program or service requirements and, in some cases, legislation and regulation. For example, one program may specify *name* and *date of birth* as the identifier set of identity attributes. Another program may specify *name*, *date of birth*, and *sex* as the identifier set of identity attributes. Yet another program may use an *assigned identifier*<sup id="fnr-assignedIdentifier"><a href="#fn-assignedIdentifier" class="fnote"></a></sup> (such as a health insurance number or a business number) as the identifier set of identity attributes.
 
 When determining the set of identity attributes to be used as an identifier, the following factors should be considered:
 * **Universality** – Every person or organization within the program/service population must possess the identifier set of identity attributes. However, even when an identity attribute is universal, widespread missing or incomplete values for the identity attribute may render it useless as part of an identifier set. For example, many dates of birth for persons born outside of Canada consist only of the year or the year and the month.
@@ -78,7 +78,7 @@ These four factors are not an exhaustive list. Another factor that might be cons
 
 #### 4.4.2 Assigned Identifier
 
-It is generally agreed that *name* and *date of birth* comprise the minimum set of identity attributes required to constitute an identifier for a person. Analyses<sup id="fnr-identityResolutionProject">[fn-number](#fn-identityResolutionProject)</sup> have shown that a combination of *name* (*surname* + *first given name*) and full *date of birth* will distinguish between upwards of 96% of the persons in any population. While adding other identity attributes (e.g., *sex*, *place of birth*) to the set provides some marginal improvement, no combination of identity attributes can guarantee absolute uniqueness for 100% of a given population.
+It is generally agreed that *name* and *date of birth* comprise the minimum set of identity attributes required to constitute an identifier for a person. Analyses<sup id="fnr-identityResolutionProject"><a href="#fn-identityResolutionProject" class="fnote"></a></sup> have shown that a combination of *name* (*surname* + *first given name*) and full *date of birth* will distinguish between upwards of 96% of the persons in any population. While adding other identity attributes (e.g., *sex*, *place of birth*) to the set provides some marginal improvement, no combination of identity attributes can guarantee absolute uniqueness for 100% of a given population.
 
 Consequently, due to the potential for identity overlap in whatever residual percentage of the population remains, program/service providers employ the use of an *assigned identifier*. An assigned identifier is an artificial identity attribute that is used solely for the purpose of providing identity uniqueness. It consists of a numeric or alphanumeric string that is generated automatically and is assigned to a person or organization at the time of identity establishment.
 
@@ -95,7 +95,7 @@ Identity resolution is defined as the establishment of the uniqueness of a perso
 
 ### 4.6 Ensuring the Accuracy of Identity Information
 
-Identity information must be accurate, complete, and up to date<sup id="fnr-upToDateRequirement">[fn-number](#fn-upToDateRequirement)</sup>. Accuracy ensures the quality of identity information. It ensures that the information represents what is true about a person or organization, and that it is complete and up to date.
+Identity information must be accurate, complete, and up to date<sup id="fnr-upToDateRequirement"><a href="#fn-upToDateRequirement" class="fnote"></a></sup>. Accuracy ensures the quality of identity information. It ensures that the information represents what is true about a person or organization, and that it is complete and up to date.
 
 For identity information to be considered accurate, three requirements must be met:
 * **The identity information is correct and up to date.** Identity information, due to certain life events (e.g., marriage), may change over time. Ongoing updates to identity information may be required; otherwise, it becomes incorrect.
@@ -114,24 +114,24 @@ If ensuring the accuracy of identity information by means of an authoritative so
 ---
 **Footnotes**
 
-<a name="fn-JoeAndrieu">[fn-number](#fnr-JoeAndrieu)</a> 
+<a name="fn-JoeAndrieu" href="#fnr-JoeAndrieu" class="fn"></a> 
 The full text of the article can be found at: http://bit.ly/FunctionalIdentityPrimer.
 
-<a name="fn-uniqueID">[fn-number](#fnr-uniqueID)</a> 
+<a name="fn-uniqueID" href="#fnr-uniqueID" class="fn"></a> 
 This is one of the requirements for establishing an identity assurance level. See Appendix C of the Standard on Identity and Credential Assurance [TBS c., 2013].
 
-<a name="fn-populationCharacteristics">[fn-number](#fnr-populationCharacteristics)</a> 
+<a name="fn-populationCharacteristics" href="#fnr-populationCharacteristics" class="fn"></a> 
 The characteristics of a program/service population are a key factor in determining identity context. See the next section.
 
-<a name="fn-identityPersonalOverlap">[fn-number](#fnr-identityPersonalOverlap)</a> 
+<a name="fn-identityPersonalOverlap" href="#fnr-identityPersonalOverlap" class="fn"></a> 
 This is usually not an issue for organizational information.
 
-<a name="fn-assignedIdentifier">[fn-number](#fnr-assignedIdentifier)</a> 
+<a name="fn-assignedIdentifier" href="#fnr-assignedIdentifier" class="fn"></a> 
 See the next section.
 
-<a name="fn-identityResolutionProject">[fn-number](#fnr-identityResolutionProject)</a> 
+<a name="fn-identityResolutionProject" href="#fnr-identityResolutionProject" class="fn"></a> 
 NASPO IDPV Project, Report of the IDPV Identity Resolution Project, February 17, 2014
 
-<a name="fn-upToDateRequirement">[fn-number](#fnr-upToDateRequirement)</a> 
+<a name="fn-upToDateRequirement" href="#fnr-upToDateRequirement" class="fn"></a> 
 This is one of the requirements for establishing an identity assurance level. See Appendix C of the Standard on Identity and Credential Assurance [TBS c., 2013].
 
