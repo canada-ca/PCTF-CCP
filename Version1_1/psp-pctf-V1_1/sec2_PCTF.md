@@ -274,7 +274,7 @@ The model also consists of five information flows:
 
 #### 2.7.1 Identity Information Determination
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Information Determination is the process of determining the
@@ -292,7 +292,7 @@ The model also consists of five information flows:
 
 #### 2.7.2 Identity Evidence Determination
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Evidence Determination is the process of determining the acceptable evidence of identity (whether physical or electronic).</td>
@@ -310,7 +310,7 @@ The model also consists of five information flows:
 
 #### 2.7.3 Identity Resolution
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Resolution is the process of establishing the uniqueness of a Subject within a program/service population through the use of identity information. A program or service defines its identity resolution requirements in terms of identity attributes; that is, it specifies the set of identity attributes that is required to achieve identity resolution within its population.</td>
@@ -327,7 +327,7 @@ The model also consists of five information flows:
 
 #### 2.7.4 Identity Establishment
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Establishment is the process of creating a record of identity of a Subject within a program/service population that may be relied on by others for subsequent programs, services, and activities.</td>
@@ -344,7 +344,7 @@ The model also consists of five information flows:
 
 #### 2.7.5 Identity Information Validation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Information Validation is the process of confirming the accuracy of identity information about a Subject as established by the Issuer.</td>
@@ -361,7 +361,7 @@ The model also consists of five information flows:
 
 #### 2.7.6 Identity Verification
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Verification is the process of confirming that the identity information is under the control of the Subject. It should be noted that this process may use personal information or organizational information that is not related to identity.</td>
@@ -378,7 +378,7 @@ The model also consists of five information flows:
 
 #### 2.7.7 Identity Evidence Validation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Evidence Validation is the process of confirming that the evidence of identity presented (whether physical or electronic) is acceptable.</td>
@@ -395,7 +395,7 @@ The model also consists of five information flows:
 
 #### 2.7.8 Identity Continuity
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Continuity is the process of dynamically confirming that the Subject has a continuous existence over time (i.e., “genuine presence”). This process can be used to ensure that there is no malicious or fraudulent activity (past or present) and to address identity spoofing concerns.</td>
@@ -413,7 +413,7 @@ The model also consists of five information flows:
 
 #### 2.7.9 Identity Maintenance
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Maintenance is the process of ensuring that a Subject’s identity information is accurate, complete, and up-to-date.</td>
@@ -431,7 +431,7 @@ date</td>
 
 #### 2.7.10 Identity Linking
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Linking is the process of mapping two or more identifiers to the same Subject.</td>
@@ -448,7 +448,7 @@ date</td>
 
 #### 2.7.11 Credential-Identity Binding
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential-Identity Binding is the process of asserting one or more Claims about one or more Subjects.</td>
@@ -466,7 +466,7 @@ with one or more Subjects</td>
 
 #### 2.7.12 Credential Issuance
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Issuance is the process of creating a Credential from a set of Claims and assigning the Credential to a Holder.</td>
@@ -484,7 +484,7 @@ with one or more Subjects</td>
 
 #### 2.7.13 Credential-Authenticator Binding
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential-Authenticator Binding is the process of associating a credential issued to a Holder with one or more authenticators. This process also includes authenticator life-cycle activities such as suspending authenticators (caused by a forgotten password or a lockout due to successive failed authentications, inactivity, or suspicious activity), removing authenticators, binding new authenticators, and updating authenticators (e.g., changing a password, updating security questions and answers, having a new facial photo taken).</td>
@@ -502,7 +502,7 @@ associated with one or more authenticators</td>
 
 #### 2.7.14 Credential Validation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Validation is the process of verifying
@@ -520,7 +520,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.15 Credential Verification
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Verification is the process of verifying that a Holder has control over an issued credential. Control of an issued credential is verified by means one or more authenticators. The degree of control over the issued credential can be used to generate a level of assurance.</td>
@@ -538,7 +538,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.16 Credential Maintenance
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Maintenance is the process of updating the credential attributes (e.g., expiry date, scope of service, permissions) of an issued credential.</td>
@@ -555,7 +555,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.17 Credential Suspension
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Suspension is the process of transforming an issued credential into a suspended credential by flagging the issued credential as temporarily unusable.</td>
@@ -572,7 +572,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.18 Credential Recovery
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Recovery is the process of transforming a suspended credential back to a usable state (i.e., an issued credential).</td>
@@ -589,7 +589,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.19 Credential Revocation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Revocation is the process of ensuring that an issued credential is permanently flagged as unusable.</td>
@@ -606,7 +606,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.20 Notice Formulation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Notice Formulation is the process of producing a notice statement that describes what personal information is being, or may be, collected; with which parties the personal information is being shared and what type of personal information is being shared (as known at the time of presentation); for what purposes the personal information is being collected, used, or disclosed; the risk of harm and other consequences as a result of the collection, use, or disclosure; how the personal information will be handled and protected; the time period for which the notice statement is applicable; and under whose jurisdiction or authority the notice statement is issued. This process should be carried out in accordance with any requirements of jurisdictional legislation and regulation</td>
@@ -623,7 +623,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.21 Notice Presentation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Notice Presentation is the process of presenting a notice statement to a person.</td>
@@ -641,7 +641,7 @@ presented to a person</td>
 
 #### 2.7.22 Consent Request
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Request is the process of asking a person to agree to provide consent (“Yes”) or decline to provide consent (“No”) based on the contents of a presented notice statement, resulting in either a “yes” or “no” consent decision.</td>
@@ -658,7 +658,7 @@ presented to a person</td>
 
 #### 2.7.23 Consent Registration
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Registration is the process of persisting a notice statement and the person’s related consent decision, to storage. In addition, information about the person, the version of the notice statement that was presented, the date and time that the notice statement was presented, and, if applicable, the expiration date for the consent decision may be stored. Once the consent information has been stored, a notification on the consent decision made is issued to the relevant parties to the consent decision.</td>
@@ -675,7 +675,7 @@ presented to a person</td>
 
 #### 2.7.24 Consent Review
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Review is the process of making the details of a stored consent decision visible to the person who provided the consent.</td>
@@ -692,7 +692,7 @@ presented to a person</td>
 
 #### 2.7.25 Consent Renewal
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Renewal is the process of extending the validity of a “yes” consent decision by means of increasing an expiration date limit.</td>
@@ -710,7 +710,7 @@ updated</td>
 
 #### 2.7.26 Consent Expiration
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Expiration is the process of suspending the validity of a “yes” consent decision as a result of exceeding an expiration date limit.</td>
@@ -729,7 +729,7 @@ updated
 
 #### 2.7.27 Consent Revocation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Revocation is the process of suspending the validity of a “yes” consent decision as a result of an explicit withdrawal of consent by the person (i.e., a “yes” consent decision is converted into a “no” consent decision).</td>
@@ -747,7 +747,7 @@ updated</td>
 
 #### 2.7.28 Signature Creation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Signature Creation is the process of creating a signature.</td>
@@ -764,7 +764,7 @@ updated</td>
 
 #### 2.7.29 Signature Checking
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Signature Checking is the process of confirming that the signature is valid.</td>

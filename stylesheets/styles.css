@@ -55,7 +55,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:auto;
   margin:0 auto;
 }
 
@@ -84,10 +84,18 @@ table {
   border-collapse:collapse;
 }
 
+
+
 th, td {
   text-align:left;
   padding:5px 10px;
   border:2px solid #e5e5e5;
+}
+
+.atomic th:first-child,
+.atomic td:first-child {
+    min-width: 100px;
+    max-width: 100px;
 }
 
 dt {
@@ -176,9 +184,10 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:auto;
   float:right;
   padding-bottom:50px;
+  padding-left:400px;
 }
 
 small {

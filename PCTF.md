@@ -1,5 +1,5 @@
 ---
-layout: PCTFdefault
+layout: default
 title: "PCTF V1.1"
 description: "version 1.1 of the Pan-Canadian Trust Framework"
 ---
