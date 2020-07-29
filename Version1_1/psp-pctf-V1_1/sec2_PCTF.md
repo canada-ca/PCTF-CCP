@@ -49,6 +49,9 @@ The PCTF Model, as shown in Figure 1, is a high-level overview of the PCTF in di
 
 ![Figure 1: The Pan-Canadian Trust Framework Model](/images/PCTF-V1_1_FINAL.png)
 
+The Pan-Canadian Trust Framework Model
+{: .figure}
+
 The PCTF model consists of four main components:
 1. A **Normative Core** component that encapsulates the key concepts of the PCTF;
 2. A **Mutual Recognition** component that outlines the current methodology that is used to assess and certify actors in the digital ecosystem;
@@ -105,6 +108,9 @@ An atomic process is a set of logically related activities that results in the s
 
 ![Figure 2: Atomic Process Model](/images/Figure%20-%20Atomic%20Process%20Model.png)
 
+Atomic Process Model
+{: .figure}
+
 Atomic processes are crucial building blocks to ensuring the overall integrity of the digital identity supply chain and therefore, the integrity of digital services. The integrity of an atomic process is paramount because the output of an atomic process is relied upon by many participants – across jurisdictional and public and private sector boundaries, and over the short term and the long term. The PCTF ensures the integrity of an atomic process through agreed upon and well-defined conformance criteria that support an impartial, transparent, and evidence-based assessment and certification process.
 
 The conformance criteria associated with an atomic process specify what is required to transform an object’s input state into an output state. The conformance criteria ensure that the atomic process is carried out with integrity. For example, an atomic process may involve assigning an identifier to a person or organization. The conformance criteria may specify that any party responsible for carrying out the atomic process must ensure that the identifier assigned to the person or organization is unique for a specified population.
@@ -115,6 +121,9 @@ Figure 3 illustrates some model diagrams of three atomic processes.
 
 ![Figure 3: Examples of Atomic Processes (Modeled)](/images/Figure%20-%20Examples%20of%20Atomic%20Processes.png)
 
+Examples of Atomic Processes (Modeled)
+{: .figure}
+
 ##### 2.3.3.2 Compound Processes
 
 The primary function of the PCTF is to assess and certify existing business processes. When analyzed, these business processes are often composed of several atomic processes. A set of atomic processes grouped together form a compound process that results in a set of state transitions. It may also be the case that a compound process is composed of a set of other compound processes which in turn can be decomposed into a set of atomic processes.
@@ -122,6 +131,9 @@ The primary function of the PCTF is to assess and certify existing business proc
 For example, a business process that one party refers to as *Identity Confirmation* may in fact turn out to be a compound process consisting of 5 atomic processes as shown in Figure 4.
 
 ![Figure 4: Example of a Compound Process (Modeled)](/images/Figure%20-%20Example%20of%20a%20Compound%20Process.png)
+
+Example of a Compound Process (Modeled)
+{: .figure}
 
 **note:** Any ordering of the atomic processes should not be inferred from the diagram.
 
@@ -165,6 +177,7 @@ Process mapping consists of the set of activities to map program activities, bus
 
 In most cases, this mapping is applied to an existing program currently in operation. The table below illustrates some examples of mapping to existing business processes.
 
+{: .stickyTable}
 | Atomic Process                  | Existing Business Process Examples |
 | ------------------------------- | ---------------------------------- |
 | Identity Resolution             | A service enrolment process that attempts to uniquely identify a person based on the person’s name and date of birth<br>A business registry process that attempts to uniquely identify an organization based on the organization’s legal name, date of creation, address, and identification number/name on an authoritative record |
@@ -218,6 +231,9 @@ Figure 5 illustrates some elements (with examples) of what could constitute a Su
 
 ![Figure 5: Supporting Infrastructure](/images/Figure%20-%20Supporting%20Infrastructure.png)
 
+Supporting Infrastructure
+{: .figure}
+
 The following sections provide details on two elements of the Supporting Infrastructure that can assist in relating legacy implementations to newer technologies and standards.
 
 #### 2.5.1 Methods
@@ -230,6 +246,9 @@ Conveyance mechanisms are the various methods by which the output of one atomic 
 
 ![Figure 6: Conveying Output States between Parties](/images/Figure%20-%20Conveying%20Output%20States%20between%20Parties.png)
 
+Conveying Output States between Parties
+{: .figure}
+
 The PCTF does not constrain the possibility of several competing providers and it is anticipated that many providers will coexist to serve the conveyance mechanism needs of different communities across the public and private sector.
 
 
@@ -238,6 +257,9 @@ The PCTF does not constrain the possibility of several competing providers and i
 Figure 7 illustrates a conceptual model of the digital ecosystem roles and information flows. (Note that “Methods” in the diagram is discussed in Section 2.5.1.)
 
 ![Figure 7: Digital Ecosystem Roles and Information Flows](/images/Figure%20-%20Digital%20Ecosystem%20Roles%20and%20Information%20Flows.png)
+
+Digital Ecosystem Roles and Information Flows
+{: .figure}
 
 #### 2.6.1 Roles
 
