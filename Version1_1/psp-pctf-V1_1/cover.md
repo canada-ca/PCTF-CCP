@@ -24,7 +24,7 @@
     <td>Security Classification:</td>
     <td>UNCLASSIFIED</td>
   </tr>
-<table>
+</table>
 
 ## DOCUMENT VERSION CONTROL 
 

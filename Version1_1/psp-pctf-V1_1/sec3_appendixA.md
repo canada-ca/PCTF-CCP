@@ -9,7 +9,7 @@ The definitions that follow include authoritative definitions from the *Standard
 definitions found in related guidelines and industry references, and definitions developed by the working group for 
 the purposes of this document.
 
-
+{: .stickyTable}
 |            Term             | Definition |
 | --------------------------- | ---------- |
 | anonymous credential        | A credential that, while still making an assertion about some property, status, or right of a person, does not reveal the person's identity. A credential may contain identity attributes but still be treated as an anonymous credential if the identity attributes are not recognized or used for identity information validation purposes. Anonymous credentials provide persons with a means to prove statements about themselves and their relationships with other persons or organizations while maintaining their anonymity.|

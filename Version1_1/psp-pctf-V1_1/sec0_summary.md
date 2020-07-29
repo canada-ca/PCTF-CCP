@@ -21,10 +21,10 @@ The PCTF defines two types of *digital representations* that are essential for t
 1. *Digital identities* of entities such as persons, organizations, and devices; and
 2. *Digital relationships* between entities.
 
-The PCTF supports the acceptance of digital identities and digital relationships by defining a set of discrete process patterns, known as *atomic processes*. These atomic processes can be mapped to existing business processes, independently assessed using conformance criteria<sup id="fnr-conformanceCriteria1">[fn-number](#fn-conformanceCriteria1)</sup>, and certified to be trusted and interoperable within the digital ecosystem.
+The PCTF supports the acceptance of digital identities and digital relationships by defining a set of discrete process patterns, known as *atomic processes*. These atomic processes can be mapped to existing business processes, independently assessed using conformance criteria<sup id="fnr-conformanceCriteria1"><a href="#fn-conformanceCriteria1" class="fnote"></a></sup>, and certified to be trusted and interoperable within the digital ecosystem.
 
 ---
 **Footnotes**
 
-<a name="fn-conformanceCriteria1">[fn-number](#fnr-conformanceCriteria1)</a> 
+<a name="fn-conformanceCriteria1" href="#fnr-conformanceCriteria1" class="fn"></a>
 The conformance criteria are maintained in a separate document.

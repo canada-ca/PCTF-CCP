@@ -12,7 +12,7 @@
 
 The identity management ecosystem in Canada is comprised of multiple identity providers relying on authoritative source registries that span provincial/territorial and federal jurisdictions. Consequently, the Canadian ecosystem employs a federated identity model. 
 
-The Pan-Canadian Trust Framework (PCTF) is an outcome of the Pan-Canadian approach for federating identities which is an agreement on the principles and standards to be used when developing identity solutions<sup id="fnr-identityAssurance">[fn-number](#fn-identityAssurance)</sup>. This approach, embodied in the PCTF, is intended to facilitate the transition to a digital ecosystem which will enable transformative digital service delivery solutions for citizens and residents of Canada.
+The Pan-Canadian Trust Framework (PCTF) is an outcome of the Pan-Canadian approach for federating identities which is an agreement on the principles and standards to be used when developing identity solutions<sup id="fnr-identityAssurance"><a href="#fn-identityAssurance" class="fnote"></a></sup>. This approach, embodied in the PCTF, is intended to facilitate the transition to a digital ecosystem which will enable transformative digital service delivery solutions for citizens and residents of Canada.
 
 #### 2.1.2 What is the PCTF?
 
@@ -49,6 +49,9 @@ The PCTF Model, as shown in Figure 1, is a high-level overview of the PCTF in di
 
 ![Figure 1: The Pan-Canadian Trust Framework Model](/images/PCTF-V1_1_FINAL.png)
 
+The Pan-Canadian Trust Framework Model
+{: .figure}
+
 The PCTF model consists of four main components:
 1. A **Normative Core** component that encapsulates the key concepts of the PCTF;
 2. A **Mutual Recognition** component that outlines the current methodology that is used to assess and certify actors in the digital ecosystem;
@@ -68,7 +71,7 @@ The four components of the PCTF are described in more detail in the subsequent f
 
 The PCTF draws a clear distinction between *foundational identity* and *contextual identity*:
 * A **Foundational Identity** is an identity that has been established or changed as a result of a foundational event (e.g., birth, person legal name change, immigration, legal residency, naturalized citizenship, death, organization legal name registration, organization legal name change, or bankruptcy).
-* A **Contextual Identity** is an identity that is used for a specific purpose within a specific identity context<sup id="fnr-specificIdentityContext">[fn-number](#fn-specificIdentityContext)</sup> (e.g., banking, business permits, health services, drivers licensing, or social media). Depending on the identity context, a contextual identity may be tied to a foundational identity (e.g., a drivers licence) or may not be tied to a foundational identity (e.g., a social media profile).
+* A **Contextual Identity** is an identity that is used for a specific purpose within a specific identity context<sup id="fnr-specificIdentityContext"><a href="#fn-specificIdentityContext" class="fnote"></a></sup> (e.g., banking, business permits, health services, drivers licensing, or social media). Depending on the identity context, a contextual identity may be tied to a foundational identity (e.g., a drivers licence) or may not be tied to a foundational identity (e.g., a social media profile).
 
 The establishment and maintenance of foundational identities is the exclusive domain of the public sector; specifically:
 * The Vital Statistics Organizations (VSOs) of the Provinces and Territories;
@@ -93,7 +96,7 @@ As the PCTF evolves these digital representations will be extended to include ot
 #### 2.3.3 Atomic and Compound Processes
 
 The PCTF defines a set of atomic processes that can be separately assessed and certified
-to interoperate with one another in a digital ecosystem. An atomic process is a set of<sup id="fnr-stateTransition">[fn-number](#fn-stateTransition)</sup>logically related activities that results in a state transition . The PCTF recognizes that in practice a business process is often a collection of atomic processes that results in a set of state transitions. These collections of atomic processes are referred to as compound processes.
+to interoperate with one another in a digital ecosystem. An atomic process is a set of<sup id="fnr-stateTransition"><a href="#fn-stateTransition" class="fnote"></a></sup> logically related activities that results in a state transition . The PCTF recognizes that in practice a business process is often a collection of atomic processes that results in a set of state transitions. These collections of atomic processes are referred to as compound processes.
 
 All of the atomic processes have been defined in a way that they can be implemented as modular services and be separately assessed for certification. Once an atomic process has been certified, it can be relied on or “trusted” and integrated into other digital ecosystem platforms. This digital ecosystem is intended to interoperate seamlessly across different organizations, sectors, and jurisdictions, and to be interoperable with other trust frameworks.
 
@@ -105,6 +108,9 @@ An atomic process is a set of logically related activities that results in the s
 
 ![Figure 2: Atomic Process Model](/images/Figure%20-%20Atomic%20Process%20Model.png)
 
+Atomic Process Model
+{: .figure}
+
 Atomic processes are crucial building blocks to ensuring the overall integrity of the digital identity supply chain and therefore, the integrity of digital services. The integrity of an atomic process is paramount because the output of an atomic process is relied upon by many participants – across jurisdictional and public and private sector boundaries, and over the short term and the long term. The PCTF ensures the integrity of an atomic process through agreed upon and well-defined conformance criteria that support an impartial, transparent, and evidence-based assessment and certification process.
 
 The conformance criteria associated with an atomic process specify what is required to transform an object’s input state into an output state. The conformance criteria ensure that the atomic process is carried out with integrity. For example, an atomic process may involve assigning an identifier to a person or organization. The conformance criteria may specify that any party responsible for carrying out the atomic process must ensure that the identifier assigned to the person or organization is unique for a specified population.
@@ -115,6 +121,9 @@ Figure 3 illustrates some model diagrams of three atomic processes.
 
 ![Figure 3: Examples of Atomic Processes (Modeled)](/images/Figure%20-%20Examples%20of%20Atomic%20Processes.png)
 
+Examples of Atomic Processes (Modeled)
+{: .figure}
+
 ##### 2.3.3.2 Compound Processes
 
 The primary function of the PCTF is to assess and certify existing business processes. When analyzed, these business processes are often composed of several atomic processes. A set of atomic processes grouped together form a compound process that results in a set of state transitions. It may also be the case that a compound process is composed of a set of other compound processes which in turn can be decomposed into a set of atomic processes.
@@ -122,6 +131,9 @@ The primary function of the PCTF is to assess and certify existing business proc
 For example, a business process that one party refers to as *Identity Confirmation* may in fact turn out to be a compound process consisting of 5 atomic processes as shown in Figure 4.
 
 ![Figure 4: Example of a Compound Process (Modeled)](/images/Figure%20-%20Example%20of%20a%20Compound%20Process.png)
+
+Example of a Compound Process (Modeled)
+{: .figure}
 
 **note:** Any ordering of the atomic processes should not be inferred from the diagram.
 
@@ -165,6 +177,7 @@ Process mapping consists of the set of activities to map program activities, bus
 
 In most cases, this mapping is applied to an existing program currently in operation. The table below illustrates some examples of mapping to existing business processes.
 
+{: .stickyTable}
 | Atomic Process                  | Existing Business Process Examples |
 | ------------------------------- | ---------------------------------- |
 | Identity Resolution             | A service enrolment process that attempts to uniquely identify a person based on the person’s name and date of birth<br>A business registry process that attempts to uniquely identify an organization based on the organization’s legal name, date of creation, address, and identification number/name on an authoritative record |
@@ -188,7 +201,7 @@ International mutual recognition is still in its early phases. Consideration sho
 
 #### 2.4.3 Assessment
 
-The PCTF defines a normative set of atomic processes and accompanying conformance criteria<sup id="fnr-conformanceCriteria">[fn-number](#fn-conformanceCriteria)</sup>. Once the existing business processes have been mapped to the atomic processes, they can be assessed and a determination made against each of the related atomic process conformance criteria.
+The PCTF defines a normative set of atomic processes and accompanying conformance criteria<sup id="fnr-conformanceCriteria2"><a href="#fn-conformanceCriteria2" class="fnote"></a></sup>. Once the existing business processes have been mapped to the atomic processes, they can be assessed and a determination made against each of the related atomic process conformance criteria.
 
 A detailed assessment worksheet has been developed to assist in the PCTF assessment process. This worksheet consolidates the atomic processes and accompanying conformance criteria into a single spreadsheet to aid in the mapping of existing business processes and assist the assessment team in cross-referencing data for assessment analysis. The conformance criteria are also mapped to qualifiers to assist in the selection of the conformance criteria that are applicable to the assessment process.
 
@@ -202,7 +215,7 @@ As the PCTF assessment process evolves, consideration will be given to determine
 
 Acceptance is the process of formally approving the outcome of the assessment process. The acceptance process is dependent on governance and takes into account the applicable mandates, legislation, regulations, and policies.
 
-Eventually, the PCTF acceptance process may include standard processes defined by the International Standards Organization (ISO)<sup id="fnr-ISO">[fn-number](#fn-ISO)</sup> as follows:
+Eventually, the PCTF acceptance process may include standard processes defined by the International Standards Organization (ISO)<sup id="fnr-ISO"><a href="#fn-ISO" class="fnote"></a></sup> as follows:
 * **Certification**: The provision by an independent body of written assurance (a certificate) that the product, service, or system in question meets specific requirements.
 * **Accreditation**: The formal recognition by an independent body (generally known as an accreditation body) that a certification body operates according to international standards.
 
@@ -218,6 +231,9 @@ Figure 5 illustrates some elements (with examples) of what could constitute a Su
 
 ![Figure 5: Supporting Infrastructure](/images/Figure%20-%20Supporting%20Infrastructure.png)
 
+Supporting Infrastructure
+{: .figure}
+
 The following sections provide details on two elements of the Supporting Infrastructure that can assist in relating legacy implementations to newer technologies and standards.
 
 #### 2.5.1 Methods
@@ -230,6 +246,9 @@ Conveyance mechanisms are the various methods by which the output of one atomic 
 
 ![Figure 6: Conveying Output States between Parties](/images/Figure%20-%20Conveying%20Output%20States%20between%20Parties.png)
 
+Conveying Output States between Parties
+{: .figure}
+
 The PCTF does not constrain the possibility of several competing providers and it is anticipated that many providers will coexist to serve the conveyance mechanism needs of different communities across the public and private sector.
 
 
@@ -239,12 +258,15 @@ Figure 7 illustrates a conceptual model of the digital ecosystem roles and infor
 
 ![Figure 7: Digital Ecosystem Roles and Information Flows](/images/Figure%20-%20Digital%20Ecosystem%20Roles%20and%20Information%20Flows.png)
 
+Digital Ecosystem Roles and Information Flows
+{: .figure}
+
 #### 2.6.1 Roles
 
 The model consists of four roles:
-1. **Subject**: An entity<sup id="fnr-entity">[fn-number](#fn-entity)</sup> about which **_Claims_** are asserted by an **_Issuer_**.
+1. **Subject**: An entity<sup id="fnr-entity"><a href="#fn-entity" class="fnote"></a></sup> about which **_Claims_** are asserted by an **_Issuer_**.
 2. **Issuer**: An entity that asserts one or more **_Claims_** about one or more **_Subjects_**, creates a **_Credential_** from these Claims, and assigns the Credential to a **_Holder_**.
-3. **Holder**: An entity that controls one or more **_Credentials_** from which a **_Presentation_** can be expressed to a **_Verifier_**. A Holder is usually, but not always, the **_Subject_** of a Credential<sup id="fnr-credentialHolder">[fn-number](#fn-credentialHolder)</sup>.
+3. **Holder**: An entity that controls one or more **_Credentials_** from which a **_Presentation_** can be expressed to a **_Verifier_**. A Holder is usually, but not always, the **_Subject_** of a Credential<sup id="fnr-credentialHolder"><a href="#fn-credentialHolder" class="fnote"></a></sup>.
 4. **Verifier**: An entity that accepts a **_Presentation_** from a **_Holder_** for the purposes of delivering services or administering programs.
 
 The digital ecosystem roles are carried out by many different entities that perform specific roles under a variety of labels. These specific roles can be categorized into the digital ecosystem roles as shown in the following table.
@@ -264,21 +286,21 @@ In addition to the four roles outlined above, digital ecosystem actors include S
 
 The model also consists of five information flows:
 1. **Claim**: A statement about a **_Subject_**.
-2. **Credential**: A set of one or more **_Claims_** asserted about one or more **_Subjects_**<sup id="fnr-multipleSubjects">[fn-number](#fn-multipleSubjects)</sup>.
+2. **Credential**: A set of one or more **_Claims_** asserted about one or more **_Subjects_**<sup id="fnr-multipleSubjects"><a href="#fn-multipleSubjects" class="fnote"></a></sup>.
 3. **Presentation**: Information derived from one or more **_Credentials_**. The data in a Presentation is often about the same **_Subject_**, but the Credentials might have been issued by different **_Issuers_**.
-4. **Credential Registration**: An indication<sup id="fnr-indication">[fn-number](#fn-indication)</sup> of the existence of a credential.
-5. **Correctness Confirmation**<sup id="fnr-correctnessConfirmation">[fn-number](#fn-correctnessConfirmation)</sup>: An indication of the correctness of the **_Presentation_** itself and the correctness of the information associated with the **_Presentation_**.
+4. **Credential Registration**: An indication<sup id="fnr-indication"><a href="#fn-indication" class="fnote"></a></sup> of the existence of a credential.
+5. **Correctness Confirmation**<sup id="fnr-correctnessConfirmation"><a href="#fn-correctnessConfirmation" class="fnote"></a></sup>: An indication of the correctness of the **_Presentation_** itself and the correctness of the information associated with the **_Presentation_**.
 
 
 ### 2.7 Atomic Processes in Detail
 
 #### 2.7.1 Identity Information Determination
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Information Determination is the process of determining the
-      identity context<sup id="fnr-section_4_3"><a href="#fn-section_4_3">fn-number</a></sup>, the identity information requirements<sup id="fnr-section_4_4"><a href="#fn-section_4_4">fn-number</a></sup>, and the identifier<sup id="fnr-section_4_4_1"><a href="#fn-section_4_4_1">fn-number</a></sup>.</td>
+      identity context<sup id="fnr-section_4_3"><a href="#fn-section_4_3" class="fnote"></a></sup>, the identity information requirements<sup id="fnr-section_4_4"><a href="#fn-section_4_4" class="fnote"></a></sup>, and the identifier<sup id="fnr-section_4_4_1"><a href="#fn-section_4_4_1" class="fnote"></a></sup>.</td>
   </tr>
   <tr>
     <th scope="row">Input State</th>
@@ -292,7 +314,7 @@ The model also consists of five information flows:
 
 #### 2.7.2 Identity Evidence Determination
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Evidence Determination is the process of determining the acceptable evidence of identity (whether physical or electronic).</td>
@@ -310,7 +332,7 @@ The model also consists of five information flows:
 
 #### 2.7.3 Identity Resolution
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Resolution is the process of establishing the uniqueness of a Subject within a program/service population through the use of identity information. A program or service defines its identity resolution requirements in terms of identity attributes; that is, it specifies the set of identity attributes that is required to achieve identity resolution within its population.</td>
@@ -327,7 +349,7 @@ The model also consists of five information flows:
 
 #### 2.7.4 Identity Establishment
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Establishment is the process of creating a record of identity of a Subject within a program/service population that may be relied on by others for subsequent programs, services, and activities.</td>
@@ -344,7 +366,7 @@ The model also consists of five information flows:
 
 #### 2.7.5 Identity Information Validation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Information Validation is the process of confirming the accuracy of identity information about a Subject as established by the Issuer.</td>
@@ -361,7 +383,7 @@ The model also consists of five information flows:
 
 #### 2.7.6 Identity Verification
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Verification is the process of confirming that the identity information is under the control of the Subject. It should be noted that this process may use personal information or organizational information that is not related to identity.</td>
@@ -378,7 +400,7 @@ The model also consists of five information flows:
 
 #### 2.7.7 Identity Evidence Validation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Evidence Validation is the process of confirming that the evidence of identity presented (whether physical or electronic) is acceptable.</td>
@@ -395,7 +417,7 @@ The model also consists of five information flows:
 
 #### 2.7.8 Identity Continuity
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Continuity is the process of dynamically confirming that the Subject has a continuous existence over time (i.e., “genuine presence”). This process can be used to ensure that there is no malicious or fraudulent activity (past or present) and to address identity spoofing concerns.</td>
@@ -413,7 +435,7 @@ The model also consists of five information flows:
 
 #### 2.7.9 Identity Maintenance
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Maintenance is the process of ensuring that a Subject’s identity information is accurate, complete, and up-to-date.</td>
@@ -431,7 +453,7 @@ date</td>
 
 #### 2.7.10 Identity Linking
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Identity Linking is the process of mapping two or more identifiers to the same Subject.</td>
@@ -448,7 +470,7 @@ date</td>
 
 #### 2.7.11 Credential-Identity Binding
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential-Identity Binding is the process of asserting one or more Claims about one or more Subjects.</td>
@@ -466,7 +488,7 @@ with one or more Subjects</td>
 
 #### 2.7.12 Credential Issuance
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Issuance is the process of creating a Credential from a set of Claims and assigning the Credential to a Holder.</td>
@@ -484,7 +506,7 @@ with one or more Subjects</td>
 
 #### 2.7.13 Credential-Authenticator Binding
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential-Authenticator Binding is the process of associating a credential issued to a Holder with one or more authenticators. This process also includes authenticator life-cycle activities such as suspending authenticators (caused by a forgotten password or a lockout due to successive failed authentications, inactivity, or suspicious activity), removing authenticators, binding new authenticators, and updating authenticators (e.g., changing a password, updating security questions and answers, having a new facial photo taken).</td>
@@ -502,7 +524,7 @@ associated with one or more authenticators</td>
 
 #### 2.7.14 Credential Validation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Validation is the process of verifying
@@ -520,7 +542,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.15 Credential Verification
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Verification is the process of verifying that a Holder has control over an issued credential. Control of an issued credential is verified by means one or more authenticators. The degree of control over the issued credential can be used to generate a level of assurance.</td>
@@ -538,7 +560,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.16 Credential Maintenance
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Maintenance is the process of updating the credential attributes (e.g., expiry date, scope of service, permissions) of an issued credential.</td>
@@ -555,7 +577,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.17 Credential Suspension
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Suspension is the process of transforming an issued credential into a suspended credential by flagging the issued credential as temporarily unusable.</td>
@@ -572,7 +594,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.18 Credential Recovery
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Recovery is the process of transforming a suspended credential back to a usable state (i.e., an issued credential).</td>
@@ -589,7 +611,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.19 Credential Revocation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Credential Revocation is the process of ensuring that an issued credential is permanently flagged as unusable.</td>
@@ -606,7 +628,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.20 Notice Formulation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Notice Formulation is the process of producing a notice statement that describes what personal information is being, or may be, collected; with which parties the personal information is being shared and what type of personal information is being shared (as known at the time of presentation); for what purposes the personal information is being collected, used, or disclosed; the risk of harm and other consequences as a result of the collection, use, or disclosure; how the personal information will be handled and protected; the time period for which the notice statement is applicable; and under whose jurisdiction or authority the notice statement is issued. This process should be carried out in accordance with any requirements of jurisdictional legislation and regulation</td>
@@ -623,7 +645,7 @@ credential is valid (e.g., not tampered with, corrupted, modified, suspended, or
 
 #### 2.7.21 Notice Presentation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Notice Presentation is the process of presenting a notice statement to a person.</td>
@@ -641,7 +663,7 @@ presented to a person</td>
 
 #### 2.7.22 Consent Request
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Request is the process of asking a person to agree to provide consent (“Yes”) or decline to provide consent (“No”) based on the contents of a presented notice statement, resulting in either a “yes” or “no” consent decision.</td>
@@ -658,7 +680,7 @@ presented to a person</td>
 
 #### 2.7.23 Consent Registration
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Registration is the process of persisting a notice statement and the person’s related consent decision, to storage. In addition, information about the person, the version of the notice statement that was presented, the date and time that the notice statement was presented, and, if applicable, the expiration date for the consent decision may be stored. Once the consent information has been stored, a notification on the consent decision made is issued to the relevant parties to the consent decision.</td>
@@ -675,7 +697,7 @@ presented to a person</td>
 
 #### 2.7.24 Consent Review
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Review is the process of making the details of a stored consent decision visible to the person who provided the consent.</td>
@@ -692,7 +714,7 @@ presented to a person</td>
 
 #### 2.7.25 Consent Renewal
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Renewal is the process of extending the validity of a “yes” consent decision by means of increasing an expiration date limit.</td>
@@ -710,7 +732,7 @@ updated</td>
 
 #### 2.7.26 Consent Expiration
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Expiration is the process of suspending the validity of a “yes” consent decision as a result of exceeding an expiration date limit.</td>
@@ -729,7 +751,7 @@ updated
 
 #### 2.7.27 Consent Revocation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Consent Revocation is the process of suspending the validity of a “yes” consent decision as a result of an explicit withdrawal of consent by the person (i.e., a “yes” consent decision is converted into a “no” consent decision).</td>
@@ -747,7 +769,7 @@ updated</td>
 
 #### 2.7.28 Signature Creation
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Signature Creation is the process of creating a signature.</td>
@@ -764,7 +786,7 @@ updated</td>
 
 #### 2.7.29 Signature Checking
 
-<table>
+<table class="atomic">
   <tr>
     <th scope="row">Process Description</th>
     <td>Signature Checking is the process of confirming that the signature is valid.</td>
@@ -817,41 +839,41 @@ Qualifiers may be based on levels of assurance defined in the NIST *Special Publ
 ---
 **Footnotes**
   
-<a name="fn-identityAssurance">[fn-number](#fnr-identityAssurance)</a> 
+<a name="fn-identityAssurance" href="#fnr-identityAssurance" class="fn"></a> 
 See: *Guideline on Identity Assurance* [TBS d., 2017].
 
-<a name="fn-specificIdentityContext">[fn-number](#fnr-specificIdentityContext)</a> 
+<a name="fn-specificIdentityContext" href="#fnr-specificIdentityContext" class="fn"></a> 
 In delivering their programs and services, program/service providers operate within a certain environment or set of circumstances, which in the domain of identity management is referred to as the identity context. Identity context is determined by factors such as mandate, target population (i.e., clients, customer base), and other responsibilities prescribed by legislation or agreements. For more information on identity and identity management concepts, see Appendix B.
 
-<a name="fn-stateTransition">[fn-number](#fnr-stateTransition)</a> 
+<a name="fn-stateTransition" href="#fnr-stateTransition" class="fn"></a> 
 A state transition is the transformation of an object input state to an output state.
 
-<a name="fn-conformanceCriteria">[fn-number](#fnr-conformanceCriteria)</a> 
+<a name="fn-conformanceCriteria2" href="#fnr-conformanceCriteria2" class="fn"></a> 
 The conformance criteria are maintained in a separate document.
 
-<a name="fn-ISO">[fn-number](#fnr-ISO)</a> 
+<a name="fn-ISO" href="#fnr-ISO" class="fn"></a> 
 ISO website: https://www.iso.org/certification.html.
 
-<a name="fn-entity">[fn-number](#fnr-entity)</a> 
+<a name="fn-entity" href="#fnr-entity" class="fn"></a> 
 An entity is defined as a thing with a distinct and independent existence such as a person, organization, or device that can be subject to legislation, policy, or regulations within a context, and which may have certain rights, duties, and obligations. An entity can perform one or more roles in the digital ecosystem.
 
-<a name="fn-credentialHolder">[fn-number](#fnr-credentialHolder)</a> 
+<a name="fn-credentialHolder" href="#fnr-credentialHolder" class="fn"></a> 
 Examples of where the Holder is not the Subject of a Credential would be a parent (the holder) holding the birth certificate (the credential) of their child (the subject) or a restaurant owner (the holder) holding a permit to operate (the credential) of a business (the subject).
 
-<a name="fn-multipleSubjects">[fn-number](#fnr-multipleSubjects)</a> 
+<a name="fn-multipleSubjects" href="#fnr-multipleSubjects" class="fn"></a> 
 An example of a credential having more than one subject is a marriage certificate.
 
-<a name="fn-indication">[fn-number](#fnr-indication)</a> 
+<a name="fn-indication" href="#fnr-indication" class="fn"></a>
 The indication may be a credential schema or the credential itself.
 
-<a name="fn-correctnessConfirmation">[fn-number](#fnr-correctnessConfirmation)</a> 
+<a name="fn-correctnessConfirmation" href="#fnr-correctnessConfirmation" class="fn"></a> 
 Correctness confirmation is often achieved by connecting a Verifier to an Issuer through a peer-to-peer system or an intermediary system.
 
-<a name="fn-section_4_3">[fn-number](#fnr-section_4_3)</a> 
+<a name="fn-section_4_3" href="#fnr-section_4_3" class="fn"></a> 
 See Section 4.3 for more information.
 
-<a name="fn-section_4_4">[fn-number](#fnr-section_4_4)</a> 
+<a name="fn-section_4_4" href="#fnr-section_4_4" class="fn"></a> 
 See Section 4.4 for more information.
 
-<a name="fn-section_4_4_1">[fn-number](#fnr-section_4_4_1)</a> 
+<a name="fn-section_4_4_1" href="#fnr-section_4_4_1" class="fn"></a> 
 See Section 4.4.1 for more information.
