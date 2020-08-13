@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
 include: [".htaccess", "README.md", "LICENCE.md"]
 markdown: kramdown
