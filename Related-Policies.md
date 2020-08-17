@@ -24,7 +24,7 @@ The following are links to various international schemes that are relavent to th
 
 ### India
 
-* Aadhaar (English: foundation or base)
+* Aadhaar (English Meaning: foundation or base)
   * <a href="docs/RelatedPolicies/aadhaar_act_2016.pdf">Aadhaar Act 2016 (PDF)</a>
   * <a href="docs/RelatedPolicies/aadhaar_amendment_ordinance.pdf">Aadhaar Amendment March 2019 (PDF)</a>
   * <a href="docs/RelatedPolicies/aadhaar_amendment_act_2019.pdf">Aadhaar Amendment July 2019 (PDF)</a>
