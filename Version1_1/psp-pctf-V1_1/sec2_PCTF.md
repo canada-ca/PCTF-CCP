@@ -47,7 +47,7 @@ Currently, the scope of the Pan-Canadian Trust Framework is:
 
 The PCTF Model, as shown in Figure 1, is a high-level overview of the PCTF in diagram form.
 
-![Figure 1: The Pan-Canadian Trust Framework Model](/images/PCTF-V1_1_FINAL.png)
+![Figure 1: The Pan-Canadian Trust Framework Model](./images/PCTF-V1_1_FINAL.png)
 
 The Pan-Canadian Trust Framework Model
 {: .figure}
@@ -106,7 +106,7 @@ It should be noted that two atomic processes -- *Identity Information Determinat
 
 An atomic process is a set of logically related activities that results in the state transition of an object. The object’s output state can be relied on by other atomic processes. Figure 2 illustrates the atomic process model.
 
-![Figure 2: Atomic Process Model](/images/Figure%20-%20Atomic%20Process%20Model.png)
+![Figure 2: Atomic Process Model](./images/Figure%20-%20Atomic%20Process%20Model.png)
 
 Atomic Process Model
 {: .figure}
@@ -119,7 +119,7 @@ The atomic processes are detailed in Section 2.7.
 
 Figure 3 illustrates some model diagrams of three atomic processes.
 
-![Figure 3: Examples of Atomic Processes (Modeled)](/images/Figure%20-%20Examples%20of%20Atomic%20Processes.png)
+![Figure 3: Examples of Atomic Processes (Modeled)](./images/Figure%20-%20Examples%20of%20Atomic%20Processes.png)
 
 Examples of Atomic Processes (Modeled)
 {: .figure}
@@ -130,7 +130,7 @@ The primary function of the PCTF is to assess and certify existing business proc
 
 For example, a business process that one party refers to as *Identity Confirmation* may in fact turn out to be a compound process consisting of 5 atomic processes as shown in Figure 4.
 
-![Figure 4: Example of a Compound Process (Modeled)](/images/Figure%20-%20Example%20of%20a%20Compound%20Process.png)
+![Figure 4: Example of a Compound Process (Modeled)](./images/Figure%20-%20Example%20of%20a%20Compound%20Process.png)
 
 Example of a Compound Process (Modeled)
 {: .figure}
@@ -229,7 +229,7 @@ The Supporting Infrastructure is the set of operational and technical policies, 
 
 Figure 5 illustrates some elements (with examples) of what could constitute a Supporting Infrastructure.
 
-![Figure 5: Supporting Infrastructure](/images/Figure%20-%20Supporting%20Infrastructure.png)
+![Figure 5: Supporting Infrastructure](./images/Figure%20-%20Supporting%20Infrastructure.png)
 
 Supporting Infrastructure
 {: .figure}
@@ -244,7 +244,7 @@ Methods encompass the sets of rules that govern such things as data models, comm
 
 Conveyance mechanisms are the various methods by which the output of one atomic process is made available for use as the input to another atomic process. As can be seen in Figure 6, the conveyance mechanisms are situated between the parties producing and consuming the output states of atomic processes.
 
-![Figure 6: Conveying Output States between Parties](/images/Figure%20-%20Conveying%20Output%20States%20between%20Parties.png)
+![Figure 6: Conveying Output States between Parties](./images/Figure%20-%20Conveying%20Output%20States%20between%20Parties.png)
 
 Conveying Output States between Parties
 {: .figure}
@@ -256,7 +256,7 @@ The PCTF does not constrain the possibility of several competing providers and i
 
 Figure 7 illustrates a conceptual model of the digital ecosystem roles and information flows. (Note that “Methods” in the diagram is discussed in Section 2.5.1.)
 
-![Figure 7: Digital Ecosystem Roles and Information Flows](/images/Figure%20-%20Digital%20Ecosystem%20Roles%20and%20Information%20Flows.png)
+![Figure 7: Digital Ecosystem Roles and Information Flows](./images/Figure%20-%20Digital%20Ecosystem%20Roles%20and%20Information%20Flows.png)
 
 Digital Ecosystem Roles and Information Flows
 {: .figure}
