@@ -1,0 +1,14 @@
+{
+  "ignorePatterns": [
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "https://canada-ca.github.io/ucvdcc/",
+      "replacement": ""
+    },
+    {
+      "pattern": "&quot;",
+      "replacement": ""
+    }
+  ]
+}
