@@ -21,7 +21,6 @@ Identity in the domain of identity management has a much narrower scope than rea
 
 An identity must be unique<sup id="fnr-uniqueID"><a href="#fn-uniqueID" class="fnote"></a></sup>. This means that each person and organization can be distinguished from all other persons and organizations and that, when required, each person and organization can be uniquely identified. The uniqueness requirement ensures that a program or service can be delivered to a specific person or organization and that a program or service is delivered to the right person or organization.
 
-
 ### 4.2 Defining the Population
 
 In the Canadian context, the universe of persons is defined as all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada. The universe of organizations is defined as all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada. Those persons or organizations that fall within the mandate of a program or service constitute the population of the program or service<sup id="fnr-populationCharacteristics"><a href="#fn-populationCharacteristics" class="fnote"></a></sup>.
@@ -56,6 +55,7 @@ The following considerations should be kept in mind when defining the identity c
 ### 4.4 Determining Identity Information Requirements
 
 A property or characteristic associated with an identifiable person or organization is referred to as an *identity attribute* or an *identity data element*. Examples of identity attributes for a person include *name* and *date of birth*. Examples of identity attributes for an organization include *legal name* and *date of creation*. For any given program or service, identity information is the set of identity attributes that is both:
+
 * Sufficient to distinguish between different persons or organizations within the program/service population (i.e., achieve the uniqueness requirement for identity); and
 * Sufficient to describe the person or organization as required by the program or service.
 
@@ -119,7 +119,7 @@ If ensuring the accuracy of identity information by means of an authoritative so
 **Footnotes**
 
 <a name="fn-JoeAndrieu" href="#fnr-JoeAndrieu" class="fn"></a>
-The full text of the article can be found at: http://bit.ly/FunctionalIdentityPrimer.
+The full text of the article can be found at: <http://bit.ly/FunctionalIdentityPrimer>.
 
 <a name="fn-uniqueID" href="#fnr-uniqueID" class="fn"></a>
 This is one of the requirements for establishing an identity assurance level. See Appendix C of the Standard on Identity and Credential Assurance [TBS c., 2013].

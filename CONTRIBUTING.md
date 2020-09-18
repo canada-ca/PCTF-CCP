@@ -3,7 +3,7 @@
 
 **Review the documentation.** No account is needed to review the PCTF. Simply follow [this link](https://github.com/canada-ca/PCTF-CCP). However, if you wish to comment you must:
 
-1. **Establish a GitHub account.** In order to submit a comment through the GitHub “Issues” feature, you will need to create a GitHub account. This can be done by proceeding to [https://github.com/join]. **For issues submitted on behalf of an organization, a generic account named for the organization is preferred, rather than a personal account from someone within the organization.**
+1. **Establish a GitHub account.** In order to submit a comment through the GitHub “Issues” feature, you will need to create a GitHub account. This can be done by proceeding to <https://github.com/join>. **For issues submitted on behalf of an organization, a generic account named for the organization is preferred, rather than a personal account from someone within the organization.**
 2. **Open an issue.** As you are reading and identify comments you would like to make:
    1. Click on the "Issues" tab on the PCTF navigation bar.
    ![Issues tab](images/github-issues-tab.png)

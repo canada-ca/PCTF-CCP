@@ -36,6 +36,7 @@ Finally, it should be noted that the Public Sector Profile of the PCTF, in itsel
 #### 2.1.3 Scope of the PCTF
 
 Currently, the scope of the Pan-Canadian Trust Framework is:
+
 * Persons in Canada: all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada;
 * Organizations in Canada: all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada; and
 * Relationships in Canada: of persons to persons, organizations to organizations, and persons to organizations.
@@ -279,6 +280,7 @@ In addition to the four roles outlined above, digital ecosystem actors include S
 #### 2.6.2 Information Flows
 
 The model also consists of five information flows:
+
 1. **Claim**: A statement about a **_Subject_**.
 2. **Credential**: A set of one or more **_Claims_** asserted about one or more **_Subjects_**<sup id="fnr-multipleSubjects"><a href="#fn-multipleSubjects" class="fnote"></a></sup>.
 3. **Presentation**: Information derived from one or more **_Credentials_**. The data in a Presentation is often about the same **_Subject_**, but the Credentials might have been issued by different **_Issuers_**.
@@ -847,7 +849,7 @@ A state transition is the transformation of an object input state to an output s
 The conformance criteria are maintained in a separate document.
 
 <a name="fn-ISO" href="#fnr-ISO" class="fn"></a>
-ISO website: https://www.iso.org/certification.html.
+ISO website: <https://www.iso.org/certification.html>.
 
 <a name="fn-entity" href="#fnr-entity" class="fn"></a>
 An entity is defined as a thing with a distinct and independent existence such as a person, organization, or device that can be subject to legislation, policy, or regulations within a context, and which may have certain rights, duties, and obligations. An entity can perform one or more roles in the digital ecosystem.

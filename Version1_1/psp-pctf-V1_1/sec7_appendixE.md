@@ -45,6 +45,7 @@ The current assessment determinations in use are:
 ### 7.4 Acceptance
 
 Upon completion of the assessment process, a *Letter of Acceptance* is issued to the jurisdiction. This letter should:
+
 * Be addressed to the person/organization/jurisdiction accountable for being the issuer of the digital identity;
 * Be signed by the person/organization/jurisdiction accepting the digital identity at a given qualifier level;
 * Include the specific scope or use of the digital identity, including the time period; and,

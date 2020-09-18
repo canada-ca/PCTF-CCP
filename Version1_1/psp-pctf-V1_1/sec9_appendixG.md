@@ -34,5 +34,6 @@
    1. Verifiable Credentials Data Model 1.0 (2019)
 
 <ins><b>Individuals</b></ins>
+
 1. <ins>Joe Andrieu</ins>
    1. A Primer on Functional Identity (2018)
