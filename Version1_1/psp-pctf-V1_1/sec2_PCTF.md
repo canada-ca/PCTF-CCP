@@ -1,16 +1,14 @@
-
 <a name="sec2"></a>
 
 <div class="breaker"></div>
 
 ## 2 <a name="PCTF"></a>THE PAN-CANADIAN TRUST FRAMEWORK
 
-
 ### 2.1 Overview
 
 #### 2.1.1 Background
 
-The identity management ecosystem in Canada is comprised of multiple identity providers relying on authoritative source registries that span provincial/territorial and federal jurisdictions. Consequently, the Canadian ecosystem employs a federated identity model. 
+The identity management ecosystem in Canada is comprised of multiple identity providers relying on authoritative source registries that span provincial/territorial and federal jurisdictions. Consequently, the Canadian ecosystem employs a federated identity model.
 
 The Pan-Canadian Trust Framework (PCTF) is an outcome of the Pan-Canadian approach for federating identities which is an agreement on the principles and standards to be used when developing identity solutions<sup id="fnr-identityAssurance"><a href="#fn-identityAssurance" class="fnote"></a></sup>. This approach, embodied in the PCTF, is intended to facilitate the transition to a digital ecosystem which will enable transformative digital service delivery solutions for citizens and residents of Canada.
 
@@ -21,12 +19,14 @@ The PCTF is a model that consists of a set of agreed-on concepts, definitions, p
 The PCTF facilitates a common approach between the public sector and the private sector. Use of the PCTF ensures alignment, interoperability, and confidence of digital identity solutions that are intended to work across organizational, sectoral, and jurisdictional boundaries. In addition, the PCTF supplements existing legislation, regulations, and policies.
 
 The PCTF supports the acceptance and mutual recognition of:
+
 * Digital identities of entities such as persons and organizations; and
 * Digital relationships between entities.
 
 The PCTF defines a set of discrete process patterns (called atomic processes) that can be mapped to business processes. This mapping makes possible a structured assessment and evaluation of a digital identity solution and identifies any dependencies on external organizations and providers.
 
 The PCTF is technology-agnostic and is defined in a way that encourages innovation and participation in the digital ecosystem. It allows for the interoperability of different platforms, services, architectures, and technologies. Furthermore, the PCTF is designed to take into consideration international digital identity frameworks, such as:
+
 * The Electronic Identification, Authentication, and Trust Services (eIDAS);
 * The Financial Action Task Force (FATF); and
 * The United Nations Commission on International Trade Law (UNCITRAL).
@@ -40,9 +40,6 @@ Currently, the scope of the Pan-Canadian Trust Framework is:
 * Organizations in Canada: all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada; and
 * Relationships in Canada: of persons to persons, organizations to organizations, and persons to organizations.
 
-
-
-
 ### 2.2 The PCTF Model
 
 The PCTF Model, as shown in Figure 1, is a high-level overview of the PCTF in diagram form.
@@ -53,6 +50,7 @@ The Pan-Canadian Trust Framework Model
 {: .figure}
 
 The PCTF model consists of four main components:
+
 1. A **Normative Core** component that encapsulates the key concepts of the PCTF;
 2. A **Mutual Recognition** component that outlines the current methodology that is used to assess and certify actors in the digital ecosystem;
 3. A **Supporting Infrastructure** component that describes the set of operational and technical policies, rules, and standards that serve as the primary enablers of a digital ecosystem; and
@@ -62,18 +60,17 @@ All items in the "Normative Core" component are prescriptive. The section on the
 
 The four components of the PCTF are described in more detail in the subsequent four sections of this document (Sections 2.3 to 2.6 inclusive).
 
-
-
-
 ### 2.3 Normative Core
 
 #### 2.3.1 Identity Domains
 
 The PCTF draws a clear distinction between *foundational identity* and *contextual identity*:
+
 * A **Foundational Identity** is an identity that has been established or changed as a result of a foundational event (e.g., birth, person legal name change, immigration, legal residency, naturalized citizenship, death, organization legal name registration, organization legal name change, or bankruptcy).
 * A **Contextual Identity** is an identity that is used for a specific purpose within a specific identity context<sup id="fnr-specificIdentityContext"><a href="#fn-specificIdentityContext" class="fnote"></a></sup> (e.g., banking, business permits, health services, drivers licensing, or social media). Depending on the identity context, a contextual identity may be tied to a foundational identity (e.g., a drivers licence) or may not be tied to a foundational identity (e.g., a social media profile).
 
 The establishment and maintenance of foundational identities is the exclusive domain of the public sector; specifically:
+
 * The Vital Statistics Organizations (VSOs) of the Provinces and Territories;
 * The Business Registries of the Provinces and Territories;
 * Immigration, Refugees, and Citizenship Canada (IRCC); and
@@ -86,6 +83,7 @@ The establishment and maintenance of contextual identities is the domain of both
 A digital representation is an electronic representation of an entity or an electronic representation of the relationship between two entities. Digital representations are intended to model real-world actors, such as persons, organizations, and devices.
 
 Currently, the PCTF recognizes two types of digital representations:
+
 * **Digital Identity**: An electronic representation of an entity, used exclusively by that same entity, to access valued services and to carry out transactions with trust and confidence.
 * **Digital Relationship**: An electronic representation of the relationship of one entity to another entity.
 
@@ -95,8 +93,7 @@ As the PCTF evolves these digital representations will be extended to include ot
 
 #### 2.3.3 Atomic and Compound Processes
 
-The PCTF defines a set of atomic processes that can be separately assessed and certified
-to interoperate with one another in a digital ecosystem. An atomic process is a set of<sup id="fnr-stateTransition"><a href="#fn-stateTransition" class="fnote"></a></sup> logically related activities that results in a state transition . The PCTF recognizes that in practice a business process is often a collection of atomic processes that results in a set of state transitions. These collections of atomic processes are referred to as compound processes.
+The PCTF defines a set of atomic processes that can be separately assessed and certified to interoperate with one another in a digital ecosystem. An atomic process is a set of<sup id="fnr-stateTransition"><a href="#fn-stateTransition" class="fnote"></a></sup> logically related activities that results in a state transition . The PCTF recognizes that in practice a business process is often a collection of atomic processes that results in a set of state transitions. These collections of atomic processes are referred to as compound processes.
 
 All of the atomic processes have been defined in a way that they can be implemented as modular services and be separately assessed for certification. Once an atomic process has been certified, it can be relied on or “trusted” and integrated into other digital ecosystem platforms. This digital ecosystem is intended to interoperate seamlessly across different organizations, sectors, and jurisdictions, and to be interoperable with other trust frameworks.
 
@@ -143,7 +140,6 @@ The PCTF model recognizes two types of dependencies. The first type is those dep
 
 The second type is dependencies on external organizations for the provision of atomic process outputs (e.g., a commercial service provider or a credential authentication service). This type of dependency is identified and noted in the assessment process (see Section 2.4.3).
 
-
 #### 2.3.5 Conformance Criteria
 
 Conformance criteria are a set of requirement statements that define what is necessary to ensure the integrity of an atomic process. Conformance criteria are used to support an impartial, transparent, and evidence-based assessment and certification process.
@@ -161,7 +157,6 @@ Qualifiers help to further indicate a level of confidence, stringency required, 
 Conformance criteria may have no qualifiers (applicable in all cases), a single qualifier (applicable in certain cases), or several qualifiers (applicable in many cases). Consult the assessment worksheet for examples of how qualifiers are used for assessment and how they may be mapped to other frameworks.
 
 Jurisdictions may wish to use the qualifiers that are already defined in the PCTF. They may also define new qualifiers to reflect their specific requirements and add new conformance criteria if required. New qualifiers may be incorporated back into the normative core component of the PCTF; however, these changes should be subject to a formal governance process or change management process. It should also be noted that if new qualifiers and conformance criteria are introduced into the PCTF, these will need to be mapped to and vetted against the existing conformance criteria. See Section 2.8 for more information on qualifiers.
-
 
 ### 2.4 Mutual Recognition
 
@@ -192,12 +187,12 @@ In most cases, this mapping is applied to an existing program currently in opera
 Alignment of processes, systems, and solutions assists in mutual recognition across an international context where multiple frameworks may be in use.
 
 For example, someone who accesses Canadian digital services may also need to access digital services in other countries. Recognizing this evolution toward the international context, the PCTF is being designed to be applied in conjunction with established and emerging global frameworks, such as:
+
 * The Electronic Identification, Authentication, and Trust Services (eIDAS)
 * The Financial Action Task Force (FATF) – *Guidance on Digital Identity*
 * The United Nations Commission on International Trade Law (UNCITRAL) – *Draft Provisions on the Cross-border Recognition of Identity Management and Trust Services*
 
 International mutual recognition is still in its early phases. Consideration should be given to aligning to these frameworks before commencing the assessment process.
-
 
 #### 2.4.3 Assessment
 
@@ -216,12 +211,11 @@ As the PCTF assessment process evolves, consideration will be given to determine
 Acceptance is the process of formally approving the outcome of the assessment process. The acceptance process is dependent on governance and takes into account the applicable mandates, legislation, regulations, and policies.
 
 Eventually, the PCTF acceptance process may include standard processes defined by the International Standards Organization (ISO)<sup id="fnr-ISO"><a href="#fn-ISO" class="fnote"></a></sup> as follows:
+
 * **Certification**: The provision by an independent body of written assurance (a certificate) that the product, service, or system in question meets specific requirements.
 * **Accreditation**: The formal recognition by an independent body (generally known as an accreditation body) that a certification body operates according to international standards.
 
 Formalized certification and accreditation programs are currently being developed. It is anticipated that once formalized, independent third parties will be enabled to conduct PCTF assessments. There are several domestic and international standards bodies that have recognized conformity assessment standards and programs. For example, the Standards Council of Canada has the mandate to promote voluntary standardization in Canada, where standardization is not expressly provided for by law.
-
-
 
 ### 2.5 Supporting Infrastructure
 
@@ -251,7 +245,6 @@ Conveying Output States between Parties
 
 The PCTF does not constrain the possibility of several competing providers and it is anticipated that many providers will coexist to serve the conveyance mechanism needs of different communities across the public and private sector.
 
-
 ### 2.6 Digital Ecosystem and Information Flows
 
 Figure 7 illustrates a conceptual model of the digital ecosystem roles and information flows. (Note that “Methods” in the diagram is discussed in Section 2.5.1.)
@@ -264,6 +257,7 @@ Digital Ecosystem Roles and Information Flows
 #### 2.6.1 Roles
 
 The model consists of four roles:
+
 1. **Subject**: An entity<sup id="fnr-entity"><a href="#fn-entity" class="fnote"></a></sup> about which **_Claims_** are asserted by an **_Issuer_**.
 2. **Issuer**: An entity that asserts one or more **_Claims_** about one or more **_Subjects_**, creates a **_Credential_** from these Claims, and assigns the Credential to a **_Holder_**.
 3. **Holder**: An entity that controls one or more **_Credentials_** from which a **_Presentation_** can be expressed to a **_Verifier_**. A Holder is usually, but not always, the **_Subject_** of a Credential<sup id="fnr-credentialHolder"><a href="#fn-credentialHolder" class="fnote"></a></sup>.
@@ -272,7 +266,7 @@ The model consists of four roles:
 The digital ecosystem roles are carried out by many different entities that perform specific roles under a variety of labels. These specific roles can be categorized into the digital ecosystem roles as shown in the following table.
 
 | Role      | Example |
-| --------- | ------- | 
+| --------- | ------- |
 | Issuer    | Authoritative Party, Identity Assurance Provider, Identity Proofing Service Provider, Identity Provider, Credential Assurance Provider, Credential Service Provider, Credential Provider, Authenticator Provider, Digital Identity Provider, Delegated Service Provider |
 | Subject   | Person, Organization, Device |
 | Holder    | Digital Identity Owner, Card Holder |
@@ -290,7 +284,6 @@ The model also consists of five information flows:
 3. **Presentation**: Information derived from one or more **_Credentials_**. The data in a Presentation is often about the same **_Subject_**, but the Credentials might have been issued by different **_Issuers_**.
 4. **Credential Registration**: An indication<sup id="fnr-indication"><a href="#fn-indication" class="fnote"></a></sup> of the existence of a credential.
 5. **Correctness Confirmation**<sup id="fnr-correctnessConfirmation"><a href="#fn-correctnessConfirmation" class="fnote"></a></sup>: An indication of the correctness of the **_Presentation_** itself and the correctness of the information associated with the **_Presentation_**.
-
 
 ### 2.7 Atomic Processes in Detail
 
@@ -328,7 +321,6 @@ The model also consists of five information flows:
     <td><b>Determination Made</b>: The acceptable evidence of identity has been determined</td>
   </tr>
 </table>
-
 
 #### 2.7.3 Identity Resolution
 
@@ -806,12 +798,14 @@ updated</td>
 #### 2.8.1 Identity Domain Qualifiers
 
 To reflect the shared responsibility of identity across jurisdictions within the Pan- Canadian context, two identity domain qualifiers have been defined:
+
 * **Foundational Identity Domain**: Conformance criteria that are tied to a specific foundational event (e.g., birth, person legal name change, immigration, legal residency, naturalized citizenship, death, organization legal name registration, organization legal name change, or bankruptcy). Foundational identities are the exclusive domain of the public sector (specifically, the Vital Statistics Organizations [VSOs] and Business Registries of the Provinces and Territories; Immigration, Refugees, and Citizenship Canada [IRCC]; and the Federal Corporate Registry of Corporations Canada).
 * **Contextual Identity Domain**: Conformance criteria that are specific to an identity context (e.g., banking, business permits, health services, drivers licensing, or social media). Depending on the context, a contextual identity may be tied to a foundational identity (e.g., a drivers licence) or may not be tied to a foundational identity (e.g., a social media profile). Contextual identities are the domain of both the public and private sectors.
 
 #### 2.8.2 Pan-Canadian Levels of Assurance (LOA) Qualifiers
 
 The current version of the PCTF conformance criteria uses the four Pan-Canadian Levels of Assurance (LOA):
+
 * **Level 1**: Little or no confidence required.
 * **Level 2**: Some confidence required.
 * **Level 3**: High confidence required.
@@ -826,54 +820,55 @@ There are a number of cases where PIPEDA Part 2 is technology specific and requi
 #### 2.8.4 Other Trust Frameworks Qualifiers
 
 Qualifiers may be based on the three levels of assurance defined by the European Regulation No 910/2014 on electronic identification and trust services for electronic transactions:
+
 * **Low**: Low degree of confidence.
 * **Substantial**: Substantial degree of confidence.
 * **High**: High degree of confidence.
 
 Qualifiers may be based on levels of assurance defined in the NIST *Special Publication 800-63 Digital Identity Guidelines*:
+
 * **Identity Assurance Level (IAL)**: Refers to the identity proofing level.
 * **Authenticator Assurance Level (AAL)**: Refers to the authentication process.
 * **Federation Assurance Level (FAL)**: Refers to the strength of an assertion in a federated environment, used to communicate authentication and attribute information (if applicable) to a relying party.
 
-
 ---
 **Footnotes**
-  
-<a name="fn-identityAssurance" href="#fnr-identityAssurance" class="fn"></a> 
+
+<a name="fn-identityAssurance" href="#fnr-identityAssurance" class="fn"></a>
 See: *Guideline on Identity Assurance* [TBS d., 2017].
 
-<a name="fn-specificIdentityContext" href="#fnr-specificIdentityContext" class="fn"></a> 
+<a name="fn-specificIdentityContext" href="#fnr-specificIdentityContext" class="fn"></a>
 In delivering their programs and services, program/service providers operate within a certain environment or set of circumstances, which in the domain of identity management is referred to as the identity context. Identity context is determined by factors such as mandate, target population (i.e., clients, customer base), and other responsibilities prescribed by legislation or agreements. For more information on identity and identity management concepts, see Appendix B.
 
-<a name="fn-stateTransition" href="#fnr-stateTransition" class="fn"></a> 
+<a name="fn-stateTransition" href="#fnr-stateTransition" class="fn"></a>
 A state transition is the transformation of an object input state to an output state.
 
-<a name="fn-conformanceCriteria2" href="#fnr-conformanceCriteria2" class="fn"></a> 
+<a name="fn-conformanceCriteria2" href="#fnr-conformanceCriteria2" class="fn"></a>
 The conformance criteria are maintained in a separate document.
 
-<a name="fn-ISO" href="#fnr-ISO" class="fn"></a> 
+<a name="fn-ISO" href="#fnr-ISO" class="fn"></a>
 ISO website: https://www.iso.org/certification.html.
 
-<a name="fn-entity" href="#fnr-entity" class="fn"></a> 
+<a name="fn-entity" href="#fnr-entity" class="fn"></a>
 An entity is defined as a thing with a distinct and independent existence such as a person, organization, or device that can be subject to legislation, policy, or regulations within a context, and which may have certain rights, duties, and obligations. An entity can perform one or more roles in the digital ecosystem.
 
-<a name="fn-credentialHolder" href="#fnr-credentialHolder" class="fn"></a> 
+<a name="fn-credentialHolder" href="#fnr-credentialHolder" class="fn"></a>
 Examples of where the Holder is not the Subject of a Credential would be a parent (the holder) holding the birth certificate (the credential) of their child (the subject) or a restaurant owner (the holder) holding a permit to operate (the credential) of a business (the subject).
 
-<a name="fn-multipleSubjects" href="#fnr-multipleSubjects" class="fn"></a> 
+<a name="fn-multipleSubjects" href="#fnr-multipleSubjects" class="fn"></a>
 An example of a credential having more than one subject is a marriage certificate.
 
 <a name="fn-indication" href="#fnr-indication" class="fn"></a>
 The indication may be a credential schema or the credential itself.
 
-<a name="fn-correctnessConfirmation" href="#fnr-correctnessConfirmation" class="fn"></a> 
+<a name="fn-correctnessConfirmation" href="#fnr-correctnessConfirmation" class="fn"></a>
 Correctness confirmation is often achieved by connecting a Verifier to an Issuer through a peer-to-peer system or an intermediary system.
 
-<a name="fn-section_4_3" href="#fnr-section_4_3" class="fn"></a> 
+<a name="fn-section_4_3" href="#fnr-section_4_3" class="fn"></a>
 See Section 4.3 for more information.
 
-<a name="fn-section_4_4" href="#fnr-section_4_4" class="fn"></a> 
+<a name="fn-section_4_4" href="#fnr-section_4_4" class="fn"></a>
 See Section 4.4 for more information.
 
-<a name="fn-section_4_4_1" href="#fnr-section_4_4_1" class="fn"></a> 
+<a name="fn-section_4_4_1" href="#fnr-section_4_4_1" class="fn"></a>
 See Section 4.4.1 for more information.

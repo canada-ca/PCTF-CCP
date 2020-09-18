@@ -1,4 +1,3 @@
-
 <a name="sec7"></a>
 
 <div class="breaker"></div>
@@ -35,6 +34,7 @@ Assessment requires a judgment call by an impartial expert using the best and mo
 The following are the assessment determinations that have been developed so far and which may be adjusted over time. It is cautioned that assessment determinations having too many gradations may make the assessment process less transparent.
 
 The current assessment determinations in use are:
+
 * **Accepted** – The conformance criteria are met;
 * **Accepted with Observation** – The conformance criteria are met, but a dependency or contingency over which the assessed party might not have direct control has been noted;
 * **Accepted with Recommendation** – The conformance criteria are met, but a potential improvement or enhancement should be implemented in the future;
@@ -49,10 +49,3 @@ Upon completion of the assessment process, a *Letter of Acceptance* is issued to
 * Be signed by the person/organization/jurisdiction accepting the digital identity at a given qualifier level;
 * Include the specific scope or use of the digital identity, including the time period; and,
 * Include an annex listing the specific qualifiers (e.g., levels of assurance), and any observations, conditions, or recommendations arising from the assessment process.
-
-
-
-
-
-
-

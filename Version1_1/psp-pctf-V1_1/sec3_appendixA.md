@@ -5,8 +5,8 @@
 
 ## 3 <a name="APPENDIX A"></a>APPENDIX A: TERMS AND DEFINITIONS
 
-The definitions that follow include authoritative definitions from the *Standard on Identity and Credential Assurance*, 
-definitions found in related guidelines and industry references, and definitions developed by the working group for 
+The definitions that follow include authoritative definitions from the *Standard on Identity and Credential Assurance*,
+definitions found in related guidelines and industry references, and definitions developed by the working group for
 the purposes of this document.
 
 {: .stickyTable}
@@ -118,4 +118,3 @@ the purposes of this document.
 | UNCITRAL                    | United Nations Commission on International Trade Law<br> UNCITRAL's mandate is to promote the progressive harmonization and unification of international trade law through conventions, model laws, and other instruments that address key areas of commerce, from dispute resolution to the procurement and sale of goods.|
 | verifier                    | An entity that accepts a Presentation from a Holder for the purposes of delivering services or administering programs.|
 | vital event                 | A significant discrete episode that occurs in the life span of a person. By law a vital event must be recorded with a government entity and is subject to legislation and regulation. Examples of vital events are live birth, stillbirth, adoption, legitimation, recognition of parenthood, immigration, legal residency, naturalized citizenship, name change, marriage, annulment of marriage, legal separation, divorce, and death.|
-

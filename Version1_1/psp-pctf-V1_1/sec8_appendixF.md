@@ -1,4 +1,3 @@
-
 <a name="sec8"></a>
 
 <div class="breaker"></div>
@@ -38,7 +37,8 @@ Currently, the scope of PCTF includes “all organizations registered in Canada 
 **Thematic Issue 7: Assessing Outsourced Atomic Processes**
 
 Section 2.4.3 states that:
->by design, the PCTF does not assume that a single provider is solely responsible for all of the atomic processes. Therefore, several bodies might be involved in the PCTF assessment process, focusing on different atomic processes, or different aspects (e.g., security, privacy, service delivery). Consideration must be given as to how to coordinate several bodies that might need to work together to yield an overall PCTF assessment. The organization being assessed is accountable for all parties within the scope of the assessment. The organization may decide that this is not feasible, nonetheless the organization remains accountable. Such cases will be noted in the assessment. 
+
+>by design, the PCTF does not assume that a single provider is solely responsible for all of the atomic processes. Therefore, several bodies might be involved in the PCTF assessment process, focusing on different atomic processes, or different aspects (e.g., security, privacy, service delivery). Consideration must be given as to how to coordinate several bodies that might need to work together to yield an overall PCTF assessment. The organization being assessed is accountable for all parties within the scope of the assessment. The organization may decide that this is not feasible, nonetheless the organization remains accountable. Such cases will be noted in the assessment.
 
 The Issuer in this model is the authority ultimately accountable. Although an Issuer may choose to outsource or delegate the responsibility of the *Credential Issuance* atomic process to another body, the accountability remains with the Issuer.
 
@@ -47,6 +47,7 @@ We need to determine how multi-actor assessments will be conducted. It has been 
 **Thematic Issue 8: The Identity Continuity Atomic Process**
 
 The **Identity Continuity** atomic process is defined as:
+
 > the process of dynamically confirming that the Subject has a continuous existence over time (i.e., “genuine presence”). This process can be used to ensure that there is no malicious or fraudulent activity (past or present) and to address identity spoofing concerns.
 
 It has been noted that there are privacy concerns with the notion of "dynamically confirming" the continuous existence of a Subject over time. We need to come up with a more precise and privacy-respecting definition of the Identity Continuity atomic process.
@@ -54,6 +55,7 @@ It has been noted that there are privacy concerns with the notion of "dynamicall
 **Thematic Issue 9: Signature**
 
 Appendix A defines signature as:
+
 > an electronic representation where, at a minimum: the person signing the data can be associated with the electronic representation, it is clear that the person intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original.
 
 We need to explore how the concept of signature is to be applied in the context of the PCTF.
@@ -68,5 +70,3 @@ and be consistent in its usage.
 **Thematic Issue 11: Review of the Appendices**
 
 At some point we should undertake a full review of the current appendices. For each appendix, we need to evaluate its utility, applicability, and appropriateness, and determine if it should continue to be included in the PCTF document. Some appendices will remain; some may be moved to a guidelines document; while others might be discarded outright. Some of the appendices that remain may need to be amended.
-
-

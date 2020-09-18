@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-## DOCUMENT VERSION CONTROL 
+## DOCUMENT VERSION CONTROL
 
 | Version Number | Date of Issue | Author(s)   | Brief Description  |
 | :------------: | :-----------: | :---------: | :----------------: |
