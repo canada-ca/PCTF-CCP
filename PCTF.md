@@ -17,4 +17,3 @@ description: "version 1.1 of the Pan-Canadian Trust Framework"
 {% include_relative Version1_1/psp-pctf-V1_1/sec7_appendixE.md %}
 {% include_relative Version1_1/psp-pctf-V1_1/sec8_appendixF.md %}
 {% include_relative Version1_1/psp-pctf-V1_1/sec9_appendixG.md %}
-
