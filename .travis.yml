@@ -1,0 +1,19 @@
+language: node_js
+
+cache:
+  bundler: true
+  directories:
+  - node_modules
+  - /home/travis/.rvm/
+
+node_js:
+  - "node"
+
+rvm:
+  - "2.2"
+
+before_install:
+  - bundle install
+
+before_script:
+  - bundle exec jekyll build --verbose
