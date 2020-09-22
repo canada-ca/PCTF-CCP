@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "link-check": "node link-check.js",
-    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "lint": "npm run lint:md && npm run lint:js",
+    "lint:js": "eslint .",
+    "lint:md": "markdownlint -i node_modules \"**/*.md\"",
     "test": "npm run lint && npm run vnu-jar && npm run link-check",
     "vnu-jar": "java -Xss4m -jar node_modules/vnu-jar/build/dist/vnu.jar --errors-only --skip-non-html --filterfile .vnurc --no-langdetect _site/"
   },
@@ -12,10 +14,11 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "chalk": "^3.0.0",
+    "eslint": "^7.9.0",
     "glob": "^7.1.6",
-    "markdown-link-check": "^3.8.0",
+    "markdown-link-check": "^3.8.3",
     "markdownlint-cli": "^0.22.0",
-    "vnu-jar": "^20.3.16"
+    "vnu-jar": "^20.6.30"
   },
   "dependencies": {}
 }

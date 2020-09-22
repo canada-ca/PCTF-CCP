@@ -3,7 +3,7 @@
   ],
   "replacementPatterns": [
     {
-      "pattern": "https://canada-ca.github.io/ucvdcc/",
+      "pattern": "https://canada-ca.github.io/PCTF-CCP/",
       "replacement": ""
     },
     {
