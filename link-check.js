@@ -8,7 +8,7 @@ var glob = require("glob");
 var path = require("path");
 var chalk = require("chalk");
 
-var files = glob.sync("**/*.md", {ignore: ["node_modules/**/*.md", "**/digital-playbook.md", "**/guide-numerique.md"]})
+var files = glob.sync("**/*.md", {ignore: ["node_modules/**/*.md"]})
 
 var opts = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
 
