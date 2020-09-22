@@ -23,7 +23,7 @@ files.forEach(function(file) {
     }
 
     console.log(chalk.green("Reading: " + file));
-    
+
     results.forEach(function (result) {
       if(result.status === "dead") {
         if (result.statusCode == 500) {
