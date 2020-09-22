@@ -13,7 +13,6 @@ The following are links to various international schemes that are relavent to th
   * [NIST.SP.800-63a Enrollment and Identity Proofing (PDF)](docs/RelatedPolicies/NIST.SP.800-63a.pdf)
   * [NIST.SP.800-63b Authentication and Lifecycle Management (PDF)](docs/RelatedPolicies/NIST.SP.800-63b.pdf)
   * [NIST.SP.800-63c Federation and Assertions (PDF)](docs/RelatedPolicies/NIST.SP.800-63c.pdf)
-  * [NIST.SP.800-63c Federation and Assertions (PDF)](http:www.google.com/likebad/link/mojo)
 
 ### European Union
 
