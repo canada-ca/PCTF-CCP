@@ -1,9 +1,8 @@
-
 <a name="sec5"></a>
 
 <div class="breaker"></div>
 
-## 5 <a name="APPENDIX C"></a>APPENDIX C: PERSONS AND ORGANIZATIONS 
+## 5 <a name="APPENDIX_C"></a>APPENDIX C: PERSONS AND ORGANIZATIONS
 
 This appendix provides some additional background information on the nature of persons and organizations from a strictly legal perspective.
 
@@ -42,6 +41,7 @@ Since the 19th century, legal personhood of an organization has been further con
 ### 5.4 Examples of Juridical Persons
 
 Some examples of juridical persons include:
+
 * Corporation: A body corporate created by statute or charter. A corporation aggregate is a corporation constituted by two or more natural persons. A corporation sole is a corporation constituted by a single natural person, in a particular capacity, and that person's successors in the same capacity, in order to give them some legal benefit or advantage, particularly that of perpetuity, which a natural person cannot have. Examples of corporations sole are a religious officiant in that capacity, or The Crown in the Commonwealth realms. Municipal corporations (municipalities) are "creatures of statute". Other organizations may be created by statute as legal persons including European economic interest groupings (EEIGs).
 * Partnership: An aggregate of two or more natural persons to carry on a business in common for profit and created by agreement. Traditionally, partnerships did not have continuing legal personality, but many jurisdictions now treat them as having such.
 * Company: A form of business association that carries on an industrial enterprise. A company is often a corporation, although a company may take other forms, such as a trade union, an unlimited company, a trust, or a fund. A limited liability company – whether it is a private company limited by guarantee, a private company limited by shares, ora public limited company – is a business association having certain characteristics of both a corporation and a partnership. Different types of companies have a complex variety of advantages and disadvantages.
@@ -82,7 +82,6 @@ In Canada, the treatment and handling of personal information (information about
 </table>
 
 From this table it can be seen that whereas all personal information is subject to privacy and protection guarantees, organizational information is not considered private but some organizational information may be protected by confidentiality agreements.
-
 
 ---
 **Footnotes**

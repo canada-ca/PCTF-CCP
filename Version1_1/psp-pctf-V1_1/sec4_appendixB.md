@@ -3,7 +3,7 @@
 
 <div class="breaker"></div>
 
-## 4 <a name="APPENDIX A"></a>APPENDIX B: IDENTITY MANAGEMENT OVERVIEW
+## 4 <a name="APPENDIX_B"></a>APPENDIX B: IDENTITY MANAGEMENT OVERVIEW
 
 ### 4.1 Identity
 
@@ -21,12 +21,12 @@ Identity in the domain of identity management has a much narrower scope than rea
 
 An identity must be unique<sup id="fnr-uniqueID"><a href="#fn-uniqueID" class="fnote"></a></sup>. This means that each person and organization can be distinguished from all other persons and organizations and that, when required, each person and organization can be uniquely identified. The uniqueness requirement ensures that a program or service can be delivered to a specific person or organization and that a program or service is delivered to the right person or organization.
 
-
 ### 4.2 Defining the Population
 
 In the Canadian context, the universe of persons is defined as all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada. The universe of organizations is defined as all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada. Those persons or organizations that fall within the mandate of a program or service constitute the population of the program or service<sup id="fnr-populationCharacteristics"><a href="#fn-populationCharacteristics" class="fnote"></a></sup>.
 
 In the public sector, the following are some examples of program/service populations in Canada:
+
 * Persons who were born in Alberta
 * Persons who are required to file a federal income tax return
 * Persons who are licensed to drive in Quebec
@@ -38,7 +38,6 @@ In the public sector, the following are some examples of program/service populat
 * Organizations which are subject to the supervision of the Office of the Superintendent of Financial Institutions
 * Organizations which are licensed to construct and operate oil and gas facilities in Saskatchewan
 
-
 ### 4.3 Defining the Identity Context
 
 In delivering their programs and services, program/service providers operate within a certain environment or set of circumstances, which in the domain of identity management is referred to as the identity context. Identity context is determined by factors such as mandate, target population (i.e., clients, customer base), and other responsibilities prescribed by legislation or agreements.
@@ -46,6 +45,7 @@ In delivering their programs and services, program/service providers operate wit
 Understanding and defining the identity context assists program/service providers in determining what identity information is required and what identity information is not required. Identity context also assists in determining commonalities with other program/service providers, and whether identity information and assurance processes can be leveraged across contexts.
 
 The following considerations should be kept in mind when defining the identity context of a given program or service:
+
 * Intended recipients of the program or service – recipients may be external to the program/service provider (e.g., citizens, businesses, non-profit organizations), or internal to the program/service provider (e.g., employees, departments)
 * Size, characteristics, and composition of the client population
 * Commonalities with other programs and services (i.e., across program/service providers)
@@ -55,6 +55,7 @@ The following considerations should be kept in mind when defining the identity c
 ### 4.4 Determining Identity Information Requirements
 
 A property or characteristic associated with an identifiable person or organization is referred to as an *identity attribute* or an *identity data element*. Examples of identity attributes for a person include *name* and *date of birth*. Examples of identity attributes for an organization include *legal name* and *date of creation*. For any given program or service, identity information is the set of identity attributes that is both:
+
 * Sufficient to distinguish between different persons or organizations within the program/service population (i.e., achieve the uniqueness requirement for identity); and
 * Sufficient to describe the person or organization as required by the program or service.
 
@@ -69,6 +70,7 @@ The set of identity attributes that is used to uniquely distinguish a particular
 Different sets of identity attributes may be specified as an identifier depending on program or service requirements and, in some cases, legislation and regulation. For example, one program may specify *name* and *date of birth* as the identifier set of identity attributes. Another program may specify *name*, *date of birth*, and *sex* as the identifier set of identity attributes. Yet another program may use an *assigned identifier*<sup id="fnr-assignedIdentifier"><a href="#fn-assignedIdentifier" class="fnote"></a></sup> (such as a health insurance number or a business number) as the identifier set of identity attributes.
 
 When determining the set of identity attributes to be used as an identifier, the following factors should be considered:
+
 * **Universality** – Every person or organization within the program/service population must possess the identifier set of identity attributes. However, even when an identity attribute is universal, widespread missing or incomplete values for the identity attribute may render it useless as part of an identifier set. For example, many dates of birth for persons born outside of Canada consist only of the year or the year and the month.
 * **Uniqueness** – The values associated with the identity attributes must be sufficiently different for each person or organization within the program/service population that the persons or organizations within the program/service population can be distinguished from one another. For example, date of birth information by itself is insufficient to distinguish between persons in a population because many people have the same birthdate.
 * **Constancy** – The values associated with the identity attributes should vary minimally (if at all) over time. For example, having address information in the identifier set is problematic because a person’s address is likely to change several times in their lifetime.
@@ -85,6 +87,7 @@ Consequently, due to the potential for identity overlap in whatever residual per
 However, before an assigned identifier can be associated with a person or organization, the uniqueness of the person’s or organization’s identity within the relevant population must first be established (i.e., identity resolution must be achieved [see the next section]) through the use of other identity attributes (e.g., *name*, *date of birth*, etc.). Therefore, the use of an assigned identifier does not eliminate the need for traditional identity resolution techniques, but it does reduce the need to a one-time only occurrence for each person or organization within a population.
 
 Once associated with a person or organization, an assigned identifier uniquely distinguishes that person or organization from all other persons or organizations in a population without the use of any other identity attributes. Examples of assigned identifiers include birth registration numbers, business numbers, driver’s license numbers, social insurance numbers, and customer account numbers. The following considerations apply to the use of assigned identifiers:
+
 * Assigned identifiers may be kept internal to the program that maintains them.
 * Assigned identifiers maintained by one program may be provided to other programs so that those programs can also use the assigned identifier to distinguish between different persons or organizations within their program/service population; however, there may be restrictions on this practice due to privacy considerations or legislation.
 * Certain assigned identifiers may be subject to legal and policy restrictions which may vary between sectors and jurisdictions. For example, the Government of Canada imposes restrictions on the collection, use, retention, disclosure, and disposal of the social insurance number.
@@ -98,11 +101,13 @@ Identity resolution is defined as the establishment of the uniqueness of a perso
 Identity information must be accurate, complete, and up to date<sup id="fnr-upToDateRequirement"><a href="#fn-upToDateRequirement" class="fnote"></a></sup>. Accuracy ensures the quality of identity information. It ensures that the information represents what is true about a person or organization, and that it is complete and up to date.
 
 For identity information to be considered accurate, three requirements must be met:
+
 * **The identity information is correct and up to date.** Identity information, due to certain life events (e.g., marriage), may change over time. Ongoing updates to identity information may be required; otherwise, it becomes incorrect.
 * **The identity information relates to a real person or organization.** Identity information must be associated with a person or organization which actually exists or existed at some point in time.
 * **The identity information relates to the correct person or organization.** In large populations, persons or organizations may have the same or similar identity information as other persons or organizations. While the requirement for identity uniqueness addresses this issue, the possibility of relating identity information to the wrong person or organization still remains.
 
 It is the responsibility of program/service providers to ensure the accuracy of the identity information that is used within their programs and services. The accuracy of identity information can be ensured by using an authoritative source. There are two methods by which this can be achieved:
+
 * On an as needed basis, request the identity information from an authoritative source. This process is referred to as *identity information retrieval*. For example, a person’s place of birth might be electronically retrieved from the federal registry of persons born abroad.
 * Subscribe to a notification service provided by an authoritative source. This process is referred to as *identity information notification*. For example, death notifications might be received from a provincial vital statistics registry.
 
@@ -110,28 +115,26 @@ These methods can be used independently or in combination, and an effective stra
 
 If ensuring the accuracy of identity information by means of an authoritative source is not feasible, other methods may be employed, such as corroborating identity information using one or more instances of evidence of identity.
 
-
 ---
 **Footnotes**
 
-<a name="fn-JoeAndrieu" href="#fnr-JoeAndrieu" class="fn"></a> 
-The full text of the article can be found at: http://bit.ly/FunctionalIdentityPrimer.
+<a name="fn-JoeAndrieu" href="#fnr-JoeAndrieu" class="fn"></a>
+The full text of the article can be found at: <http://bit.ly/FunctionalIdentityPrimer>.
 
-<a name="fn-uniqueID" href="#fnr-uniqueID" class="fn"></a> 
+<a name="fn-uniqueID" href="#fnr-uniqueID" class="fn"></a>
 This is one of the requirements for establishing an identity assurance level. See Appendix C of the Standard on Identity and Credential Assurance [TBS c., 2013].
 
-<a name="fn-populationCharacteristics" href="#fnr-populationCharacteristics" class="fn"></a> 
+<a name="fn-populationCharacteristics" href="#fnr-populationCharacteristics" class="fn"></a>
 The characteristics of a program/service population are a key factor in determining identity context. See the next section.
 
-<a name="fn-identityPersonalOverlap" href="#fnr-identityPersonalOverlap" class="fn"></a> 
+<a name="fn-identityPersonalOverlap" href="#fnr-identityPersonalOverlap" class="fn"></a>
 This is usually not an issue for organizational information.
 
-<a name="fn-assignedIdentifier" href="#fnr-assignedIdentifier" class="fn"></a> 
+<a name="fn-assignedIdentifier" href="#fnr-assignedIdentifier" class="fn"></a>
 See the next section.
 
-<a name="fn-identityResolutionProject" href="#fnr-identityResolutionProject" class="fn"></a> 
+<a name="fn-identityResolutionProject" href="#fnr-identityResolutionProject" class="fn"></a>
 NASPO IDPV Project, Report of the IDPV Identity Resolution Project, February 17, 2014
 
-<a name="fn-upToDateRequirement" href="#fnr-upToDateRequirement" class="fn"></a> 
+<a name="fn-upToDateRequirement" href="#fnr-upToDateRequirement" class="fn"></a>
 This is one of the requirements for establishing an identity assurance level. See Appendix C of the Standard on Identity and Credential Assurance [TBS c., 2013].
-

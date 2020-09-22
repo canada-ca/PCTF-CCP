@@ -3,6 +3,7 @@
 The following are links to various international schemes that are relavent to the topics of the PCTF
 
 ---
+
 ## Contries/Unions
 
 ### United States
@@ -38,6 +39,7 @@ The following are links to various international schemes that are relavent to th
 * <a href="docs/RelatedPolicies/Decentralized-Digital-Identity-ecosystem-in-the-Ibero-American-world.pdf">Decentralized Digital Identity ecosystem in the Ibero American world (PDF)</a>
 
 ---
+
 ## Papers
 
 * <a href="docs/RelatedPolicies/SITA_Identity_2016.pdf">SITA: Travel Identity of the Future (PDF)</a>

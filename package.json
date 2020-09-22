@@ -1,0 +1,21 @@
+{
+  "name": "Pan-Canadian-Trust-Framework",
+  "description": "The Pan-Canadian Trust Framework is an outcome of the Pan-Canadian approach for federating identities which is an agreement on the principles and standards to be used when developing identity solutions",
+  "main": "index.js",
+  "scripts": {
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "test": "npm run lint && npm run vnu-jar && npm run link-check",
+    "vnu-jar": "java -Xss4m -jar node_modules/vnu-jar/build/dist/vnu.jar --errors-only --skip-non-html --filterfile .vnurc --no-langdetect _site/"
+  },
+  "author": "canada-ca",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "glob": "^7.1.6",
+    "markdown-link-check": "^3.8.0",
+    "markdownlint-cli": "^0.22.0",
+    "vnu-jar": "^20.3.16"
+  },
+  "dependencies": {}
+}
