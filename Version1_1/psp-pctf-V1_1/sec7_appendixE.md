@@ -2,7 +2,7 @@
 
 <div class="breaker"></div>
 
-## 7 <a name="APPENDIX E"></a>APPENDIX E: GUIDELINES ON MUTUAL RECOGNITION
+## 7 <a name="APPENDIX_E"></a>APPENDIX E: GUIDELINES ON MUTUAL RECOGNITION
 
 At this time, the mutual recognition process is still in its early stages. The following sections outline some guidelines on mutual recognition at a high level. Detailed guidance will follow in subsequent deliverables.
 

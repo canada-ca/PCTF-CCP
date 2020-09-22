@@ -2,7 +2,7 @@
 
 <div class="breaker"></div>
 
-## 6 <a name="APPENDIX D"></a>APPENDIX D: IDENTITY AND CREDENTIAL VERIFICATION
+## 6 <a name="APPENDIX_D"></a>APPENDIX D: IDENTITY AND CREDENTIAL VERIFICATION
 
 This appendix provides some additional background information on the nature of identity verification and credential verification.
 

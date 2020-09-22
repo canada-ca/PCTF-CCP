@@ -3,7 +3,7 @@
 
 <div class="breaker"></div>
 
-## 3 <a name="APPENDIX A"></a>APPENDIX A: TERMS AND DEFINITIONS
+## 3 <a name="APPENDIX_A"></a>APPENDIX A: TERMS AND DEFINITIONS
 
 The definitions that follow include authoritative definitions from the *Standard on Identity and Credential Assurance*,
 definitions found in related guidelines and industry references, and definitions developed by the working group for

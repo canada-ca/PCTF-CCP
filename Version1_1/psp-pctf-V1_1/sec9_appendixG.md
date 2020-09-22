@@ -2,7 +2,7 @@
 
 <div class="breaker"></div>
 
-## 9 <a name="APPENDIX G"></a>APPENDIX G: BIBLIOGRAPHY
+## 9 <a name="APPENDIX_G"></a>APPENDIX G: BIBLIOGRAPHY
 
 <ins><b>Organizations</b></ins>
 

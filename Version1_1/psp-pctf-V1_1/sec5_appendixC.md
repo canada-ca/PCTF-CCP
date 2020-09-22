@@ -2,7 +2,7 @@
 
 <div class="breaker"></div>
 
-## 5 <a name="APPENDIX C"></a>APPENDIX C: PERSONS AND ORGANIZATIONS
+## 5 <a name="APPENDIX_C"></a>APPENDIX C: PERSONS AND ORGANIZATIONS
 
 This appendix provides some additional background information on the nature of persons and organizations from a strictly legal perspective.
 

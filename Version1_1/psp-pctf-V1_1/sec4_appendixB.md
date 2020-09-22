@@ -3,7 +3,7 @@
 
 <div class="breaker"></div>
 
-## 4 <a name="APPENDIX A"></a>APPENDIX B: IDENTITY MANAGEMENT OVERVIEW
+## 4 <a name="APPENDIX_B"></a>APPENDIX B: IDENTITY MANAGEMENT OVERVIEW
 
 ### 4.1 Identity
 
