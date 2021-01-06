@@ -4,13 +4,13 @@ Site is also available at [https://canada-ca.github.io/PCTF-CCP/](https://canada
 
 ## Overview
 
-The latest update [PCTF Version 1.1 Consultation Draft (2020-06-02)for public review is now available](Version1_1/README.md)
+The latest update [PCTF Version 1.2 Consultation Draft (2020-06-02)for public review is now available](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-EN.pdf)
 
 ![Pan-Canadian Trust Framework](./images/PCTF-V1_1_FINAL.png)
 
 The following consultation draft documents are now available:
 
-* [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF) dated: 2020-12-04 (1.26mb pdf 83 pages)](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-EN.pdf)
+* [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF) dated: 2020-12-04](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-EN.pdf)
 * [Same as above with LINE NUMBERS](Version1_2/PSP-PCTF-V-1.2-Consultation-Draft-LINE-NUMBERS.pdf)
 * [Request for Comments worksheet (MS EXCEL format)](Version1_2/REQUEST-FOR-COMMENTS-ON-PSP-PCTF-V1.2.xlsx)
 
