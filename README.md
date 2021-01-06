@@ -11,7 +11,7 @@ The latest update [PCTF Version 1.2 Consultation Draft (2020-06-02)for public re
 The following consultation draft documents are now available:
 
 * [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF) dated: 2020-12-02](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-EN.pdf)
-* [Same as above with LINE NUMBERS](Version1_2/PSP-PCTF-V-1.2-Consultation-Draft-LINE-NUMBERS.pdf)
+* [Same as above with LINE NUMBERS](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-LINE-NUMBERS.pdf)
 * [Request for Comments worksheet (MS EXCEL format)](Version1_2/REQUEST-FOR-COMMENTS-ON-PSP-PCTF-V1.2.xlsx)
 
 The corresponding draft documents are now available in FRENCH (note: still Version1.1:
