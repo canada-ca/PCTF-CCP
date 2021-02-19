@@ -1,6 +1,6 @@
 # Public Sector Profile of the Pan-Canadian Trust Framework Version 1.3
 
-*Note: These documents are working drafts only (not yet endorsed by governance and may change without notice.*
+*Note: These documents are working drafts only (not yet endorsed by governance) and may change without notice.*
 
 ## Overview ##
 This version of the Public Sector Profile of the Pan-Canadian Trust Framework advances and integrates recent developments of digital credential and relationship models. It also includes the integration of conformance criteria for persons and organizations.
