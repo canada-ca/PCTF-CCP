@@ -2,6 +2,8 @@
 
 *Note: These documents are working drafts only (not yet endorsed by governance) and may change without notice.*
 
+*[Open Government Licence](https://open.canada.ca/en/open-government-licence-canada)*
+
 ## Overview ##
 This version of the Public Sector Profile of the Pan-Canadian Trust Framework advances and integrates recent developments of digital credential and relationship models. It also includes the integration of conformance criteria for persons and organizations.
 
