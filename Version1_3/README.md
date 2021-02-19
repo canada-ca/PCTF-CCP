@@ -17,10 +17,10 @@ Latest documents for download:
 ## Main Additions and Changes ## 
 Main additions and changes as outlined in the proposed work item:
 
-Update the Consolidated Overview to address the following thematic issues:
+Updated the Consolidated Overview to address the following thematic issues:
 1.	Thematic Issue 1: Relationships. The development of a relationship model
 2.	Thematic Issue 2: Credentials. The development of a credential model
 
-Review of the PSP PCTF Conformance Criteria with the following objectives:
+Reviewed the PSP PCTF Conformance Criteria with the following objectives:
 1.	A global review and ‘refresh’ of the conformance criteria considering the most recent version of the PCTF. Many of the conformance criteria have been unchanged since PCTF Alpha version (c.2016) and are no longer appropriate. This includes removing criteria that are too prescriptive (certain tech) or are repetitive to what already exists in related guidance and standards (security, privacy, etc.)
 2.	Integration of organization and relationship entities and atomic processes into the conformance criteria. This involves reviewing the conformance criteria to determine if they can be applied to one or several of the entities, revising, removing, and adding criteria as appropriate
