@@ -5,8 +5,8 @@ This version of the Public Sector Profile of the Pan-Canadian Trust Framework (P
 This version advances the PSP PCTF model by leveraging and integrating recent developments of digital credential and relationship models while reviewing/enhancing the PSP PCTF Conformance Criteria to support use cases currently underway in the Government of Canada  and, potentially, others being undertaken at the federal/provincial level.
 
 This version is based on the recommendations outlined in the PSP PCTF Working Group Close Out Report presented to JEDI on December 10, 2020, specifically:  
-* Continue the development of the PSP PCTF 
-* Continue the application of the PSP PCTF through the Assessment Process
+1. Continue the development of the PSP PCTF 
+2. Continue the application of the PSP PCTF through the Assessment Process
 
 Work Item Activities
 Continue to address the following thematic issues with updates as required to establish the PSP PCTF Version 1.3:
