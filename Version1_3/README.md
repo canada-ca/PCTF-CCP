@@ -1,16 +1,20 @@
 # Public Sector Profile of the Pan-Canadian Trust Framework Version 1.3
 
-This version advances the PSP PCTF model by leveraging and integrating recent developments of digital credential and relationship models while reviewing/enhancing the PSP PCTF Conformance Criteria to support use cases currently underway in the Government of Canada  and, potentially, others being undertaken at the federal/provincial level.
-These documents are working drafts only and may change without notice.
+*Note: These documents are working drafts only (not yet endorsed by governance and may change without notice.*
 
-1. Consolidated Overview [PDF Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.pdf) [Word Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.docx)
-2. Assessment Worksheet [XLSX Version(./c)
+## Overview ##
+This version of the Public Sector Profile of the Pan-Canadian Trust Framework advances and integrates recent developments of digital credential and relationship models. It also includes the integration of conformance criteria for persons and organizations.
 
-This version is based on the recommendations outlined in the PSP PCTF Working Group Close Out Report presented to JEDI on December 10, 2020, specifically:  
-1. Continue the development of the PSP PCTF 
-2. Continue the application of the PSP PCTF through the Assessment Process
+Latest documents for download:
 
-Work Item Activities
+1. Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview [PDF Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.pdf) [Word Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.docx)
+2. PSP PCTF Assessment Worksheet [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook.xlsx)
+
+
+
+## Details of Work Item Activities ## 
+Details as outlined in the accompanying work item:
+
 Continue to address the following thematic issues with updates as required to establish the PSP PCTF Version 1.3:
 1.	Thematic Issue 1: Relationships. The development of a relationship model
 2.	Thematic Issue 2: Credentials. The development of a credential model
