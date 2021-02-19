@@ -9,8 +9,8 @@ This version of the Public Sector Profile of the Pan-Canadian Trust Framework ad
 
 Latest documents for download:
 
-1. Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview [PDF Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.pdf) [Word Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.docx)
-2. PSP PCTF Assessment Worksheet [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook.xlsx)
+1. *Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview* [PDF Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.pdf) [Word Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.docx)
+2. *PSP PCTF Assessment Worksheet* [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook.xlsx)
 
 
 
