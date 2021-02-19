@@ -3,8 +3,8 @@
 This version advances the PSP PCTF model by leveraging and integrating recent developments of digital credential and relationship models while reviewing/enhancing the PSP PCTF Conformance Criteria to support use cases currently underway in the Government of Canada  and, potentially, others being undertaken at the federal/provincial level.
 These documents are working drafts only and may change without notice.
 
-1. Consolidated Overview PDF Version Word Version
-2. Assessment Worksheet [XLSX Version]
+1. Consolidated Overview [PDF Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.pdf) [Word Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.docx)
+2. Assessment Worksheet [XLSX Version(./c)
 
 This version is based on the recommendations outlined in the PSP PCTF Working Group Close Out Report presented to JEDI on December 10, 2020, specifically:  
 1. Continue the development of the PSP PCTF 
