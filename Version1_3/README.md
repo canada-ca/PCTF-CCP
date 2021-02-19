@@ -14,7 +14,7 @@ Latest documents for download:
 
 
 ## Main Additions and Changes ## 
-Main additions and changes as outlined in the proposed work item:
+Main additions and changes as outlined in the [proposed work item](./Work-Item-for-PSP-PCTF-V1-3.pdf):
 
 Updated the Consolidated Overview to address the following thematic issues:
 1.	Thematic Issue 1: Relationships. The development of a relationship model
