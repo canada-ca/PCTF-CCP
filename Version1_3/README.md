@@ -12,10 +12,10 @@ Latest documents for download:
 2. **PSP PCTF Assessment Worksheet** [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook.xlsx)
 
 To facilitate the gathering and assessment of evidence, the conformance criteris are provided in Word format and can be found in the folder for:
-1. Enterprise
-2. Identity
-3. Credential
-4. Consent (includes Notification and Signature)
+1. Enterprise [Word](./Assessment-Evidence-Enterprise.docx)
+2. Identity [Word](./Assessment-Evidence-Identity.docx)
+3. Credential [Word](./Assessment-Evidence-Credential.docx)
+4. Consent (includes Notification and Signature) [Word](./Assessment-Evidence-Consent.docx)
 
 Please note that the above are provided as a convenience only and are not considered as part of the formal deliverables.
 
