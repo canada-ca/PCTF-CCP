@@ -30,6 +30,6 @@ Reviewed the PSP PCTF Conformance Criteria with the following objectives:
 1.	A global review and ‘refresh’ of the conformance criteria considering the most recent version of the PCTF. Many of the conformance criteria have been unchanged since PCTF Alpha version (c.2016) and are no longer appropriate. This includes removing criteria that are too prescriptive (certain tech) or are repetitive to what already exists in related guidance and standards (security, privacy, etc.)
 2.	Integration of organization and relationship entities and atomic processes into the conformance criteria. This involves reviewing the conformance criteria to determine if they can be applied to one or several of the entities, revising, removing, and adding criteria as appropriate
 
-A reminder on the [Document Versioning Conventions](https://github.com/canada-ca/PCTF-CCP/blob/master/docs/2020-02-04%20PSP-PCTF-Versioning-Conventions.pdf)
+This is a **Consultation Draft**. A primer on the [Document Versioning Conventions](https://github.com/canada-ca/PCTF-CCP/blob/master/docs/2020-02-04%20PSP-PCTF-Versioning-Conventions.pdf)
 
 *[Open Government Licence](https://open.canada.ca/en/open-government-licence-canada)*
