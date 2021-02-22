@@ -11,7 +11,13 @@ Latest documents for download:
 1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview** [PDF Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.pdf) [Word Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.docx)
 2. **PSP PCTF Assessment Worksheet** [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook.xlsx)
 
+To facilitate the gathering and assessment of evidence, the conformance criteris are provided in Word format and can be found in the folder for:
+1. Enterprise
+2. Identity
+3. Credential
+4. Consent (includes Notification and Signature)
 
+Please note that the above are provided as a convenience only and are not considered as part of the formal deliverables.
 
 ## Main Additions and Changes ## 
 Main additions and changes as outlined in the [proposed work item](./Work-Item-for-PSP-PCTF-V1-3.pdf):
