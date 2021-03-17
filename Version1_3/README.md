@@ -21,6 +21,8 @@ Please note that the above are provided as a convenience only and are not consid
 
 A generic briefing deck is also available as a [PDF](https://github.com/canada-ca/PCTF-CCP/blob/master/Version1_3/Overview-of-Pan-Canadian%20Trust%20Framework.pdf)
 
+The **Assurance Level Assessment Tool** is [here](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/assurance-level-requirement/en/assurance-level-requirement.html)
+
 ## Main Additions and Changes ## 
 Main additions and changes as outlined in the [proposed work item](./Work-Item-for-PSP-PCTF-V1-3.pdf):
 
