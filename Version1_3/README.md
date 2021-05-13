@@ -8,12 +8,12 @@ This version of the Public Sector Profile of the Pan-Canadian Trust Framework ad
 
 Latest documents for download:
 
-1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview** [PDF Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.pdf) [Word Version](./PSP-PCTF-V-1-3-Consultation-Draft-EN.docx)
-2. **PSP PCTF Assessment Worksheet** [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook.xlsx)
+1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview** [PDF Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.pdf) [Word Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.docx)
+2. **PSP PCTF Assessment Worksheet** [Excel Version Only](./PSP-PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21PCTF-V-1.3-Assessment-Workbook.xlsx)
 
 To facilitate the gathering and assessment of evidence, the conformance criteris are provided in Word format and can be found in the folder for:
 1. Enterprise [Word](./Assessment-Evidence-Enterprise.docx)
-2. Identity [Word](./Assessment-Evidence-Identity.docx)
+2. Identity [Word](./Assessment-Evidence-Identity.docx)PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21
 3. Credential [Word](./Assessment-Evidence-Credential.docx)
 4. Consent (includes Notification and Signature) [Word](./Assessment-Evidence-Consent.docx)
 
