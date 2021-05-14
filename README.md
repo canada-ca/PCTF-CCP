@@ -4,21 +4,9 @@ Site is also available at [https://canada-ca.github.io/PCTF-CCP/](https://canada
 
 ## Overview
 
-The latest update [PCTF Version 1.2 Consultation Draft (2020-06-02)for public review is now available](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-EN.pdf)
+The latest update [PCTF Version 1.3 Consultation Draft for public review is now available](Version1_3/README.md)
 
 ![Pan-Canadian Trust Framework](./images/PCTF-V1_1_FINAL.png)
-
-The following consultation draft documents are now available:
-
-* [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF) dated: 2020-12-02](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-EN.pdf)
-* [Same as above with LINE NUMBERS](Version1_2/PSP-PCTF-V-1-2-Consultation-Draft-LINE-NUMBERS.pdf)
-* [Request for Comments worksheet (MS EXCEL format)](Version1_2/REQUEST-FOR-COMMENTS-ON-PSP-PCTF-V1.2.xlsx)
-
-The corresponding draft documents are now available in FRENCH (note: still Version1.1:
-
-* [LE PROFIL DU SECTEUR PUBLIC DU CADRE DE CONFIANCE PANCANADIEN (CCP): 2020-06-02 (1.26mb pdf 83 pages)](Version1_1/PSP-PCTF-V1.1-Consultation-Draft-FR.pdf)
-* [LE PROFIL DU SECTEUR PUBLIC DU CADRE DE CONFIANCE PANCANADIEN (CCP) MS-WORD:](Version1_1/PSP-PCTF-V1.1-Consultation-Draft-MS-WORD-FR.docx)
-
 
 
 The PCTF is a model that consists of a set of agreed-on concepts, definitions, processes, conformance criteria, and an assessment approach. It is not a “standard” as such, but is, instead, a framework that relates and applies existing standards, policies, guidelines, and practices, and where such standards and policies do not exist, specifies additional criteria. The role of the PCTF is to complement existing standards and policies such as those concerned with security, privacy, and service delivery.
