@@ -1,7 +1,5 @@
 # Public Sector Profile of the Pan-Canadian Trust Framework | Cadre de Confiance pancanadien
 
-Site is also available at [https://canada-ca.github.io/PCTF-CCP/](https://canada-ca.github.io/PCTF-CCP/)
-
 ## Overview
 
 The latest update [PCTF Version 1.3 Consultation Draft for public review is now available](Version1_3/README.md)
