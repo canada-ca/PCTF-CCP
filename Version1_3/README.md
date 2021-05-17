@@ -8,7 +8,7 @@ Latest documents for download:
 *Note: These documents are working drafts only (not yet endorsed by governance) and may change without notice.*
 ## Main Additions and Changes for Version 1.3 ## 
 
-* Main additions and changes were made as outlined in the [proposed work item](./Work-Item-for-PSP-PCTF-V1-3.pdf)
+Main additions and changes were made as outlined in the [proposed work item](./Work-Item-for-PSP-PCTF-V1-3.pdf)
 
 
 ### Summary of Main Changes ### 
