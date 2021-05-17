@@ -1,5 +1,10 @@
 # Public Sector Profile of the Pan-Canadian Trust Framework Version 1.3
 
+Latest documents for download:
+
+1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview (2021-04-21)** [PDF Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.pdf) or [Word Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.docx)
+3. **PSP PCTF Assessment Worksheet (2021-05-10)** [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook-2021-05-10.xlsx)
+
 *Note: These documents are working drafts only (not yet endorsed by governance) and may change without notice.*
 ## Main Additions and Changes for Version 1.3 ## 
 
@@ -23,10 +28,6 @@ Reviewed the PSP PCTF Conformance Criteria with the following objectives:
 ## Overview ##
 This version of the Public Sector Profile of the Pan-Canadian Trust Framework advances and integrates recent developments of digital credential and relationship models. It also includes the integration of conformance criteria for persons and organizations.
 
-Latest documents for download:
-
-1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview (2021-04-21)** [PDF Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.pdf) [Word Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.docx)
-2. **PSP PCTF Assessment Worksheet (2021-05-10)** [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook-2021-05-10.xlsx)
 
 To facilitate the gathering and assessment of evidence, the conformance criteris are provided as a template in Word format :
 1. Enterprise (2021-04-21) [Word](./PSP-PCTF-Evidence-Assessment-Enterprise-2021-02-19docx)
