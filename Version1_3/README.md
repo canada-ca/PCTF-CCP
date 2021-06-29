@@ -2,8 +2,11 @@
 
 Latest documents for download:
 
-1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview (2021-04-21)** [English PDF Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.pdf),  [English Word Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.docx), [French PDF Version](PSP-CCP-V-1-3-Vue-D-Ensemble-Regroupee-FR-2021-04-21.pdf), [French Word Version](PSP-CCP-V-1-3-Vue-D-Ensemble-Regroupee-FR-2021-04-21.docx) [English PDF Version with LINE NUMBERS](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-LINE-NUMBERS-2021-04-21.pdf) 
-3. **PSP PCTF Assessment Worksheet (2021-05-10)** [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook-2021-05-10.xlsx)
+1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.3 Consolidated Overview (2021-04-21)**  [PDF Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.pdf),  [Word Version](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-2021-04-21.docx) 
+2. **LE PROFIL DU SECTEUR PUBLIC DU CADRE DE CONFIANCE PANCANADIEN** [PDF Version](PSP-CCP-V-1-3-Vue-D-Ensemble-Regroupee-FR-2021-04-21.pdf), [Word Version](PSP-CCP-V-1-3-Vue-D-Ensemble-Regroupee-FR-2021-04-21.docx)
+3. **English Version with Line Numbers** [PDF with LINE NUMBERS](./PSP-PCTF-V-1-3-Consolidated-Overview-EN-LINE-NUMBERS-2021-04-21.pdf) 
+4. **French Version with Line Numbers** [PDF avec NUMERO DE LIGNES](./PSP-CCP-V-1-3-Vue-D-Ensemble-Regroupee-NUMEROS-DE-LIGNE-FR-2021-04-21.pdf)
+5. **PSP PCTF Assessment Worksheet (2021-05-10)** [Excel Version Only](./PSP-PCTF-V-1.3-Assessment-Workbook-2021-05-10.xlsx)
 
 *Note: These documents are working drafts only (not yet endorsed by governance) and may change without notice.*
 ## Main Additions and Changes for Version 1.3 ## 
