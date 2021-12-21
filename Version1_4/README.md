@@ -12,33 +12,13 @@ Latest documents for download:
 ## Main Additions and Changes for Version 1.4 ## 
 
 
-### Summary of Main Changes ### 
-Updated the Consolidated Overview to address the following thematic issues:
-1.	Thematic Issue 1: Relationships. The development of a relationship model
-2.	Thematic Issue 2: Credentials. The development of a credential model
-
-Reviewed the PSP PCTF Conformance Criteria with the following objectives:
-
-1.	A global review and ‘refresh’ of the conformance criteria considering the most recent version of the PCTF. Many of the conformance criteria have been unchanged since PCTF Alpha version (c.2016) and are no longer appropriate. This includes removing criteria that are too prescriptive (certain tech) or are repetitive to what already exists in related guidance and standards (security, privacy, etc.)
-2.	Integration of organization and relationship entities and atomic processes into the conformance criteria. This involves reviewing the conformance criteria to determine if they can be applied to one or several of the entities, revising, removing, and adding criteria as appropriate
-
-* Note: In addition to the proposed changes,  iterations have been made as a result of the outcomes of two assessment processes (a provincial trusted digital identity assessment and a federal corporate register assessment)
-
-* Note: These documents are work-in-progress and are considered **Consultation Drafts** The filenames of latest document revisions are suffixed with (YYYY-MM-DD). A primer on the [Document Versioning Conventions](./PSP-PCTF-Versioning-Conventions.pdf)
-
-## Overview ##
-This version of the Public Sector Profile of the Pan-Canadian Trust Framework advances and integrates recent developments of digital credential and relationship models. It also includes the integration of conformance criteria for persons and organizations.
+### Summary of Changes to Version 1.4 ### 
+1. Version 1.4 is a continued refinement of the Public Sector Profile of the Pan-Canadian Trust Framework. While there are no major conceptual changes from Version 1.3, there are numberous refinements of definitions and descriptions and continued improvement of editorial and style consistency.
+2. Numerous changes were due to feedback received from the application of the PSP PCTF to trusted digital assessment and acceptance processes.
+3. Other changes resulted from providing input into the [National Standard of Canada, CAN/CIOSC 103-1, Digital trust and identity – Part 1: Fundamentals](https://ciostrategycouncil.com/standards/103_1_2020/)
 
 
-To facilitate the gathering and assessment of evidence, the conformance criteris are provided as a template in Word format :
-1. Enterprise (2021-04-21) [Word](./PSP-PCTF-Evidence-Assessment-Enterprise-2021-02-19docx)
-2. Identity (2021-04-21) [Word](./PSP-PCTF-Evidence-Assessment-Identity-2021-02-19.docx)
-3. Credential (2021-04-21) [Word](./PSP-PCTF-Evidence-Assessment-Credential-2021-02-19.docx)
-4. Consent (2021-04-21) (includes Notification and Signature) [Word](./PSP-PCTF-Evidence-Assessment-Consent-2021-02-19.docx)
 
-* Note: The above templates are provided as a convenience only and are not considered as part of the formal deliverables.
-
-A generic briefing deck is also available as a [PDF](https://github.com/canada-ca/PCTF-CCP/blob/master/Version1_3/Overview-of-Pan-Canadian%20Trust%20Framework.pdf)
 
 The **Assurance Level Assessment Tool** is [here](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/assurance-level-requirement/en/assurance-level-requirement.html)
 
