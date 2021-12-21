@@ -17,9 +17,8 @@ Latest documents for download:
 2. Numerous improvements have been made due to feedback incorporated from the application of the PSP PCTF to trusted digital identity assessment and acceptance processes.
 3. Other changes have resulted from review and providing input into the [National Standard of Canada, CAN/CIOSC 103-1, Digital trust and identity – Part 1: Fundamentals](https://ciostrategycouncil.com/standards/103_1_2020/)
 4. The PSP PCTF Assessment Workbook has been updated to reflect the latest changes.
+5. Comments are most welcome, using this [Request for Comment Worksheet](./PSP-PCTF-V1.4-REQUEST-FOR-COMMENTS.xlsx)
 
-
-The **Assurance Level Assessment Tool** is [here](https://canada-ca.github.io/gcdigital-tools_outils-numeriquesgc/views-vues/assurance-level-requirement/en/assurance-level-requirement.html)
 
 
 *[Open Government Licence](https://open.canada.ca/en/open-government-licence-canada)*
