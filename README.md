@@ -2,7 +2,7 @@
 
 ## Overview
 
-The latest update [PCTF Version 1.3 Consultation Draft for public review is now available](Version1_3/README.md)
+The latest update [PCTF Version 1.4 Consultation Draft for public review is now available](Version1_4/README.md)
 
 ![Pan-Canadian Trust Framework](./images/PCTF-V1_1_FINAL.png)
 
