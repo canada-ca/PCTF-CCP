@@ -5,7 +5,7 @@ Latest documents for download:
 1. **Public Sector Profile of the Pan-Canadian Trust Frameork Version 1.4 Consolidated Overview (2021-12-16)**  [PDF Version](./PSP-PCTF-V-1.4-Consolidated-Overview-EN-2021-12-16.pdf),  [Word Version](./PSP-PCTF-V1.4-Consolidated-Overview-EN-2021-12-16.docx) 
 2. **PSP PCTF Assessment Worksheet ENGLISH (2021-12-16)** [ENGLISH Excel](./PSP-PCTF-V1.4-Assessment-Workbook-EN-2021-12-16.xlsx)
 3. **LE PROFIL DU SECTEUR PUBLIC DU CADRE DE CONFIANCE PANCANADIEN** [PDF Version](PSP-CCP-V-1.4-Vue-D-Ensemble-Regroupee-FR-2021-12-16.pdf), [Word Version](PSP-CCP-V-1.4-Vue-D-Ensemble-Regroupee-FR-2021-12-16.docx) 
-4. **PSP PCTF Assessment Worksheet FRENCH (2021-12-16)** [FRENCH Excel](./PSP-PCTF-V1.4-Assessment-Workbook-FR-2021-12-16.xlsx)
+4. **PSP PCTF Assessment Worksheet FRENCH (2021-12-16)** [FRENCH Excel](./PSP-PCTF-V1.4-Cahier-D-Evaluation-FR-2021-12-16.xlsx)
 
 *Note: These documents are working drafts only (not yet endorsed by governance) and may change without notice.*
 ## Main Additions and Changes for Version 1.4 ## 
