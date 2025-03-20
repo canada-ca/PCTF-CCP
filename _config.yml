@@ -1,2 +1,5 @@
 include: [".htaccess", "README.md", "LICENCE.md"]
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
