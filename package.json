@@ -14,10 +14,10 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "chalk": "^3.0.0",
-    "eslint": "^7.32.0",
+    "eslint": "^10.7.0",
     "glob": "^7.1.6",
     "markdown-link-check": "^3.10.3",
-    "markdownlint-cli": "^0.32.2",
+    "markdownlint-cli": "^0.49.1",
     "vnu-jar": "^20.6.30"
   },
   "dependencies": {}
